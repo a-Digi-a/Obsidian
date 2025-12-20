@@ -104,7 +104,7 @@ Compound types can group multiple values into one type. Rust has two primitive c
 
 ## The Tuple Type
 
-A **tuple** is a way of grouping a number of values with a variety of types together. They have a fixed length, and cannot grow or shrink in size. We declare a tuple by putting the values inside a set of brackets, separated by commas, as shown below:
+A **tuple** is a way of grouping a number of values with a variety of types together. They have a **fixed length**, and **cannot** **grow** or **shrink** in size. We declare a tuple by putting the values inside a set of brackets, separated by commas, as shown below:
 
 ```rust
 fn main() {
@@ -112,6 +112,6 @@ fn main() {
 }
 ```
 
-We can extract the values from a tupole
+We can extract the values from a tuple two a
 
 ## The Array Type
