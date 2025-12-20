@@ -257,8 +257,7 @@
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b3c1f5a91bb50372",
