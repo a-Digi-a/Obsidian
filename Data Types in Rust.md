@@ -8,7 +8,8 @@ let x: u32 = 5;
 ```
 This code creates a variable **x** with the type **u32**.
 
-# Types Loca
+
+# Types Located on the [[Stack]]
 ## Scalar Types
 A **scalar** type represents a single value. Rust has 4 primitive scalar types: **integers**, **floating-point numbers**, **Booleans** and **characters**. 
 
@@ -167,3 +168,5 @@ fn main() {
 
 if you attempt to access an element outside of an arrays index, rust will output a runtime error.
 
+
+# Types Located on the [[Heap]]
