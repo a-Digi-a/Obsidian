@@ -140,4 +140,4 @@ Both of these code snippets do the exact same thing.
 
 ## The Array Type
 
-Similar to a **tuple**, an **array** is 
+Similar to a **tuple**, an **array** is a collection of multiple values with a fixed length. Unlike tuples, however, every element of an array must be of the **same type
