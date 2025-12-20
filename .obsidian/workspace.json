@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems.md",
+                "file": "Von Neumann Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating Systems"
+              "title": "Von Neumann Architecture"
             }
           }
         ],
@@ -387,6 +387,11 @@
   },
   "active": "bd1daf29d6f5fc1a",
   "lastOpenFiles": [
+    "Variables and Mutability in Rust.md",
+    "Rust.md",
+    "Python.md",
+    "Programming Languages.md",
+    "Operating Systems.md",
     "Networking.md",
     "Memory.md",
     "Functions in Rust.md",
@@ -395,12 +400,7 @@
     "Common Programming Concepts in Rust.md",
     "Cargo.md",
     "Binary.md",
-    "Operating Systems.md",
     "Von Neumann Architecture.md",
-    "Python.md",
-    "Programming Languages.md",
-    "Rust.md",
-    "Variables and Mutability in Rust.md",
     "README.md",
     "notes/README.md",
     "notes",
