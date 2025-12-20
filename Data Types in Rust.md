@@ -8,6 +8,7 @@ let x: u32 = 5;
 ```
 This code creates a variable **x** with the type **u32**.
 
+# Types Loca
 ## Scalar Types
 A **scalar** type represents a single value. Rust has 4 primitive scalar types: **integers**, **floating-point numbers**, **Booleans** and **characters**. 
 
@@ -40,7 +41,7 @@ The default type of integer is *i32*.
 
 An integer overflow is an error, and should be treated as such.
 
-## Floating-Point Types
+### Floating-Point Types
 
 A **floating point** number is a number with decimal points. They come in both *f32* and *f64* variants. The default type is *f64* because it is roughly the same speed as a *f32* on modern CPUs. All floating point types are signed.
 
@@ -51,7 +52,7 @@ let y: f32 = 4.5; // f32
 ```
 Notice how the floating point type **needs** to have a decimal point.
 
-## Mathematical Operations
+### Mathematical Operations
 Rust supports all of the basic mathematical operations you would expect: **addition**, **subtraction**, **multiplication**, **division** and **remainder/modulo**. This is shown in the code below:
 
 ```rust
@@ -74,7 +75,7 @@ fn main() {
 }
 ```
 
-## The Boolean Type
+### The Boolean Type
 
 The **Boolean** type has 2 possible values: **True** and **False**. They are one byte in size and are specified using bool, shown below:
 
@@ -86,7 +87,7 @@ fn main() {
 }
 ```
 
-## The Character Type
+### The Character Type
 
 The **char** type is the most primitive alphabetic type in rust. It is 4 bytes in size and it is specified with **single quotes**. The **char** type represents a Unicode scalar value, which can represent not only ASCII, but also other things such as emojis and Chinese/Japanese characters. An example is shown below:
 
@@ -98,11 +99,11 @@ fn main() {
 }
 ```
 
-# Compound Types
+## Compound Types
 
 Compound types can group multiple values into one type. Rust has two primitive compound types: **tuples** and **arrays**.
 
-## The Tuple Type
+### The Tuple Type
 
 A **tuple** is a way of grouping a number of values with a variety of types together. They have a **fixed length**, and **cannot** **grow** or **shrink** in size. We declare a tuple by putting the values inside a set of brackets, separated by commas, as shown below:
 
@@ -138,7 +139,7 @@ fn main() {
 
 Both of these code snippets do the exact same thing.
 
-## The Array Type
+### The Array Type
 
 Similar to a **tuple**, an **array** is a collection of multiple values with a fixed length. Unlike tuples, however, every element of an array must be of the **same type**. An array is declared using square brackets, and you can also specify its size and length:
 
