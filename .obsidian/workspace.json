@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Von Neumann Architecture.md",
+                "file": "Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Von Neumann Architecture"
+              "title": "Memory"
             }
           }
         ],
@@ -200,7 +200,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d1c66a5e5f7810ac",
+        "id": "0d5e1c84d4af2e41",
         "type": "tabs",
         "children": [
           {
@@ -214,23 +214,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "eb08053504228687",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#code",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -252,8 +235,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "eb08053504228687",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -385,14 +386,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd1daf29d6f5fc1a",
+  "active": "f8b24605a3a0d6bb",
   "lastOpenFiles": [
-    "Variables and Mutability in Rust.md",
-    "Rust.md",
-    "Python.md",
-    "Programming Languages.md",
-    "Operating Systems.md",
-    "Networking.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Memory.md",
     "Functions in Rust.md",
     "Drivers.md",
@@ -400,6 +397,12 @@
     "Common Programming Concepts in Rust.md",
     "Cargo.md",
     "Binary.md",
+    "Networking.md",
+    "Operating Systems.md",
+    "Programming Languages.md",
+    "Python.md",
+    "Rust.md",
+    "Variables and Mutability in Rust.md",
     "Von Neumann Architecture.md",
     "README.md",
     "notes/README.md",

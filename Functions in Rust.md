@@ -1,4 +1,4 @@
-#computing #code #programming #rust
+ #programming #rust
 
 # The main function 
 The main function, denoted by:
