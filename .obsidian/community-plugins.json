@@ -6,7 +6,7 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "vim-yank-highlight",
-  "omnisearch",
   "obsidian-tagfolder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex-suite"
 ]
