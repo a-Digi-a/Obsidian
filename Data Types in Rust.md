@@ -148,6 +148,7 @@ fn main() {
     
     let b: [i32: 5] = [1, 2, 3, 4, 5];
 	
-	let c = [3;5] // an arre 
+	let c = [3;5]; // an array of length 5 with all elements set to 3
+	// c = [3, 3, 3, 3, 3]; 
 }
 ```
