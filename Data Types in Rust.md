@@ -163,3 +163,7 @@ fn main() {
     let second = a[1];
 }
 ```
+
+if you attempt to access an element outside of an arrays index, rust will output a runtime error.
+
+# a
