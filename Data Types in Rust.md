@@ -1,4 +1,5 @@
-#code #programming #rust
+#computing #code #programming #rust
+
 
 Rust is a statically typed language, meaning that all data types of variables must be known at compile time.
 

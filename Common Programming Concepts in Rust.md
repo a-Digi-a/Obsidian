@@ -1,4 +1,4 @@
-#code #programming #rust
+#computing #code #programming #rust
 
 # [[Variables and Mutability in Rust]]
 

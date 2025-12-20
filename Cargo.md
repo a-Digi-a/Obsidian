@@ -1,4 +1,4 @@
-#code #programming #rust
+#computing #code #programming #rust
 
 # What is Cargo?
 Cargo is [[Rust]]'s build system and package manager. It is used to handle large projects as it downloads and builds [[libraries]], compiles and runs your code and much more!
