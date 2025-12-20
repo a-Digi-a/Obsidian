@@ -140,4 +140,12 @@ Both of these code snippets do the exact same thing.
 
 ## The Array Type
 
-Similar to a **tuple**, an **array** is a collection of multiple values with a fixed length. Unlike tuples, however, every element of an array must be of the **same type**.
+Similar to a **tuple**, an **array** is a collection of multiple values with a fixed length. Unlike tuples, however, every element of an array must be of the **same type**. An array is declared using square brackets, and you can also specify its size and length:
+
+```rust
+fn main() {
+    let a = [1, 2, 3, 4, 5];
+    
+    let a: [i32: 5] = [1, 2, 3 ]
+}
+```
