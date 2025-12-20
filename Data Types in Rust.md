@@ -112,6 +112,6 @@ fn main() {
 }
 ```
 
-
+We can extract the values from a tupole
 
 ## The Array Type
