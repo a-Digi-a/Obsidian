@@ -74,3 +74,5 @@ fn main() {
 }
 ```
 
+## The Boolean Type
+The **Boolean** type has 2 possible values: **True** and **False**
