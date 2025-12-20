@@ -75,4 +75,14 @@ fn main() {
 ```
 
 ## The Boolean Type
-The **Boolean** type has 2 possible values: **True** and **False**
+
+The **Boolean** type has 2 possible values: **True** and **False**. They are one byte in size and are specified using bool, shown below:
+
+```rust
+fn main() {
+    let t = true;
+
+    let f: bool = false; // with explicit type annotation
+}
+```
+
