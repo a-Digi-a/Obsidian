@@ -9,3 +9,4 @@ fn main() {
 ```
 is the entry point for your program, i.e..  it is what is run when you execute your program.
 
+# Defining a function
