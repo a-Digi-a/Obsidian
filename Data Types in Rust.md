@@ -152,3 +152,14 @@ fn main() {
 	// c = [3, 3, 3, 3, 3]; 
 }
 ```
+
+To access elements of an array we do array[n] : 
+
+```rust
+fn main() {
+    let a = [1, 2, 3, 4, 5];
+
+    let first = a[0];
+    let second = a[1];
+}
+```
