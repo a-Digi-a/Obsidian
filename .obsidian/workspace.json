@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,13 +217,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "263d87b678f15054",
+  "active": "9a254b6b58b1c0e4",
   "lastOpenFiles": [
+    "README.md",
+    "Variables and Mutability in Rust.md",
     "notes/README.md",
     "Data Types in Rust.md",
     "notes",
     "Common Programming Concepts in Rust.md",
-    "Variables and Mutability in Rust.md",
     "Rust.md",
     "Cargo.md",
     "Untitled.canvas",

@@ -1,2 +1,0 @@
-# Obsidian
-Digis Notes!
