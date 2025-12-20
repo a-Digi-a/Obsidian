@@ -104,6 +104,6 @@ Compound types can group multiple values into one type. Rust has two primitive c
 
 ## The Tuple Type
 
-
+A **tuple** is a way of grouping a number of values with a variety of types together. They have a fixed 
 
 ## The Array Type
