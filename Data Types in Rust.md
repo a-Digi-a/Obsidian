@@ -86,3 +86,5 @@ fn main() {
 }
 ```
 
+## The Character Type
+
