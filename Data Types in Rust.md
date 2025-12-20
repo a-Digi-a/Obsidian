@@ -136,5 +136,7 @@ fn main() {
 }
 ```
 
-Both of these ccode 
+Both of these code snippets do the exact same thing.
+
 ## The Array Type
+
