@@ -8,10 +8,10 @@ let x: u32 = 5;
 ```
 This code creates a variable **x** with the type **u32**.
 
-# Scalar Types
+## Scalar Types
 A **scalar** type represents a single value. Rust has 4 primitive scalar types: **integers**, **floating-point numbers**, **Booleans** and **characters**. 
 
-## Integer Types
+### Integer Types
 An **integer** is a whole number. It comes in 2 main types, **signed** and **unsigned**. A **signed** integer contains both **positive and negative** numbers, while an **unsigned** integer contains only positive numbers (including 0)
 
 
@@ -32,7 +32,7 @@ The *isize* and *usize* values depend on the architecture of the computer you ar
 
 The default type of integer is *i32*.
 
-### Integer Overflow
+#### Integer Overflow
 
   An **integer overflow** occurs when we try to use a value outside of the range of the integer.
   When an integer overflow occurs, it does something called **wrapping**. Imagine a portal on either side of the integer, if you go 1 above the amount it holds, it will go through the portal and start again.
@@ -166,4 +166,3 @@ fn main() {
 
 if you attempt to access an element outside of an arrays index, rust will output a runtime error.
 
-# a
