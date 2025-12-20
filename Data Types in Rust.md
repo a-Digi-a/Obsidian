@@ -88,3 +88,4 @@ fn main() {
 
 ## The Character Type
 
+The **char** type is the most primitive alphabetic type in rust. It is 4 bytes in size and is 
