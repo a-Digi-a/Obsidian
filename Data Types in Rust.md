@@ -9,7 +9,7 @@ let x: u32 = 5;
 This code creates a variable **x** with the type **u32**.
 
 # Scalar Types
-A **scalar** type represents a single value. Rust has 4 main scalar types: **integers**, **floating-point numbers**, **Booleans** and **characters**. 
+A **scalar** type represents a single value. Rust has 4 primitive scalar types: **integers**, **floating-point numbers**, **Booleans** and **characters**. 
 
 ## Integer Types
 An **integer** is a whole number. It comes in 2 main types, **signed** and **unsigned**. A **signed** integer contains both **positive and negative** numbers, while an **unsigned** integer contains only positive numbers (including 0)
@@ -88,4 +88,16 @@ fn main() {
 
 ## The Character Type
 
-The **char** type is the most primitive alphabetic type in rust. It is 4 bytes in size and it is specified with **single quotes**. The **char** type represents a Unicode scalar value, which can represent not only ASCII, but also other things such as emojis and chinese/japanese characters.
+The **char** type is the most primitive alphabetic type in rust. It is 4 bytes in size and it is specified with **single quotes**. The **char** type represents a Unicode scalar value, which can represent not only ASCII, but also other things such as emojis and Chinese/Japanese characters. An example is shown below:
+
+```rust
+fn main() {
+    let c = 'z';
+    let z: char = 'ℤ'; // with explicit type annotation
+    let heart_eyed_cat = '😻';
+}
+```
+
+# Compound Types
+
+Compound types can group multiple values into one type.
