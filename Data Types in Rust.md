@@ -112,6 +112,18 @@ fn main() {
 }
 ```
 
-We can extract the values from a tuple two a
+We can extract the values from a tuple two ways, as shown below:
+
+```rust
+fn main() {
+    let tup = (500, 6.4, 1);
+
+    let (x, y, z) = tup; // binds x to 500, y to 6.4, z to 1
+
+    println!("The value of y is: {y}");
+	
+	
+}
+```
 
 ## The Array Type
