@@ -128,9 +128,13 @@ fn main() {
 fn main() {
 	let tup = (500, 6.4, 1);
 	
-	let x = tup.0
-	let y = tup
+	let x = tup.0 // binds x to 500
+	let y = tup.1 // binds y to 6.4
+	let z = tup.2 // binds z to 1
+	
+    println!("The value of y is: {y}");
 }
 ```
 
+Both of these ccode 
 ## The Array Type
