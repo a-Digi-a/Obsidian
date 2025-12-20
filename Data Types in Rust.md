@@ -88,4 +88,4 @@ fn main() {
 
 ## The Character Type
 
-The **char** type is the most primitive alphabetic type in rust. It is 4 bytes in size and it is specified with **single quotes**. The **char** type represents a unicode scalar
+The **char** type is the most primitive alphabetic type in rust. It is 4 bytes in size and it is specified with **single quotes**. The **char** type represents a Unicode scalar value, which can represent not only ASCII, but also other things such as emojis and chinese/japanese characters.
