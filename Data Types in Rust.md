@@ -121,8 +121,15 @@ fn main() {
     let (x, y, z) = tup; // binds x to 500, y to 6.4, z to 1
 
     println!("The value of y is: {y}");
+}
+```
+
+```rust
+fn main() {
+	let tup = (500, 6.4, 1);
 	
-	
+	let x = tup.0
+	let y = tup
 }
 ```
 
