@@ -55,12 +55,16 @@ print(z) # prints 1
 ```
 # Local Variables
 
-Variables created inside of a [[scope]]/[[Functions in Python|function]] are local by default. This means that they are only valid **inside** that scope or function. For example:
+Variables created inside of a [[scope]]/[[Functions in Python|function]] are **local** by default. This means that they are only valid **inside** that scope or function. For example:
 ```python
 function():
+	x = 1 
+	print(x) #prints x 
+	break # scope ends, x is no longer valid
 	
+print(x) # program will have an error as x does not exist
 ```
 # Global Variables
 
-Variables created 
+Variables created outside of a [[scope]]/[[Functions in Python|function]] are **global**. This means that they can be used anywhere in the program, ev
 
