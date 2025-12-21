@@ -64,10 +64,11 @@ Both of these code snippets are the same.
 
 **Logical** **operators** are used to **combine** conditional statements:
 
+| **Operator** | **Description**                                      |
+| ------------ | ---------------------------------------------------- |
+| **and**      | *Returns True if **both** statements are True*       |
+| **or**       | *Returns True if **one** of the statements are true* |
+| **not**      | ***Reverses** the result*                            |
 
-| Operator | Description                                  |
-| -------- | -------------------------------------------- |
-| and      | Returns True if **both** statements are True |
-| or       |                                              |
-| not      |                                              |
-|          |                                              |
+# Identity Operators
+
