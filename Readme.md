@@ -15,9 +15,9 @@ These notes are designed for use with [Obsidian](https://obsidian.md/)
 
 # Further Usage
 - The notes are written in **markdown**, which you may be familiar with. 
-- Use **hashtags** followed by a space for headings: "#"
+- Use **hashtags** followed by a space for headings: "# Heading"
 - Multiple hashtags can be used for smaller/sub headings
-- Use **hashtags with no space** to put a tag on a note
+- Use **hashtags with no space** to put a tag on a note: \#tag!
 - Surround a note in **square brackets** to link to it: "\[[note]]"
 - Surround a word with **asterisks** to italicize it: "\*word\*"
 - Surround a word with **two asterisks** to make it bold: "\*\*word\*\*"
