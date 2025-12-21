@@ -53,3 +53,14 @@ print(x) # prints 1
 print(y) # prints 1
 print(z) # prints 1
 ```
+# Local Variables
+
+Variables created inside of a [[scope]]/[[Functions in Python|function]] are local by default. This means that they are only valid **inside** that scope or function. For example:
+```python
+function():
+	
+```
+# Global Variables
+
+Variables created 
+
