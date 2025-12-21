@@ -33,4 +33,23 @@ x = int(x) # x is now the integer 3, we can now to maths with it, etc.
 ```
 This is very useful, especially when it comes to getting user input and using it!
 
-# More co
+# More Ways of Assigning Values
+## Assigning Multiple Values at Once
+
+We can assign multiple values at once by:
+```python
+x, y, z = 1, "meow", 5.0
+print(x) # prints 1
+print(y) # prints meow
+print(z) # prints 5.0
+```
+
+## Assigning One Value to Multiple Variables
+
+We can assign one value to multiple variables by:
+```python
+x = y = z = 1
+print(x) # prints 1
+print(y) # prints 1
+print(z) # prints 1
+```
