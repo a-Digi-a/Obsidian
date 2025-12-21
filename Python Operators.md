@@ -94,8 +94,21 @@ print(x == y) # True
 
 **Membership operators** are used to test if a **sequence** is presented **in an object**
 
+| **Operator** | **Description**                                                                                 |
+| ------------ | ----------------------------------------------------------------------------------------------- |
+| **in**       | *Returns **True** if a sequence with the specified value **is** present in the **object** *     |
+| **not in**   | *Returns **True** if a sequence with the specified value is **not** present in the **object** * |
+```python
+fruits = ["apple", "banana", "cherry"]
 
-| Operator | Description                                                                                  |
-| -------- | -------------------------------------------------------------------------------------------- |
-| in       | Returns **True** if a **sequence** with the specified value **is** present in the **object** |
-| not in   | Returns **True** if a **sequence** with the specified value **is** present in the **object** |
+print("banana" in fruits) # True
+
+text = "Hello World"
+
+print("H" in text) # True
+print("hello" in text) # False
+print("z" not in text) # True
+```
+
+# Bitwise Operators
+
