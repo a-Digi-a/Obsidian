@@ -194,3 +194,23 @@ print(txt) # "The price is 59.00 euro"
 ```
 
 ## Escape Characters
+
+To insert illegal characters in a string, we use the escape character: *\\*
+```python
+string = "This is a \"quote\" in a string"
+```
+
+Here is a list of the escape characters:
+
+| Code | Result          |
+| ---- | --------------- |
+| \'   | Single Quote    |
+| \\   | Backslash       |
+| \n   | New Line        |
+| \r   | Carriage Return |
+| \t   | Tab             |
+| \b   | Backspace       |
+| \f   | Form Feed       |
+| \ooo | Octal value     |
+| \xhh | Hex value       |
+# Booleans
