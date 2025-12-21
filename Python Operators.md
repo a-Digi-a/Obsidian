@@ -38,13 +38,26 @@
 The **walrus operator** returns and assigns a value to a certain variable.
 You can use it as an inline assignment shown here:
 ```python
-x = some_variable
-if x > 10 and x < 50:
-	print("blah blah blah")
-```
-```python
-if (x := some_variable) > 10 and x < 50:
-	print("blah blah blah")
+# Without Walrus
+numbers = [2, 8, 0, 1, 1, 9, 7, 7]
+
+num_length = len(numbers)
+num_sum = sum(numbers)
+
+description = {
+    "length": num_length,
+    "sum": num_sum,
+    "mean": num_sum / num_length,
+}
+
+# With Walrus :=
+numbers = [2, 8, 0, 1, 1, 9, 7, 7]
+
+description = {
+    "length": (num_length := len(numbers)),
+    "sum": (num_sum := sum(numbers)),
+    "mean": num_sum / num_length,
+}
 ```
 Both of these code snippets are the same.
 
