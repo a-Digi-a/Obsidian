@@ -329,7 +329,17 @@ You can **append** an item to the end of the list with the **append** method:
 ```python
 a_list = [1, 2, 3]
 a_list.append(4)
+print(a_list) # [1, 2, 3, 4]
 ```
+
+You can also **append** items from other **lists** using **extend**:
+```python
+a_list = [1, 2, 3]
+b_list = [4, 5, 6]
+a_list.extend(b_list)
+print(a_list) # [1, 2, 3, 4, 5, 6]
+```
+This works with **any iterable object** such as **strings**, **tuples**, **dictionaries**, **sets**, **arrays**, etc.
 # Tuples
 
 # Sets
