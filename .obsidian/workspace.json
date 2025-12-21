@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "a0f9370515318829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme.md"
+            }
+          },
+          {
             "id": "48fec957e3c0284d",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Common Programming Concepts in Python"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Readme.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Readme.md"
             }
           }
         ]
@@ -178,11 +194,13 @@
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "b3c1f5a91bb50372",
+  "active": "a0f9370515318829",
   "lastOpenFiles": [
+    "Readme.md.md",
     "Python.md",
     "Variables in Python.md",
     "Data Types in Python.md",
@@ -199,7 +217,6 @@
     "Von Neumann Architecture.md",
     "Functions in Rust.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Data Types in Rust.md",
     "Binary.md",
     "README.md",
