@@ -93,4 +93,22 @@ def function():
 	
 function()
 
+print(x) # prints 3
+```
+
+To change the **global value** of x we can use the *global* keyword:
+
+```python
+x = 3
+
+def function():
+	global x
+	
+	x = x + 1 # x is now 4
+	print(x) # prints 4
+	# scope ends
+	
+function()
+
+print(x) # prints 4
 ```

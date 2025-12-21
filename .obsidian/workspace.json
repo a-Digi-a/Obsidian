@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variables in Python.md",
+                "file": "Common Programming Concepts in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables in Python"
+              "title": "Common Programming Concepts in Python"
             }
           }
         ],
@@ -274,7 +274,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8b24605a3a0d6bb",
+  "active": "b3c1f5a91bb50372",
   "lastOpenFiles": [
     "Common Programming Concepts in Python.md",
     "Python.md",
