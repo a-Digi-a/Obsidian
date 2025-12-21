@@ -310,7 +310,6 @@ print(a_list) # ["apple", "pear", "cherry"]
 ```
 
 
-
 # Tuples
 
 # Sets
