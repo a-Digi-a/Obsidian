@@ -265,7 +265,23 @@ z = a_list[2] # "cherry"
 ```
 Note how the **index** starts at *0*, not *1*
 
-## C
+## Changing the Items in a List
+
+We can **change** the items in a **list** by accessing them:
+```python
+a_list = ["apple", "bannana", "cherry"]
+
+a_list[1] = "pear"
+print(a_list) # ["apple", "pear", "cherry"]
+```
+
+## Lists with Multiple Data Types
+
+**Lists** can have **multiple data types** in them:
+```python
+a_list = ["apples", 1, True, 3.0]
+```
+
 
 # Tuples
 
