@@ -60,7 +60,7 @@ Variables created inside of a [[scope]]/[[Functions in Python|function]] are **l
 def function():
 	x = 1 
 	print(x) #prints x 
-	break # scope ends, x is no longer valid
+	# scope ends, x is no longer valid
 	
 function()
 	
