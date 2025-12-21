@@ -1,4 +1,4 @@
-#code #programming #rust
+#programming #rust
 
 # Standard Variables
 

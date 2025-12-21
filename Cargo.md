@@ -1,4 +1,4 @@
-#code #programming #rust
+  #programming #rust
 
 # What is Cargo?
 Cargo is [[Rust]]'s build system and package manager. It is used to handle large projects as it downloads and builds [[libraries]], compiles and runs your code and much more!
@@ -24,6 +24,8 @@ Inside the hello_cargo folder we will find a couple of things:
 - a target directory
 
 ## Building and Running a Cargo Project
+
+Cargo uses the rust [[compiler]] to turn rust code into machine code, i.e. code your computer can run.
 
 To build a cargo project we can run:
 ```shell
