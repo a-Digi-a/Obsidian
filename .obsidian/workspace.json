@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust.md",
+                "file": "Data Types in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "Data Types in Python"
             }
           },
           {
@@ -129,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Types in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Data Types in Python"
             }
           },
           {
@@ -230,12 +231,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3c1f5a91bb50372",
+  "active": "83d573fc40496cbf",
   "lastOpenFiles": [
+    "Common Programming Concepts in Python.md",
+    "Data Types in Python.md",
+    "Python.md",
     "Rust.md",
     "Cargo.md",
-    "Common Programming Concepts in Python.md",
-    "Python.md",
     "Variables in Python.md",
     "Variables and Mutability in Rust.md",
     "Common Programming Concepts in Rust.md",
@@ -264,7 +266,6 @@
     "Code/Rust/Untitled.md",
     "Code/Rust",
     "Code",
-    "Digis Notes/Test.md",
     "Digis Notes"
   ]
 }
