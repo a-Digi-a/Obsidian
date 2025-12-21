@@ -8,5 +8,8 @@
   "vim-yank-highlight",
   "obsidian-tagfolder",
   "obsidian-git",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "tag-wrangler",
+  "obsidian-style-settings",
+  "omnisearch"
 ]
