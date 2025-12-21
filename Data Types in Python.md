@@ -309,7 +309,19 @@ a_list[1] = "pear"
 print(a_list) # ["apple", "pear", "cherry"]
 ```
 
+You can also **change** **multiple** **items**:
+```python
+a_list = [1, 2, 3, 4]
+a_list[1:3] = ["apple", "orange"]
+print(a_list) # [1, "apple", "orange", 4]
+```
 
+## Adding Items to the List
+
+You can **add** items to the **list** by calling the **insert**() method:
+```python
+a_list = 
+```
 # Tuples
 
 # Sets
