@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Python"
+            }
+          },
+          {
+            "id": "ead480cd1fda2347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common Programming Concepts in Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common Programming Concepts in Python"
+            }
+          },
+          {
+            "id": "226afb59a137b050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Types in Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Types in Python"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md",
+                "file": "Data Types in Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Readme"
+              "title": "Outline of Data Types in Python"
             }
           }
         ]
@@ -198,14 +226,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "48fec957e3c0284d",
+  "active": "226afb59a137b050",
   "lastOpenFiles": [
+    "Common Programming Concepts in Python.md",
     "Python.md",
     "Readme.md",
     "note.md",
     "Variables in Python.md",
     "Data Types in Python.md",
-    "Common Programming Concepts in Python.md",
     "Rust.md",
     "Cargo.md",
     "Variables and Mutability in Rust.md",
