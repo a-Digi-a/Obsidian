@@ -244,7 +244,17 @@ The value **None** is **False**
 
 # Lists
 
-**Lists** are 
+**Lists** are used to store **multiple** **items** in one variable. They are **ordered**, the values and length **can** be changed and allow **duplicate** values.
+
+## Declaring a List
+
+A **list** can be **declared** using **square brackets**: *[]*
+```python
+a_list = ["apple", "bannana", "cherry"]
+```
+
+## Accessing the Items in a List
+
 
 # Tuples
 
