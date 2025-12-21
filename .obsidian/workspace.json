@@ -129,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Types in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Types in Python"
+              "title": "Backlinks"
             }
           },
           {
@@ -231,7 +230,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8b24605a3a0d6bb",
+  "active": "b3c1f5a91bb50372",
   "lastOpenFiles": [
     "Data Types in Python.md",
     "Common Programming Concepts in Python.md",

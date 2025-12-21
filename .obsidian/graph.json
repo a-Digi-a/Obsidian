@@ -18,7 +18,7 @@
       "query": "tag:#python  ",
       "color": {
         "a": 1,
-        "rgb": 3505063
+        "rgb": 2133199
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1387322393266603,
+  "scale": 0.13873223932666026,
   "close": false
 }
