@@ -137,18 +137,22 @@ print(bin(x)) # 0b110 -> String
 
 The **order** operators are used in from top to bottom are below:
 
-| Operator                                     | Description |
-| -------------------------------------------- | ----------- |
-| \*\*                                         | Par         |
-| +x, -x, ~x                                   |             |
-| \*, /, //, %                                 |             |
-| +, -                                         |             |
-| <<, >>                                       |             |
-| &                                            |             |
-| ^                                            |             |
-| \|                                           |             |
-| ==, !=, >, >=, <, <=, is, is not, in, not in |             |
-| not                                          |             |
-| and                                          |             |
-| or                                           |             |
-|                                              |             |
+| **Operator**                                     | **Description**                                       |
+| ------------------------------------------------ | ----------------------------------------------------- |
+| **()**                                           | *Parenthesis*                                           |
+| **\*\***                                         | *Exponentiation*                                        |
+| **+x, -x, ~x**                                   | *Unary plus, Unary minus, and bitwise NOT*              |
+| **\*, /, //, %**                                 | *Multiplication, Division, Floor Division, and Modulus* |
+| **+, -**                                         | *Addition and Subtraction*                              |
+| **<<, >>**                                       | *Bitwise left and right shift*                          |
+| **&**                                            | *Bitwise AND*                                           |
+| **^**                                            | *Bitwise XOR*                                           |
+| **\|**                                           | *Bitwise OR*                                            |
+| **==, !=, >, >=, <, <=, is, is not, in, not in** | *Comparisons, Identity and Membership Operators*        |
+| **not**                                          | *Logical NOT*                                           |
+| **and**                                          | *AND*                                                   |
+| **or**                                           | *OR*                                                    |
+
+The **unary plus and minus** are when i sign precedes a variable/number such as: -1, -x, +z
+
+If two operators have the **same order**, then the expression is evaluated from **left to right**
