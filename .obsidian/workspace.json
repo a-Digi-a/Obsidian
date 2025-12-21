@@ -178,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Types in Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Types in Python"
+              "title": "Outline"
             }
           }
         ]
@@ -226,14 +225,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "226afb59a137b050",
+  "active": "b3c1f5a91bb50372",
   "lastOpenFiles": [
+    "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
     "Python.md",
     "Readme.md",
     "note.md",
     "Variables in Python.md",
-    "Data Types in Python.md",
     "Rust.md",
     "Cargo.md",
     "Variables and Mutability in Rust.md",
