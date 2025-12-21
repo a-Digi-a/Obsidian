@@ -113,15 +113,19 @@ print("z" not in text) # True
 # Bitwise Operators
 
 
-| Operator | Name                 | Description                                         |
-| -------- | -------------------- | --------------------------------------------------- |
-| &        | AND                  | Sets each bit to 1 if **both** bits are 1           |
-| \|       | OR                   | Sets each bit to 1 if **one** of two bits is 1      |
-| ^        | XOR                  | Sets each bit to 1 if **only one** of two bits is 1 |
-| ~        | NOT                  | **Inverts** all the bits                            |
-| <<       | Zero fill left shift |                                                     |
-| >>       | Signed right shift   |                                                     |
+| **Operator** | **Name**                 | **Description**                                                                                                                 |
+| ------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| **&**        | **AND**                  | *Sets each bit to 1 if **both** bits are 1*                                                                                     |
+| **\|**       | **OR**                   | *Sets each bit to 1 if **one** of two bits is 1*                                                                                |
+| **^**        | **XOR**                  | *Sets each bit to 1 if **only one** of two bits is 1*                                                                           |
+| **~**        | **NOT**                  | * **Inverts** all the bits*                                                                                                     |
+| **<<**       | **Zero fill left shift** | *Shift left by **pushing** **zeros** **in** from the **right** and let the leftmost bits fall off (e.g. x << 2)*                |
+| **>>**       | **Signed right shift**   | *Shift right by **pushing copies of the leftmost bit** in from the **left**, and let the rightmost bits fall off (e.g. x >> 2)* |
+## Example
 
+The binary representation of **6** is *0110*
+The binary representation of **3** is *0011*
+6 & 3 = *0010* = **2** in decimal
 ## The bin() Function
 The **bin**() function can be used to see the **binary** **form** of an **integer** prefixed with *0b*:
 ```python
