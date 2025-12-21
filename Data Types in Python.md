@@ -130,8 +130,8 @@ print(string.split(",")) # ['Hello', ' World']
 
 Here is a list of all string methods:
 
-| **Method**         | **Description**                                                                               |
-| ------------------ | --------------------------------------------------------------------------------------------- |
+| **Method**         | **Description**                                                                                 |
+| ------------------ | ----------------------------------------------------------------------------------------------- |
 | **capitalize**()   | *Converts the first character to upper case*                                                    |
 | **casefold**()     | *Converts string into lower case*                                                               |
 | **center**()       | *Returns a centered string*                                                                     |
