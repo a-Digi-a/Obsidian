@@ -1,4 +1,0 @@
-#computing 
-WIP
-[[Linux]]
-[[Windows]]
