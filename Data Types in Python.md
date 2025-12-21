@@ -95,21 +95,32 @@ print(string.upper()) # "HELLO WORLD!"
 The lower() method returns the string in lower case:
 ```python
 string = "Hello World!"
-print(string.lower()) # hello world!
+print(string.lower()) # "hello world!"
 ```
 
 The strip() method removes the whitespace around the string:
 ```python
 string = " Hello World! "
-print(string.strip()) # Hello World
+print(string.strip()) # "Hello World!"
 ```
-The upper() method returns the string in upper case:
+
+The replace() method replaces the characters in a string:
 ```python
 string = "Hello World!"
-print(string.upper()) # HELLO WORLD
+print(string.replace("H", "J")) # "Jello World!"
 ```
-The upper() method returns the string in upper case:
+
+The split() method splits the string if it finds the seperator:
 ```python
-string = "Hello World!"
-print(string.upper()) # HELLO WORLD
+string = "Hello, World!"
+print(string.split(",")) # ['Hello', ' World']
+```
+
+## String Concatenation
+
+To **concatenate** (combine) 2 strings you can add them together:
+```python
+a = "Hello"
+b = "World"
+c = a + b # H
 ```
