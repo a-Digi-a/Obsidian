@@ -255,7 +255,15 @@ a_list = ["apple", "bannana", "cherry"]
 
 ## Accessing the Items in a List
 
+**List** items can be accessed with the following syntax: **list**[i]
+```python
+a_list = ["apple", "bannana", "cherry"]
 
+x = a_list[0] # "apple"
+y = a_list[1] # "bannana"
+z = a_list[2] # "cherry"
+```
+Note how the **index** starts at *0*, not *1*
 # Tuples
 
 # Sets
