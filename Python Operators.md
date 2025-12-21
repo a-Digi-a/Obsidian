@@ -90,3 +90,12 @@ print(x is y) # False
 print(x == y) # True
 ```
 
+# Membership Operators
+
+**Membership operators** are used to test if a **sequence** is presented **in an object**
+
+
+| Operator | Description                                                                                  |
+| -------- | -------------------------------------------------------------------------------------------- |
+| in       | Returns **True** if a **sequence** with the specified value **is** present in the **object** |
+| not in   | Returns **True** if a **sequence** with the specified value **is** present in the **object** |
