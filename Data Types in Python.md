@@ -133,4 +133,10 @@ Formatting strings allow you to add curly brackets as a placeholder for variable
 name = "Jim"
 x = f"My name is {Jim}"
 ```
-a 
+A placeholder can contain variables, operations and functions.
+
+A placeholder can have a **modifier** to format the value:
+```python
+price = 59.95
+
+```
