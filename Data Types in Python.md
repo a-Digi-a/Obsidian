@@ -276,6 +276,14 @@ Any list, tuple, set and dictionaries are **True**, except for **empty ones**
 ## The Walrus Operator
 
 The **walrus operator** returns and assigns a value to a certain variable:
+```python
+x = some_variable
+if x > 10 and x <50:
+	print("blah blah blah")
+```
+```python
+if (x :=)
+```
 
 
 
