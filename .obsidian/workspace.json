@@ -113,7 +113,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Readme"
             }
           }
         ]
@@ -196,11 +198,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b3c1f5a91bb50372",
+  "active": "48fec957e3c0284d",
   "lastOpenFiles": [
+    "Python.md",
     "Readme.md",
     "note.md",
-    "Python.md",
     "Variables in Python.md",
     "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
