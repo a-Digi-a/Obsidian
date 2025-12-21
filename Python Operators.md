@@ -72,3 +72,9 @@ Both of these code snippets are the same.
 
 # Identity Operators
 
+**Identity Operators** are used to compare objects, not if they are equal but if they are the same object with the same memory location.
+
+
+| O   |     |
+| --- | --- |
+|     |     |
