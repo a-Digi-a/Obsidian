@@ -41,5 +41,21 @@ x = float(x)
 Complex numbers are written with a *j* as the imaginary part:
 ```python
 x = 3+5j
-y = 
+y = 5j
+z = -5j
 ```
+
+You can cast to a complex using:
+```python
+x = complex(x)
+```
+
+# Strings
+
+Strings in python are surrounded by either single or double quotes:
+```python
+x = "hi"
+y = 'hello'
+```
+
+You can use quotes inside of a strin
