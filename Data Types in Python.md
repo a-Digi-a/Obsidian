@@ -52,10 +52,16 @@ x = complex(x)
 
 # Strings
 
-Strings in python are surrounded by either single or double quotes:
+**Strings** in python are surrounded by either **single** *or* **double** quotes:
 ```python
 x = "hi"
 y = 'hello'
 ```
 
-You can use quotes inside of a strin
+You can access the characters in a string using:
+```python
+string = "a string"
+y = x[0] # "a"
+z = x[0] # "a"
+y = x[0] # "a"
+```
