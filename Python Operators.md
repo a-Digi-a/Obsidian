@@ -14,6 +14,8 @@
 
 # Assignment Operators
 
+**Assigns** the value on the right onto the value on the left
+
 | **Operator** | **Example**     | **Same As**         |
 | ------------ | --------------- | ------------------- |
 | **=**        | *x = 5*         | *x = 5*             |
@@ -68,13 +70,23 @@ Both of these code snippets are the same.
 | ------------ | ---------------------------------------------------- |
 | **and**      | *Returns True if **both** statements are True*       |
 | **or**       | *Returns True if **one** of the statements are true* |
-| **not**      | ***Reverses** the result*                            |
+| **not**      | * **Reverses** the result*                           |
 
 # Identity Operators
 
 **Identity Operators** are used to compare objects, not if they are equal but if they are the same object with the same memory location.
 
+| *Operator* | *Description*                                                         |
+| ---------- | --------------------------------------------------------------------- |
+| *is*       | *Returns **True** if both variables are the **same object** *         |
+| *is not*   | *Returns **True** if both variables are **not** the **same object** * |
+```python
+x = ["apple", "banana"]
+y = ["apple", "banana"]
+z = x
 
-| O   |     |
-| --- | --- |
-|     |     |
+print(x is z) # True
+print(x is y) # False
+print(x == y) # True
+```
+
