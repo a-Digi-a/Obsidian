@@ -112,23 +112,15 @@
       {
         "id": "76baf2f0aefc78d5",
         "type": "tabs",
+        "dimension": 65.22593320235757,
         "children": [
-          {
-            "id": "b3c1f5a91bb50372",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
           {
             "id": "895f91c3fa6e76b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Types in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Data Types in Python"
             }
           },
           {
@@ -210,6 +202,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "8a2980e80e878cb4",
+        "type": "tabs",
+        "dimension": 34.77406679764244,
+        "children": [
+          {
+            "id": "b3c1f5a91bb50372",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,11 +239,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3c1f5a91bb50372",
+  "active": "83d573fc40496cbf",
   "lastOpenFiles": [
+    "Python.md",
     "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
-    "Python.md",
     "Rust.md",
     "Cargo.md",
     "Variables in Python.md",
