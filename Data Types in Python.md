@@ -320,7 +320,15 @@ print(a_list) # [1, "apple", "orange", 4]
 
 You can **add** items to the **list** by calling the **insert**() method:
 ```python
-a_list = 
+a_list = [1, 2, 4]
+a_list.insert(2, 3) # insert(index, item)
+print(a_list) # [1, 2, 3, 4]
+```
+
+You can **append** an item to the end of the list with the **append** method:
+```python
+a_list = [1, 2, 3]
+a_list.append(4)
 ```
 # Tuples
 
