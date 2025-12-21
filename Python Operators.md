@@ -112,3 +112,14 @@ print("z" not in text) # True
 
 # Bitwise Operators
 
+
+| Operator | Name | Des |
+| -------- | ---- | --- |
+|          |      |     |
+
+## The bin() Function
+The **bin**() function can be used to see the **binary** **form** of an **integer** prefixed with *0b*:
+```python
+x = 6
+print(bin(x)) # 0b110 -> String
+```
