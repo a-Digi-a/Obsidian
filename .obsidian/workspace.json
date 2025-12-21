@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd1daf29d6f5fc1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "5d24a6c493311fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
             "id": "83d573fc40496cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Programming Concepts in Python.md",
+                "file": "Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Programming Concepts in Python"
-            }
-          },
-          {
-            "id": "791e9884b7d41585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
+              "title": "Rust"
             }
           },
           {
@@ -77,8 +35,7 @@
               "title": "Common Programming Concepts in Python"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Types in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Types in Rust"
+              "title": "Backlinks"
             }
           },
           {
@@ -276,12 +232,13 @@
   },
   "active": "b3c1f5a91bb50372",
   "lastOpenFiles": [
+    "Rust.md",
+    "Cargo.md",
     "Common Programming Concepts in Python.md",
     "Python.md",
     "Variables in Python.md",
     "Variables and Mutability in Rust.md",
     "Common Programming Concepts in Rust.md",
-    "Rust.md",
     "Programming Languages.md",
     "Networking.md",
     "Operating Systems.md",
@@ -292,7 +249,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "Data Types in Rust.md",
-    "Cargo.md",
     "Binary.md",
     "README.md",
     "notes/README.md",

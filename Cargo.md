@@ -25,6 +25,8 @@ Inside the hello_cargo folder we will find a couple of things:
 
 ## Building and Running a Cargo Project
 
+Cargo uses the rust [[compiler]] to turn rust code into machine code, i.e. code your computer can run.
+
 To build a cargo project we can run:
 ```shell
 cargo build
