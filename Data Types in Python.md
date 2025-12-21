@@ -244,7 +244,7 @@ The value **None** is **False**
 
 # Lists
 
-**Lists** are used to store **multiple** **items** in one variable. They are **ordered**, the values and length **can** be changed and allow **duplicate** values.
+**Lists** are used to store **multiple** **items** in one variable. They are **ordered**, the values and length **can** be changed and allow **duplicate** values. The **items** in a list can be **different** data types.
 
 ## Declaring a List
 
@@ -264,6 +264,9 @@ y = a_list[1] # "bannana"
 z = a_list[2] # "cherry"
 ```
 Note how the **index** starts at *0*, not *1*
+
+## C
+
 # Tuples
 
 # Sets
