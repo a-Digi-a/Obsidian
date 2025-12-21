@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variables in Python.md",
+                "file": "Data Types in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables in Python"
+              "title": "Data Types in Python"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variables in Python.md",
+                "file": "Data Types in Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Variables in Python"
+              "title": "Outline of Data Types in Python"
             }
           },
           {
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variables in Python.md",
+                "file": "Data Types in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Variables in Python"
+              "title": "Backlinks for Data Types in Python"
             }
           },
           {
@@ -154,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variables in Python.md",
+                "file": "Data Types in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Variables in Python"
+              "title": "Outgoing links from Data Types in Python"
             }
           },
           {
@@ -226,11 +225,12 @@
   },
   "active": "ead480cd1fda2347",
   "lastOpenFiles": [
+    "Variables in Python.md",
+    "python da.md",
     "Common Programming Concepts in Python.md",
     "Python.md",
     "Python Operators.md",
     "Data Types in Python.md",
-    "Variables in Python.md",
     "Readme.md",
     "Data Types in Rust.md",
     "Binary.md",
@@ -253,7 +253,6 @@
     "Untitled.canvas",
     "The Rust Book.md",
     "1.1 Installation.md",
-    "Rust Book Chapter 1.md",
     "The Rust Book.md~",
     "Rust.md~",
     "Rust Book Chapter 1.md~",

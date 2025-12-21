@@ -1,4 +1,4 @@
- #programming #python #semester-1 
+#programming #python #semester-1 
 
 # Declaring a Variable
 

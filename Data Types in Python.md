@@ -244,3 +244,10 @@ The value **None** is **False**
 
 # Lists
 
+
+# Tuples
+
+# Sets
+
+# Dictionaries
+ 
