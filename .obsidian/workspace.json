@@ -84,7 +84,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ead480cd1fda2347",
+  "active": "f8b24605a3a0d6bb",
   "lastOpenFiles": [
     "Variables in Python.md",
     "python da.md",
