@@ -293,15 +293,15 @@ Both of these code snippets are the same.
 
 **Comparison Operators** return **True** or **False**:
 
-
 | **Operator** | **Name**                   |
 | ------------ | -------------------------- |
-| **==**           | *Equal To*                 |
-| **!=**           | *Not Equal To*             |
-| **>**            | *Greater Than*             |
-| **<**            | *Less Than*                |
-| **>=**           | *Greater Than or Equal To* |
-| **<=**           | *Less Than or Equal To*    |
+| **==**       | *Equal To*                 |
+| **!=**       | *Not Equal To*             |
+| **>**        | *Greater Than*             |
+| **<**        | *Less Than*                |
+| **>=**       | *Greater Than or Equal To* |
+| **<=**       | *Less Than or Equal To*    |
+
 
 
 # Lists
