@@ -240,6 +240,7 @@ Any string is **True**, except **empty** **strings**
 Any number is **True**, except for **0**
 Any list, tuple, set and dictionaries are **True**, except for **empty ones**
 
+The value **None** is **False**
 # Operators
 
 ## Arithmetic Operators
@@ -278,15 +279,18 @@ Any list, tuple, set and dictionaries are **True**, except for **empty ones**
 The **walrus operator** returns and assigns a value to a certain variable:
 ```python
 x = some_variable
-if x > 10 and x <50:
+if x > 10 and x < 50:
 	print("blah blah blah")
 ```
 ```python
-if (x :=)
+if (x := some_variable) > 10 and < 50:
+	print("blah blah blah")
 ```
+Both of these code snippets are the same.
 
 
+## Comparison Operators
 
+**Comparison Operators** return **True** or **False** 
 
 # Lists
-The value **None** is **False**
