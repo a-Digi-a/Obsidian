@@ -60,3 +60,5 @@ Both of these code snippets are the same.
 | **>=**       | *Greater Than or Equal To* |
 | **<=**       | *Less Than or Equal To*    |
 
+# Logical Operators
+
