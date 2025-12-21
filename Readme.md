@@ -5,7 +5,7 @@ These notes are designed for use with [Obsidian](https://obsidian.md/)
 ## Installation
 
 - After you've installed obsidian, download the notes by clicking the **green code button** in the top right, then download as zip
-- Extract the zip file, then open the folder in obsidian
+- Extract the zip file, then open the folder "Digis Notes!" in obsidian
 - This also works on mobile
 ## How to Use
 
