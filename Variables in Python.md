@@ -57,14 +57,40 @@ print(z) # prints 1
 
 Variables created inside of a [[scope]]/[[Functions in Python|function]] are **local** by default. This means that they are only valid **inside** that scope or function. For example:
 ```python
-function():
+def function():
 	x = 1 
 	print(x) #prints x 
 	break # scope ends, x is no longer valid
+	
+function()
 	
 print(x) # program will have an error as x does not exist
 ```
 # Global Variables
 
-Variables created outside of a [[scope]]/[[Functions in Python|function]] are **global**. This means that they can be used anywhere in the program, ev
+Variables created outside of a [[scope]]/[[Functions in Python|function]] are **global**. This means that they can be used anywhere in the program, inside or outside of functions.
 
+for example:
+```python
+x = 5
+
+def function():
+	y = x + 1 # y is 6
+	print(y) # prints 6
+	print(x) # prints 5
+	
+function()
+```
+
+However, when we change the value of a global variable inside of a function, it is **not** changed outside of the function:
+```python
+x = 3
+
+def function():
+	x = x + 1 # x is now 4
+	print(x) # prints 4
+	# scope ends
+	
+function()
+
+```
