@@ -112,41 +112,8 @@
       {
         "id": "76baf2f0aefc78d5",
         "type": "tabs",
-        "dimension": 65.22593320235757,
+        "dimension": 51.57170923379175,
         "children": [
-          {
-            "id": "895f91c3fa6e76b5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Python.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Python"
-            }
-          },
-          {
-            "id": "5edb18532c8a9231",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Python.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Python"
-            }
-          },
           {
             "id": "5fb6650764cfcb54",
             "type": "leaf",
@@ -163,51 +130,25 @@
             }
           },
           {
-            "id": "2758def94a2b270c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "1a5dbf37a67e2d44",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Types in Rust.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Types in Rust"
-            }
-          },
-          {
-            "id": "25d6c9686928f186",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8a2980e80e878cb4",
         "type": "tabs",
-        "dimension": 34.77406679764244,
+        "dimension": 48.42829076620826,
         "children": [
           {
             "id": "b3c1f5a91bb50372",
@@ -240,12 +181,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83d573fc40496cbf",
+  "active": "b3c1f5a91bb50372",
   "lastOpenFiles": [
+    "Python.md",
     "Variables in Python.md",
     "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
-    "Python.md",
     "Rust.md",
     "Cargo.md",
     "Variables and Mutability in Rust.md",
