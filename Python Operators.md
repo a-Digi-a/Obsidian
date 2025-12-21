@@ -1,11 +1,9 @@
  #programming #python #semester-1 
  
-# Operators
+# Arithmetic Operators
 
-## Arithmetic Operators
-
-| **Operator** | **Name**                    |
-| ------------ | --------------------------- |
+| **Operator** | **Name**                      |
+| ------------ | ----------------------------- |
 | **+**        | *Addition*                    |
 | **-**        | *Subtraction*                 |
 | **\***       | *Multiplication*              |
@@ -14,10 +12,10 @@
 | **\*\***     | *Exponentiation (Power)*      |
 | **//**       | *Floor Division (Round Down)* |
 
-## Assignment Operators
+# Assignment Operators
 
-| **Operator** | **Example**   | **Same As**       |
-| ------------ | ------------- | ----------------- |
+| **Operator** | **Example**     | **Same As**         |
+| ------------ | --------------- | ------------------- |
 | **=**        | *x = 5*         | *x = 5*             |
 | **+=**       | *x +=3*         | *x = x + 3*         |
 | **-=**       | *x -= 3*        | *x = x -3*          |
@@ -33,9 +31,10 @@
 | **<<=**      | *x <<= 3*       | *x = x << 3*        |
 | **:=**       | *print(x := 3)* | *x = 3<br>print(x)* |
 
-## The Walrus Operator
+# The Walrus Operator
 
-The **walrus operator** returns and assigns a value to a certain variable:
+The **walrus operator** returns and assigns a value to a certain variable.
+You can use it as an inline assignment shown here:
 ```python
 x = some_variable
 if x > 10 and x < 50:
@@ -48,7 +47,7 @@ if (x := some_variable) > 10 and < 50:
 Both of these code snippets are the same.
 
 
-## Comparison Operators
+# Comparison Operators
 
 **Comparison Operators** return **True** or **False**:
 
