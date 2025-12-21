@@ -137,6 +137,6 @@ A placeholder can contain variables, operations and functions.
 
 A placeholder can have a **modifier** to format the value:
 ```python
-price = 59.95
+price = 59
 
 ```
