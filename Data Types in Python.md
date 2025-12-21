@@ -342,8 +342,15 @@ print(a_list) # [1, 2, 3, 4, 5, 6]
 This works with **any iterable object** such as **strings**, **tuples**, **dictionaries**, **sets**, **arrays**, etc.
 ## Removing List Items
 
+
 ## Checking if an Item is in a List
 
+We can use the **in** keyword to check if an item is in a **list**:
+```python
+a_list = ["apple", "orange", "cherry"]
+if "apple" in a_list:
+	print("blah blah blah")
+```
 
 # Tuples
 
