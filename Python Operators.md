@@ -132,3 +132,23 @@ The **bin**() function can be used to see the **binary** **form** of an **intege
 x = 6
 print(bin(x)) # 0b110 -> String
 ```
+
+# Order of Operations
+
+The **order** operators are used in from top to bottom are below:
+
+| Operator                                     | Description |
+| -------------------------------------------- | ----------- |
+| \*\*                                         | Par         |
+| +x, -x, ~x                                   |             |
+| \*, /, //, %                                 |             |
+| +, -                                         |             |
+| <<, >>                                       |             |
+| &                                            |             |
+| ^                                            |             |
+| \|                                           |             |
+| ==, !=, >, >=, <, <=, is, is not, in, not in |             |
+| not                                          |             |
+| and                                          |             |
+| or                                           |             |
+|                                              |             |
