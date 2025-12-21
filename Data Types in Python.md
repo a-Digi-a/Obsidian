@@ -242,6 +242,18 @@ Any list, tuple, set and dictionaries are **True**, except for **empty ones**
 
 # Operators
 
+## Arithmetic Operators
+
+| Operator | Name                        |
+| -------- | --------------------------- |
+| +        | Addition                    |
+| -        | Subtraction                 |
+| \*       | Multiplication              |
+| /        | Division                    |
+| %        | Modulus (Remainder)         |
+| \*\*     | Exponentiation (Power)      |
+| //       | Floor Division (Round Down) |
+
 
 
 # Lists
