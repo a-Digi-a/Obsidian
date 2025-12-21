@@ -19,6 +19,6 @@ These notes are designed for use with [Obsidian](https://obsidian.md/)
 - Multiple hashtags can be used for smaller/sub headings
 - Use **hashtags with no space** to put a tag on a note
 - Surround a note in **square brackets** to link to it: "\[[note]]"
-- Surround a word with **asterisks** to italicize it: "\*"
-- Surround a word with **two asterisks** to make it bold: "\*\*"
+- Surround a word with **asterisks** to italicize it: "\*word\*"
+- Surround a word with **two asterisks** to make it bold: "\*\*word\*\*"
 - You can search up other intricacies on your own, this is what I mostly use!

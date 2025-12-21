@@ -149,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Readme"
+              "title": "Outline"
             }
           }
         ]
@@ -197,10 +196,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "48fec957e3c0284d",
+  "active": "b3c1f5a91bb50372",
   "lastOpenFiles": [
-    "note.md",
     "Readme.md",
+    "note.md",
     "Python.md",
     "Variables in Python.md",
     "Data Types in Python.md",
