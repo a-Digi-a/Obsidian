@@ -113,9 +113,14 @@ print("z" not in text) # True
 # Bitwise Operators
 
 
-| Operator | Name | Des |
-| -------- | ---- | --- |
-|          |      |     |
+| Operator | Name                 | Description                                         |
+| -------- | -------------------- | --------------------------------------------------- |
+| &        | AND                  | Sets each bit to 1 if **both** bits are 1           |
+| \|       | OR                   | Sets each bit to 1 if **one** of two bits is 1      |
+| ^        | XOR                  | Sets each bit to 1 if **only one** of two bits is 1 |
+| ~        | NOT                  | **Inverts** all the bits                            |
+| <<       | Zero fill left shift |                                                     |
+| >>       | Signed right shift   |                                                     |
 
 ## The bin() Function
 The **bin**() function can be used to see the **binary** **form** of an **integer** prefixed with *0b*:
