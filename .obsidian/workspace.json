@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Types in Python.md",
+                "file": "Drivers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types in Python"
+              "title": "Drivers"
             }
           }
         ],
@@ -141,8 +141,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,12 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Drivers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Drivers"
             }
           }
         ]
@@ -225,7 +225,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b3c1f5a91bb50372",
+  "active": "226afb59a137b050",
   "lastOpenFiles": [
     "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
