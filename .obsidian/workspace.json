@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Programming Concepts in Python.md",
+                "file": "Data Types in Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Common Programming Concepts in Python"
+              "title": "Outline of Data Types in Python"
             }
           }
         ]
@@ -237,13 +237,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8cc187010a11ffd5",
+  "active": "ead480cd1fda2347",
   "lastOpenFiles": [
+    "Common Programming Concepts in Python.md",
     "Python.md",
     "Readme.md",
     "Data Types in Python.md",
     "Python Operators.md",
-    "Common Programming Concepts in Python.md",
     "Data Types in Rust.md",
     "Binary.md",
     "Drivers.md",
