@@ -73,6 +73,16 @@ x = "string"
 print(len(string)) # 6
 ```
 
+## Multiline Strings
+
+You can write a **multiline string** with 3 sets of quotes:
+```python
+print(""" hi
+this is a multiline
+string
+bye """)
+```
+
 ## String Slicing
 
 We can return a range of characters from a string:
@@ -341,6 +351,7 @@ print(a_list) # [1, 2, 3, 4, 5, 6]
 ```
 This works with **any iterable object** such as **strings**, **tuples**, **dictionaries**, **sets**, **arrays**, etc.
 ## Removing List Items
+
 
 
 ## Checking if an Item is in a List
