@@ -340,6 +340,11 @@ a_list.extend(b_list)
 print(a_list) # [1, 2, 3, 4, 5, 6]
 ```
 This works with **any iterable object** such as **strings**, **tuples**, **dictionaries**, **sets**, **arrays**, etc.
+## Removing List Items
+
+## Checking if an Item is in a List
+
+
 # Tuples
 
 # Sets
