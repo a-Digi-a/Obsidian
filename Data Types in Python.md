@@ -301,7 +301,7 @@ print(a_list[-4:-1])
 ```
 ## Changing the Items in a List
 
-We can **change** the items in a **list** by accessing them:
+You can **change** the items in a **list** by accessing them:
 ```python
 a_list = ["apple", "bannana", "cherry"]
 
