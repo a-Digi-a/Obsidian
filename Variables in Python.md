@@ -8,4 +8,21 @@ x = 5 # x is assigned the value 5
 y = "meow" # y is assigned the value meow
 ```
 
-We can also overwrite variables valu
+We can also overwrite variable values:
+```python
+x = 5
+x = "meow"
+# This is valid code
+```
+
+# Casting
+
+Casting is when we specify data type of a variable. This can be done with the following syntax:
+```python
+x = str(3) # x will be '3'
+y = int(3) # y will be 3
+z = float(3) # z will be 3.0
+```
+This functionality is not very useful as python **implicitly** guesses the type of variables, however it has **another** use:
+
+Casting can be used to **change** the data type of a variable:
