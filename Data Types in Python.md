@@ -286,9 +286,18 @@ print(a_list[-2]) # 1
 We can specify a **range** of indexes:
 ```python
 a_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(a_list[2:5]) # from index 2 (inclusive) to index 5 (exclusive) - > [3, 4, 5]
-print(a_list[:5]) # from the start to index 5 (exclusive) -> [1, 2, 3, 4, 5]
-print(a_list[5:]) # from index 5 (inclusive) to the end of the list -> [6, 7, 8, 9, 10]
+
+print(a_list[2:5]) 
+# from index 2 (inclusive) to index 5 (exclusive) - > [3, 4, 5]
+
+print(a_list[:5])
+# from the start to index 5 (exclusive) -> [1, 2, 3, 4, 5]
+
+print(a_list[5:])
+# from index 5 (inclusive) to the end of the list -> [6, 7, 8, 9, 10]
+
+print(a_list[-4:-1])
+# from 4th last item (inclusive) to the last item (exclusive) -> [7, 8, 9]
 ```
 ## Changing the Items in a List
 
