@@ -243,3 +243,4 @@ Any list, tuple, set and dictionaries are **True**, except for **empty ones**
 The value **None** is **False**
 
 # Lists
+
