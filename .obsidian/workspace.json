@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Variables in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Variables in Python"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md",
+                "file": "Variables in Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python"
+              "title": "Outline of Variables in Python"
             }
           }
         ],
@@ -170,11 +170,11 @@
   },
   "active": "ead480cd1fda2347",
   "lastOpenFiles": [
-    "Python Operators.md",
     "Common Programming Concepts in Python.md",
+    "Python.md",
+    "Python Operators.md",
     "Data Types in Python.md",
     "Variables in Python.md",
-    "Python.md",
     "Readme.md",
     "Data Types in Rust.md",
     "Binary.md",
