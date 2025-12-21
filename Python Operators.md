@@ -62,3 +62,12 @@ Both of these code snippets are the same.
 
 # Logical Operators
 
+**Logical** **operators** are used to **combine** conditional statements:
+
+
+| Operator | Description                                  |
+| -------- | -------------------------------------------- |
+| and      | Returns True if **both** statements are True |
+| or       |                                              |
+| not      |                                              |
+|          |                                              |
