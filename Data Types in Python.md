@@ -58,10 +58,19 @@ x = "hi"
 y = 'hello'
 ```
 
-You can access the characters in a string using:
+
+Strings are **arrays**, therefore you can access the characters in a string using:
 ```python
 string = "a string"
-y = x[0] # "a"
-z = x[0] # "a"
-y = x[0] # "a"
+x = string[0] # "a"
+y = string[1] # " "
+z = string[2] # "s"
 ```
+
+You can use the len() function to get the length of a string:
+```python
+x = "string"
+print(len(string)) # 6
+```
+
+## String Slicing
