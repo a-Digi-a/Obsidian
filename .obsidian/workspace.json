@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Data Types in Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Data Types in Python"
             }
           }
         ]
@@ -237,7 +238,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "226afb59a137b050",
+  "active": "ead480cd1fda2347",
   "lastOpenFiles": [
     "Python Operators.md",
     "Data Types in Python.md",
