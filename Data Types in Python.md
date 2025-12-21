@@ -244,6 +244,7 @@ The value **None** is **False**
 
 # Lists
 
+**Lists** are 
 
 # Tuples
 
