@@ -253,6 +253,13 @@ A **list** can be **declared** using **square brackets**: *[]*
 a_list = ["apple", "bannana", "cherry"]
 ```
 
+## Lists with Multiple Data Types
+
+**Lists** can have **multiple data types** in them:
+```python
+a_list = ["apples", 1, True, 3.0]
+```
+
 ## Accessing the Items in a List
 
 **List** items can be accessed with the following syntax: **list**[i]
@@ -265,6 +272,13 @@ z = a_list[2] # "cherry"
 ```
 Note how the **index** starts at *0*, not *1*
 
+We can also use a **negative index** to access items from the end of the **list**, with *-1* being the last item, *-2* being the second last, etc.
+```python
+a_list = ["apples", 1, True]
+print(a_list[-1]) # True
+print(a_list[-2]) # 1
+```
+
 ## Changing the Items in a List
 
 We can **change** the items in a **list** by accessing them:
@@ -275,12 +289,6 @@ a_list[1] = "pear"
 print(a_list) # ["apple", "pear", "cherry"]
 ```
 
-## Lists with Multiple Data Types
-
-**Lists** can have **multiple data types** in them:
-```python
-a_list = ["apples", 1, True, 3.0]
-```
 
 
 # Tuples
