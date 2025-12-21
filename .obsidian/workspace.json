@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Operators.md",
+                "file": "Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Operators"
+              "title": "Rust"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Types in Python.md",
+                "file": "Python Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types in Python"
+              "title": "Python Operators"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,8 +127,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,6 +140,7 @@
       {
         "id": "76baf2f0aefc78d5",
         "type": "tabs",
+        "dimension": 52.848722986247544,
         "children": [
           {
             "id": "5fb6650764cfcb54",
@@ -232,11 +232,12 @@
         ]
       },
       {
-        "id": "45f6f35babde9c46",
+        "id": "ebb08a9b9a9c32a0",
         "type": "tabs",
+        "dimension": 47.151277013752456,
         "children": [
           {
-            "id": "226afb59a137b050",
+            "id": "3e6b84e8b69ef500",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -266,29 +267,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "810d49b36031fb71",
+  "active": "6d0e919efe44565d",
   "lastOpenFiles": [
-    "Common Programming Concepts in Python.md",
     "Data Types in Python.md",
-    "Variables in Python.md",
-    "Python.md",
-    "python da.md",
-    "Python Operators.md",
-    "Readme.md",
-    "Data Types in Rust.md",
     "Binary.md",
+    "Python.md",
+    "Functions in Rust.md",
+    "Common Programming Concepts in Rust.md",
+    "Data Types in Rust.md",
+    "Variables and Mutability in Rust.md",
+    "Rust.md",
+    "Common Programming Concepts in Python.md",
+    "Python Operators.md",
+    "Variables in Python.md",
+    "python da.md",
+    "Readme.md",
     "Drivers.md",
     "note.md",
-    "Rust.md",
     "Cargo.md",
-    "Variables and Mutability in Rust.md",
-    "Common Programming Concepts in Rust.md",
     "Programming Languages.md",
     "Networking.md",
     "Operating Systems.md",
     "Memory.md",
     "Von Neumann Architecture.md",
-    "Functions in Rust.md",
     "Untitled 1.md",
     "README.md",
     "notes/README.md",
