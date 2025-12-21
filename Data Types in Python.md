@@ -272,6 +272,8 @@ z = a_list[2] # "cherry"
 ```
 Note how the **index** starts at *0*, not *1*
 
+### Negative Indexing
+
 We can also use a **negative index** to access items from the end of the **list**, with *-1* being the last item, *-2* being the second last, etc.
 ```python
 a_list = ["apples", 1, True]
@@ -279,6 +281,9 @@ print(a_list[-1]) # True
 print(a_list[-2]) # 1
 ```
 
+### Range of Indexes
+
+We can specify a **range** of indexes
 ## Changing the Items in a List
 
 We can **change** the items in a **list** by accessing them:
