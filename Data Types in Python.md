@@ -214,3 +214,16 @@ Here is a list of the escape characters:
 | \ooo | Octal value     |
 | \xhh | Hex value       |
 # Booleans
+
+Booleans are values that are either **True** or **False**:
+```python
+x = True
+y = False
+```
+
+When you run a condition statement python returns a boolean:
+```python
+print(10 > 9) # True
+print(10 == 9) # False
+print()
+```
