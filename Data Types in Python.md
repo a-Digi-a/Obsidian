@@ -67,7 +67,7 @@ y = string[1] # " "
 z = string[2] # "s"
 ```
 
-You can use the len() function to get the length of a string:
+You can use the **len**() function to get the length of a string:
 ```python
 x = "string"
 print(len(string)) # 6
@@ -86,31 +86,31 @@ print(x[-5:-2]) # Characters from the end -5 to the end -2 -> "orl"
 
 ## String Methods
 
-The upper() method returns the string in upper case:
+The **upper**() method returns the string in upper case:
 ```python
 string = "Hello World!"
 print(string.upper()) # "HELLO WORLD!"
 ```
 
-The lower() method returns the string in lower case:
+The **lower**() method returns the string in lower case:
 ```python
 string = "Hello World!"
 print(string.lower()) # "hello world!"
 ```
 
-The strip() method removes the whitespace around the string:
+The **strip**() method removes the whitespace around the string:
 ```python
 string = " Hello World! "
 print(string.strip()) # "Hello World!"
 ```
 
-The replace() method replaces the characters in a string:
+The **replace**() method replaces the characters in a string:
 ```python
 string = "Hello World!"
 print(string.replace("H", "J")) # "Jello World!"
 ```
 
-The split() method splits the string if it finds the seperator:
+The **split**() method splits the string if it finds the seperator:
 ```python
 string = "Hello, World!"
 print(string.split(",")) # ['Hello', ' World']
@@ -221,9 +221,17 @@ x = True
 y = False
 ```
 
-When you run a condition statement python returns a boolean:
+When you run a condition statement python returns a Boolean:
 ```python
 print(10 > 9) # True
 print(10 == 9) # False
-print()
+print(10 < 9) # False
 ```
+
+The **bool**() function evaluates the value and returns a Boolean:
+```python
+print(bool("Hello")) # True
+print(bool(15)) # True
+```
+
+Most values are **True**, except
