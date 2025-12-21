@@ -234,4 +234,15 @@ print(bool("Hello")) # True
 print(bool(15)) # True
 ```
 
-Most values are **True**, except
+Most values are **True**, unless it has some sort of content:
+
+Any string is **True**, except **empty** **strings**
+Any number is **True**, except for **0**
+Any list, tuple, set and dictionaries are **True**, except for **empty ones**
+
+# Operators
+
+
+
+# Lists
+The value **None** is **False**
