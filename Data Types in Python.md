@@ -81,5 +81,35 @@ string = "Hello World!"
 print(x[2:5]) # Characters from the position to position 5 -> "llo"
 print(x[:5]) # Characters from the start to position 5 -> "Hello"
 print(x[2:]) # Characters from position 2 to the end -> "llo World!"
-print(x[-5:-2]) # Characters from the end -5 to the end -2 -> "Hello"
+print(x[-5:-2]) # Characters from the end -5 to the end -2 -> "orl"
+```
+
+## String Methods
+
+The upper() method returns the string in upper case:
+```python
+string = "Hello World!"
+print(string.upper()) # "HELLO WORLD!"
+```
+
+The lower() method returns the string in lower case:
+```python
+string = "Hello World!"
+print(string.lower()) # hello world!
+```
+
+The strip() method removes the whitespace around the string:
+```python
+string = " Hello World! "
+print(string.strip()) # Hello World
+```
+The upper() method returns the string in upper case:
+```python
+string = "Hello World!"
+print(string.upper()) # HELLO WORLD
+```
+The upper() method returns the string in upper case:
+```python
+string = "Hello World!"
+print(string.upper()) # HELLO WORLD
 ```
