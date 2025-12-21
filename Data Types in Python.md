@@ -122,5 +122,15 @@ To **concatenate** (combine) 2 strings you can add them together:
 ```python
 a = "Hello"
 b = "World"
-c = a + b # H
+c = a + b # HelloWorld
+d = a + ' ' + b # Hello World
 ```
+
+# F Strings
+
+Formatting strings allow you to add curly brackets as a placeholder for variables and other operations:
+```python
+name = "Jim"
+x = f"My name is {Jim}"
+```
+a 
