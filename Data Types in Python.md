@@ -74,3 +74,12 @@ print(len(string)) # 6
 ```
 
 ## String Slicing
+
+We can return a range of characters from a string:
+```python
+string = "Hello World!"
+print(x[2:5]) # Characters from the position to position 5 -> "llo"
+print(x[:5]) # Characters from the start to position 5 -> "Hello"
+print(x[2:]) # Characters from position 2 to the end -> "llo World!"
+print(x[-5:-2]) # Characters from the end -5 to the end -2 -> "Hello"
+```
