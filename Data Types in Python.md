@@ -202,8 +202,8 @@ string = "This is a \"quote\" in a string"
 
 Here is a list of the escape characters:
 
-| **Code** | **Result**      |
-| -------- | --------------- |
+| **Code** | **Result**        |
+| -------- | ----------------- |
 | **\'**   | *Single Quote*    |
 | **\\**   | *Backslash*       |
 | **\n**   | *New Line*        |

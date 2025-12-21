@@ -43,7 +43,7 @@ if x > 10 and x < 50:
 	print("blah blah blah")
 ```
 ```python
-if (x := some_variable) > 10 and < 50:
+if (x := some_variable) > 10 and x < 50:
 	print("blah blah blah")
 ```
 Both of these code snippets are the same.
@@ -126,6 +126,7 @@ print("z" not in text) # True
 The binary representation of **6** is *0110*
 The binary representation of **3** is *0011*
 6 & 3 = *0010* = **2** in decimal
+
 ## The bin() Function
 The **bin**() function can be used to see the **binary** **form** of an **integer** prefixed with *0b*:
 ```python
