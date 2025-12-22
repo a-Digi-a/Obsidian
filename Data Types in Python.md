@@ -398,6 +398,12 @@ a_list.clear()
 print(a_list) # []
 ```
 
+## Looping Through a List
+
+### Looping Through Items
+
+We 
+
 ## Checking if an Item is in a List
 
 We can use the **in** keyword to check if an item is in a **list**:
