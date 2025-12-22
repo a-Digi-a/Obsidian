@@ -377,6 +377,7 @@ print(a_list) # ["banana", "apple"]
 ### pop()
 
 
+
 ## Checking if an Item is in a List
 
 We can use the **in** keyword to check if an item is in a **list**:
