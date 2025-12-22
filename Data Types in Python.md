@@ -415,7 +415,12 @@ for x in thislist:
 
 ### Looping Through the Index
 
-We can **loop** through the **index** of the **l
+We can **loop** through the **index** of the **list** too:
+```python
+a_list = ["apple", "banana", "cherry"]
+for i in range(len(a_list)):
+	print(a_list[i])
+```
 
 ## Checking if an Item is in a List
 
