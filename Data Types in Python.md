@@ -486,12 +486,30 @@ print(a_list) # ["banana", "orange", "apple"]
 
 ## Copying Lists
 
+We cannot **copy** a **list** using *list1 = list2*, as that will create a **reference** to the original list.
 To **copy** a **list**, we can use either use the **copy()** method, **list()** function, or **slice operator**: *:*
 ```python
 a_list = [1, 2, 3]
 copy1 = a_list.copy()
-copy2 = list()
+copy2 = list(a_list)
+copy3 = a_list[:]
 ```
+
+## All List Methods
+
+| **Method**    | **Description**                                                                |
+| ------------- | ------------------------------------------------------------------------------ |
+| **append()**  | *Adds an element at the end of the list*                                       |
+| **clear()**   | *Removes all the elements from the list*                                       |
+| **copy()**    | *Returns a copy of the list*                                                   |
+| **count()**   | *Returns the number of elements with the specified value*                      |
+| **extend()**  | *Add the elements of a list (or any iterable), to the end of the current list* |
+| **index()**   | *Returns the index of the first element with the specified value*              |
+| **insert()**  | *Adds an element at the specified position*                                    |
+| **pop()**     | *Removes the element at the specified position*                                |
+| **remove()**  | *Removes the item with the specified value*                                    |
+| **reverse()** | *Reverses the order of the list*                                               |
+| **sort()**    | *Sorts the list*                                                               |
 
 # Tuples
 
