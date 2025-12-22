@@ -469,7 +469,17 @@ The function returns a number that will be used to sort that list
 def function(n):
 	return abs(n)
 	
-a_list = [100, ]
+a_list = [100, 35, 55, -23, -1, 0]
+a_list.sort(key = function)
+print(a_list) # [0, -1, -23, 35, 55, 100]
+```
+You can also use **built in functions** to sort a list, such as *key = str.lower* to do a case insensitive sort
+
+### Reversing the Order of a List
+
+To **reverse the order** of a **list** you can use the **reverse()** method:
+```python
+
 ```
 
 # Tuples
