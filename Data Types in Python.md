@@ -431,6 +431,22 @@ if "apple" in a_list:
 	print("blah blah blah")
 ```
 
+## Sorting Lists
+
+We can **sort lists** by using the **sort()** method:
+```python
+# alphabetically
+a_list = ["orange", "mango", "kiwi", "pineapple", "banana"]
+a_list.sort()
+print(a_list) # ['banana', 'kiwi', 'mango', 'orange', 'pineapple'] 
+
+# numerically
+b_list = [3, 4, 2, 1, 5]
+b_list.sort()
+print(b_list) # [1, 2, 3, 4, 5]
+```
+
+
 # Tuples
 
 # Sets
