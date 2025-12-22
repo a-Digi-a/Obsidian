@@ -461,6 +461,7 @@ b_list.sort(reverse = True)
 print(b_list) # [5, 4, 3, 2, 1]
 ```
 
+### Customize Sort Function
 # Tuples
 
 # Sets
