@@ -328,6 +328,8 @@ print(a_list) # [1, "apple", "orange", 4]
 
 ## Adding Items to the List
 
+### insert()
+
 You can **add** items to the **list** by calling the **insert**() method:
 ```python
 a_list = [1, 2, 4]
@@ -335,12 +337,16 @@ a_list.insert(2, 3) # insert(index, item)
 print(a_list) # [1, 2, 3, 4]
 ```
 
-You can **append** an item to the end of the list with the **append** method:
+### append()
+
+You can **append** an item to the end of the list with the **append()** method:
 ```python
 a_list = [1, 2, 3]
 a_list.append(4)
 print(a_list) # [1, 2, 3, 4]
 ```
+
+### extend()
 
 You can also **append** items from other **lists** using **extend**:
 ```python
@@ -352,6 +358,8 @@ print(a_list) # [1, 2, 3, 4, 5, 6]
 This works with **any iterable object** such as **strings**, **tuples**, **dictionaries**, **sets**, **arrays**, etc.
 ## Removing List Items
 
+### remove()
+
 To **remove** a **specified item** we can call the **remove()** method:
 ```python
 a_list = ["apple", "banana", "orange"]
@@ -359,7 +367,15 @@ a_list.remove("banana")
 print(a_list) # ["apple", "orange"]
 ```
 
-If there are mult
+If there are **multiple instances** of the item in the **list**, the **remove()** method removes the **first** instance:
+```python
+a_list = ["apple", "banana", "apple"]
+a_list.remove("apple")
+print(a_list) # ["banana", "apple"]
+```
+
+### pop()
+
 
 ## Checking if an Item is in a List
 
