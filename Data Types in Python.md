@@ -415,7 +415,7 @@ for x in thislist:
 
 ### Looping Through the Index
 
-
+We can **loop** through the **index** of the **l
 
 ## Checking if an Item is in a List
 
