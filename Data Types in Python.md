@@ -462,6 +462,16 @@ print(b_list) # [5, 4, 3, 2, 1]
 ```
 
 ### Customize Sort Function
+
+You can also customize your own sort function using the **keyword** argument *key = function*
+The function returns a number that will be used to sort that list
+```python
+def function(n):
+	return abs(n)
+	
+a_list = [100, ]
+```
+
 # Tuples
 
 # Sets
