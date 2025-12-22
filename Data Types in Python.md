@@ -479,7 +479,18 @@ You can also use **built in functions** to sort a list, such as *key = str.lower
 
 To **reverse the order** of a **list** you can use the **reverse()** method:
 ```python
+a_list = ["apple", "orange", "banana"]
+a_list.reverse()
+print(a_list) # ["banana", "orange", "apple"]
+```
 
+## Copying Lists
+
+To **copy** a **list**, we can use either use the **copy()** method, **list()** function, or **slice operator**: *:*
+```python
+a_list = [1, 2, 3]
+copy1 = a_list.copy()
+copy2 = list()
 ```
 
 # Tuples
