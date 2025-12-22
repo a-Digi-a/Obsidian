@@ -377,9 +377,26 @@ print(a_list) # ["banana", "apple"]
 ### pop()
 
 You can use the **pop()** method to remove the specified **index**:
+```python
+a_list = [1, 2, 3, 4, 5]
+a_list.pop(2)
+print(a_list) # [1, 2, 4, 5]
 ```
+If you do not specify the **index**, **pop()** removes the **last item**:
+```python
+a_list = [1, 2, 3, 4, 5]
+a_list.pop()
+print(a_list) # [1, 2, 3, 4]
 ```
 
+### clear()
+
+The **clear()** method **empties** the **list**:
+```python
+a_list = [1, 2, 3, 4, 5]
+a_list.clear()
+print(a_list) # []
+```
 
 ## Checking if an Item is in a List
 
