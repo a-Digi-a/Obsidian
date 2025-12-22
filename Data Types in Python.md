@@ -413,6 +413,9 @@ for x in thislist:
 # cherry
 ```
 
+### Looping Through the Index
+
+
 
 ## Checking if an Item is in a List
 
