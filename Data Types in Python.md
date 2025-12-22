@@ -424,7 +424,7 @@ for i in range(len(a_list)):
 
 ## Checking if an Item is in a List
 
-We can use the **in** keyword to check if an item is in a **list**:
+You can use the **in** keyword to check if an item is in a **list**:
 ```python
 a_list = ["apple", "orange", "cherry"]
 if "apple" in a_list:
@@ -433,7 +433,7 @@ if "apple" in a_list:
 
 ## Sorting Lists
 
-We can **sort lists** by using the **sort()** method:
+You can **sort lists** by using the **sort()** method:
 ```python
 # alphabetically
 a_list = ["orange", "mango", "kiwi", "pineapple", "banana"]
@@ -446,6 +446,7 @@ b_list.sort()
 print(b_list) # [1, 2, 3, 4, 5]
 ```
 
+### Descending Sort
 
 # Tuples
 
