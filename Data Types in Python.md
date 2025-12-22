@@ -402,7 +402,17 @@ print(a_list) # []
 
 ### Looping Through Items
 
-We 
+You can **loop** through the **items** in a **list** by using a **for loop**:
+```python
+a_list = ["apple", "banana", "cherry"]
+for x in thislist:
+	print(x)
+	
+# apple
+# banana
+# cherry
+```
+
 
 ## Checking if an Item is in a List
 
