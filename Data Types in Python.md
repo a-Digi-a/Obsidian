@@ -376,6 +376,9 @@ print(a_list) # ["banana", "apple"]
 
 ### pop()
 
+You can use the **pop()** method to remove the specified **index**:
+```
+```
 
 
 ## Checking if an Item is in a List
