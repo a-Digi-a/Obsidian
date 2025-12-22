@@ -448,6 +448,19 @@ print(b_list) # [1, 2, 3, 4, 5]
 
 ### Descending Sort
 
+You can also **reverse** the order of the sort:
+```python
+# alphabetically
+a_list = ["orange", "mango", "kiwi", "pineapple", "banana"]
+a_list.sort(reverse = True)
+print(a_list) # ['pineapple', 'orange', 'mango', 'kiwi', 'banana'] 
+
+# numerically
+b_list = [3, 4, 2, 1, 5]
+b_list.sort(reverse = True)
+print(b_list) # [5, 4, 3, 2, 1]
+```
+
 # Tuples
 
 # Sets
