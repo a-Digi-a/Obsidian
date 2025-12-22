@@ -352,7 +352,14 @@ print(a_list) # [1, 2, 3, 4, 5, 6]
 This works with **any iterable object** such as **strings**, **tuples**, **dictionaries**, **sets**, **arrays**, etc.
 ## Removing List Items
 
+To **remove** a **specified item** we can call the **remove()** method:
+```python
+a_list = ["apple", "banana", "orange"]
+a_list.remove("banana")
+print(a_list) # ["apple", "orange"]
+```
 
+If there are mult
 
 ## Checking if an Item is in a List
 
