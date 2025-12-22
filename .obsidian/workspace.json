@@ -84,7 +84,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
       {
         "id": "76baf2f0aefc78d5",
         "type": "tabs",
-        "dimension": 52.848722986247544,
+        "dimension": 52.84872298624755,
         "children": [
           {
             "id": "5fb6650764cfcb54",
@@ -188,7 +189,7 @@
       {
         "id": "ebb08a9b9a9c32a0",
         "type": "tabs",
-        "dimension": 47.151277013752456,
+        "dimension": 47.15127701375245,
         "children": [
           {
             "id": "3e6b84e8b69ef500",
