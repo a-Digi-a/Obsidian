@@ -600,9 +600,13 @@ a_tuple += b_tuple
 print(a_tuple) # ("apple", "banana, "cherry", "pear")
 ```
 
-## Removing List Items
+## Removing Tuple Items
 
 You **cannot remove** items from a **tuple**, unless it is converted to a **list** first
+
+## Unpacking a Tuple
+
+When you **create a tuple**, you normally 
 
 ## Looping Through a Tuple
 
