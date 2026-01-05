@@ -575,55 +575,27 @@ print(a_tuple[5:])
 print(a_tuple[-4:-1])
 # from 4th last item (inclusive) to the last item (exclusive) -> [7, 8, 9]
 ```
-## Changing the Items in a tuple
+## Changing the Items in a Tuple
 
 **Tuples** are **immutable**, meaning they **cannot** be changed.
 
-If you want to **change** the items in a **tuple**, you can 
+If you want to **change** the items in a **tuple**, you can change it into a **list**, then back into a **tuple**
 ```python
-a_list = ["apple", "bannana", "cherry"]
-
-a_list[1] = "pear"
-print(a_list) # ["apple", "pear", "cherry"]
+a_tuple = ("apple", "bannana", "cherry")
+b_list = list(a_tuple)
+b_list[1] = "pear"
+a_tuple = tuple(b_list)
+print(a_tuple) # ["apple", "pear", "cherry"]
 ```
 
-You can also **change** **multiple** **items**:
+
+## Adding Items to the Tuple
+
+You can **add tuples to tuples**
 ```python
-a_list = [1, 2, 3, 4]
-a_list[1:3] = ["apple", "orange"]
-print(a_list) # [1, "apple", "orange", 4]
+a_tuple = ("p)
 ```
 
-## Adding Items to the List
-
-### insert()
-
-You can **add** items to the **list** by calling the **insert**() method:
-```python
-a_list = [1, 2, 4]
-a_list.insert(2, 3) # insert(index, item)
-print(a_list) # [1, 2, 3, 4]
-```
-
-### append()
-
-You can **append** an item to the end of the list with the **append()** method:
-```python
-a_list = [1, 2, 3]
-a_list.append(4)
-print(a_list) # [1, 2, 3, 4]
-```
-
-### extend()
-
-You can also **append** items from other **lists** using **extend**:
-```python
-a_list = [1, 2, 3]
-b_list = [4, 5, 6]
-a_list.extend(b_list)
-print(a_list) # [1, 2, 3, 4, 5, 6]
-```
-This works with **any iterable object** such as **strings**, **tuples**, **dictionaries**, **sets**, **arrays**, etc.
 ## Removing List Items
 
 ### remove()
