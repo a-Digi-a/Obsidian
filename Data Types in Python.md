@@ -666,7 +666,13 @@ if "apple" in a_tuple:
 
 ## Joining Tuples
 
-We can **join** two **tuples**
+We can **join** two **tuples**:
+```python
+a_tuple = ("apple", "orange", "cherry")
+b_tuple = ("pear", "blueberry", "strawberry")
+
+c_tuple = a_tuple + 
+```
 
 ## Copying Lists
 
