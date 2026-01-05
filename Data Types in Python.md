@@ -613,13 +613,24 @@ We can then **unpack** the **items** **back into variables**:
 a_tuple = ("apple", "banana", "cherry")
 (a, b, c) = a_tuple
 
-print(a)
-print(b)
-print(c)
+print(a) # "apple"
+print(b) # "banana"
+print(c) # "cherry"
 ```
 
+### Using Asterisk \*
 
+We can also use an **asterisk** *\** in order to unpack the remainder of a **tuple** into a variable as a **list**
 
+```python
+a_tuple = ("apple", "banana", "cherry", "pear", "blueberry")
+(a, b, c*) = a_tuple
+
+print(a) # "apple"
+print(b) 
+print(c)
+```
+ 
 ## Looping Through a Tuple
 
 ### Looping Through Items
