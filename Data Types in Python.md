@@ -513,6 +513,9 @@ copy3 = a_list[:]
 
 # Tuples
 
+**Tuples**, similar to **lists**, are used to store **multiple** **items** in a single variable.
+
+
 # Sets
 
 # Dictionaries

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Programming Concepts in Python.md",
+                "file": "Data Types in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Programming Concepts in Python"
+              "title": "Data Types in Python"
             }
           }
         ],
@@ -236,8 +236,8 @@
   },
   "active": "ae02b35bd6665aaa",
   "lastOpenFiles": [
-    "Variables in Python.md",
     "Common Programming Concepts in Python.md",
+    "Variables in Python.md",
     "Python.md",
     "Variables and Mutability in Rust.md",
     "Rust.md",
