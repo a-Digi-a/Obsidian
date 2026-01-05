@@ -696,7 +696,7 @@ print(b_tuple) # ("apple", "orange", "cherry", "apple", "orange", "cherry")
 
 # Sets
 
-**Sets** are used to store 
+**Sets** are used to store multiple items in a **single variable**.  **Sets** are **unordered**, **unchangeable**, and **unindexed**
 
 
 # Dictionaries
