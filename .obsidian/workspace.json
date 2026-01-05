@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "c8df8f73f0bec086",
+    "id": "feb8f92508a3b8f3",
     "type": "split",
     "children": [
       {
-        "id": "b0c2528f576d4412",
+        "id": "ad8ecd511d869c2a",
         "type": "tabs",
         "children": [
           {
-            "id": "c419606d551ca1b7",
+            "id": "6f8d21647c1af0c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Types in Python.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Data Types in Python"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4fbe6766f437a0bb",
+    "id": "ab95bf5eef95df5f",
     "type": "split",
     "children": [
       {
-        "id": "0d5e1c84d4af2e41",
+        "id": "8d8021e5e19c6acb",
         "type": "tabs",
         "children": [
           {
-            "id": "9a254b6b58b1c0e4",
+            "id": "f3220476659079a5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,17 +44,24 @@
             }
           },
           {
-            "id": "f8b24605a3a0d6bb",
+            "id": "4b94da77e3fa1cc3",
             "type": "leaf",
             "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "bf67d53a3220184f",
+            "id": "15a0751b2829f0f1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,69 +71,32 @@
             }
           },
           {
-            "id": "eb08053504228687",
+            "id": "e305c7cfcc9db8e6",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#programming",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 300
   },
   "right": {
-    "id": "729d643693b9222a",
+    "id": "3f1e5d2b6a102f4a",
     "type": "split",
     "children": [
       {
-        "id": "76baf2f0aefc78d5",
+        "id": "76f4ea4ccb743e9a",
         "type": "tabs",
-        "dimension": 52.84872298624755,
         "children": [
           {
-            "id": "5fb6650764cfcb54",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "1a5dbf37a67e2d44",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "bd941829cdbcd776",
+            "id": "630d13163e5a0ed9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -148,7 +114,7 @@
             }
           },
           {
-            "id": "1c548673098afa7e",
+            "id": "add7e8ed8b7b8777",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -161,7 +127,22 @@
             }
           },
           {
-            "id": "48dcebd59714c27a",
+            "id": "21e585ae793dbfb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a90a1f1c8406eee",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,7 +156,21 @@
             }
           },
           {
-            "id": "aedc34ed5e4f64c3",
+            "id": "87263d8cc9021f4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2ed5dba9e0922394",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -185,31 +180,17 @@
             }
           }
         ]
-      },
-      {
-        "id": "ebb08a9b9a9c32a0",
-        "type": "tabs",
-        "dimension": 47.15127701375245,
-        "children": [
-          {
-            "id": "3e6b84e8b69ef500",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -217,46 +198,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e6b84e8b69ef500",
+  "active": "6f8d21647c1af0c5",
   "lastOpenFiles": [
-    "Data Types in Python.md",
-    "Common Programming Concepts in Python.md",
-    "Python.md",
-    "Python Operators.md",
-    "Binary.md",
-    "Functions in Rust.md",
-    "Common Programming Concepts in Rust.md",
-    "Data Types in Rust.md",
+    "Variables in Python.md",
     "Variables and Mutability in Rust.md",
     "Rust.md",
-    "Variables in Python.md",
-    "python da.md",
     "Readme.md",
-    "Drivers.md",
-    "note.md",
-    "Cargo.md",
+    "Python.md",
+    "Python Operators.md",
     "Programming Languages.md",
-    "Networking.md",
-    "Operating Systems.md",
-    "Memory.md",
-    "Von Neumann Architecture.md",
-    "Untitled 1.md",
-    "README.md",
-    "notes/README.md",
-    "notes",
-    "Untitled.canvas",
-    "The Rust Book.md",
-    "1.1 Installation.md",
-    "The Rust Book.md~",
-    "Rust.md~",
-    "Rust Book Chapter 1.md~",
-    "Code/Rust",
-    "Code",
-    "Digis Notes"
+    "Functions in Rust.md",
+    "Data Types in Rust.md",
+    "Data Types in Python.md",
+    "Common Programming Concepts in Rust.md",
+    "Common Programming Concepts in Python.md",
+    "Cargo.md",
+    "Binary.md"
   ]
 }
