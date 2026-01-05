@@ -405,7 +405,7 @@ print(a_list) # []
 You can **loop** through the **items** in a **list** by using a **for loop**:
 ```python
 a_list = ["apple", "banana", "cherry"]
-for x in thislist:
+for x in a_list:
 	print(x)
 	
 # apple
@@ -627,30 +627,30 @@ a_tuple = ("apple", "banana", "cherry", "pear", "blueberry")
 (a, b, c*) = a_tuple
 
 print(a) # "apple"
-print(b) 
-print(c)
+print(b) # "banana"
+print(c) # ["cherry", "pear", "blueberry"]
 ```
  
 ## Looping Through a Tuple
 
 ### Looping Through Items
 
-You can **loop** through the **items** in a **list** by using a **for loop**:
+You can **loop** through the **items** in a **tuple** by using a **for loop**:
 ```python
-a_list = ["apple", "banana", "cherry"]
-for x in thislist:
+a_tuple = ("apple", "banana", "cherry")
+for x in a_tuple:
 	print(x)
 	
-# apple
-# banana
-# cherry
+# "apple"
+# "banana"
+# "cherry"
 ```
 
 ### Looping Through the Index
 
 We can **loop** through the **index** of the **list** too:
 ```python
-a_list = ["apple", "banana", "cherry"]
+a_tuple= ("apple", "banana", "cherry")
 for i in range(len(a_list)):
 	print(a_list[i])
 ```
