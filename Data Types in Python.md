@@ -696,7 +696,7 @@ print(b_tuple) # ("apple", "orange", "cherry", "apple", "orange", "cherry")
 
 # Sets
 
-
+**Sets** are used to store 
 
 
 # Dictionaries
