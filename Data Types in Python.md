@@ -651,71 +651,22 @@ for x in a_tuple:
 We can **loop** through the **index** of the **list** too:
 ```python
 a_tuple= ("apple", "banana", "cherry")
-for i in range(len(a_list)):
-	print(a_list[i])
+for i in range(len(a_tuple)):
+	print(a_tuple[i])
 ```
 
-## Checking if an Item is in a List
+## Checking if an Item is in a Tuple
 
 You can use the **in** keyword to check if an item is in a **list**:
 ```python
-a_list = ["apple", "orange", "cherry"]
-if "apple" in a_list:
+a_tuple= ("apple", "orange", "cherry")
+if "apple" in a_tuple:
 	print("blah blah blah")
 ```
 
-## Sorting Lists
+## Joining Tuples
 
-You can **sort lists** by using the **sort()** method:
-```python
-# alphabetically
-a_list = ["orange", "mango", "kiwi", "pineapple", "banana"]
-a_list.sort()
-print(a_list) # ['banana', 'kiwi', 'mango', 'orange', 'pineapple'] 
-
-# numerically
-b_list = [3, 4, 2, 1, 5]
-b_list.sort()
-print(b_list) # [1, 2, 3, 4, 5]
-```
-
-### Descending Sort
-
-You can also **reverse** the order of the sort:
-```python
-# alphabetically
-a_list = ["orange", "mango", "kiwi", "pineapple", "banana"]
-a_list.sort(reverse = True)
-print(a_list) # ['pineapple', 'orange', 'mango', 'kiwi', 'banana'] 
-
-# numerically
-b_list = [3, 4, 2, 1, 5]
-b_list.sort(reverse = True)
-print(b_list) # [5, 4, 3, 2, 1]
-```
-
-### Customize Sort Function
-
-You can also customize your own sort function using the **keyword** argument *key = function*
-The function returns a number that will be used to sort that list
-```python
-def function(n):
-	return abs(n)
-	
-a_list = [100, 35, 55, -23, -1, 0]
-a_list.sort(key = function)
-print(a_list) # [0, -1, -23, 35, 55, 100]
-```
-You can also use **built in functions** to sort a list, such as *key = str.lower* to do a case insensitive sort
-
-### Reversing the Order of a List
-
-To **reverse the order** of a **list** you can use the **reverse()** method:
-```python
-a_list = ["apple", "orange", "banana"]
-a_list.reverse()
-print(a_list) # ["banana", "orange", "apple"]
-```
+We can **join** two **tuples**
 
 ## Copying Lists
 
