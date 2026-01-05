@@ -606,7 +606,7 @@ You **cannot remove** items from a **tuple**, unless it is converted to a **list
 
 ## Unpacking a Tuple
 
-When you **create a tuple**, you normally 
+When you **create a tuple**, you normally **assign values**
 
 ## Looping Through a Tuple
 
