@@ -540,44 +540,46 @@ a_tuple = ("apples", 1, True, 3.0)
 
 **Tuple** items can be accessed with the following syntax: **tuple**[i]
 ```python
-a_list = ["apple", "bannana", "cherry"]
+a_tuple = ["apple", "bannana", "cherry"]
 
-x = a_list[0] # "apple"
-y = a_list[1] # "bannana"
-z = a_list[2] # "cherry"
+x = a_tuple[0] # "apple"
+y = a_tuple[1] # "bannana"
+z = a_tuple[2] # "cherry"
 ```
 Note how the **index** starts at *0*, not *1*
 
 ### Negative Indexing
 
-We can also use a **negative index** to access items from the end of the **list**, with *-1* being the last item, *-2* being the second last, etc.
+We can also use a **negative index** to access items from the end of the **tuple**, with *-1* being the last item, *-2* being the second last, etc.
 ```python
-a_list = ["apples", 1, True]
-print(a_list[-1]) # True
-print(a_list[-2]) # 1
+a_tuple = ["apples", 1, True]
+print(a_tuple[-1]) # True
+print(a_tuple[-2]) # 1
 ```
 
 ### Range of Indexes
 
 We can specify a **range** of indexes:
 ```python
-a_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+a_tuple = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-print(a_list[2:5]) 
+print(a_tuple[2:5]) 
 # from index 2 (inclusive) to index 5 (exclusive) - > [3, 4, 5]
 
-print(a_list[:5])
+print(a_tuple[:5])
 # from the start to index 5 (exclusive) -> [1, 2, 3, 4, 5]
 
-print(a_list[5:])
+print(a_tuple[5:])
 # from index 5 (inclusive) to the end of the list -> [6, 7, 8, 9, 10]
 
-print(a_list[-4:-1])
+print(a_tuple[-4:-1])
 # from 4th last item (inclusive) to the last item (exclusive) -> [7, 8, 9]
 ```
-## Changing the Items in a List
+## Changing the Items in a tuple
 
-You can **change** the items in a **list** by accessing them:
+**Tuples** are **immutable**, meaning they **cannot** be changed.
+
+If you want to **change** the items in a **tuple**, you can 
 ```python
 a_list = ["apple", "bannana", "cherry"]
 
