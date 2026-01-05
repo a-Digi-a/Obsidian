@@ -671,26 +671,27 @@ We can **join** two **tuples**:
 a_tuple = ("apple", "orange", "cherry")
 b_tuple = ("pear", "blueberry", "strawberry")
 
-c_tuple = a_tuple + 
+c_tuple = a_tuple + b_tuple
+print(c_tuple) # ("apple", "orange", "cherry", "pear", "blueberry", "strawberry")
 ```
 
-## Copying Lists
+## Multiply Tuples
 
-We cannot **copy** a **list** using *list1 = list2*, as that will create a **reference** to the original list.
-To **copy** a **list**, we can use either use the **copy()** method, **list()** function, or **slice operator**: *:*
+We can also **multiply the contents of a tuple**:
 ```python
-a_list = [1, 2, 3]
-copy1 = a_list.copy()
-copy2 = list(a_list)
-copy3 = a_list[:]
+a_tuple = ("apple", "orange", "cherry")
+b_tuple = a_tuple \* 2
+
+print(b_tuple) # ("apple", "orange", "cherry", "apple", "orange", "cherry")
 ```
 
-## All List Methods
+
+## All Tuple Methods
 
 | **Method**    | **Description**                                                                |
 | ------------- | ------------------------------------------------------------------------------ |
-| **append()**  | *Adds an element at the end of the list*                                       |
-| **clear()**   | *Removes all the elements from the list*                                       |
+| **count()**   | *List*                                                                         |
+| **index()**   | *Removes all the elements from the list*                                       |
 | **copy()**    | *Returns a copy of the list*                                                   |
 | **count()**   | *Returns the number of elements with the specified value*                      |
 | **extend()**  | *Add the elements of a list (or any iterable), to the end of the current list* |
