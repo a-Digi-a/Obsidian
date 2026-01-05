@@ -606,7 +606,19 @@ You **cannot remove** items from a **tuple**, unless it is converted to a **list
 
 ## Unpacking a Tuple
 
-When you **create a tuple**, you normally **assign values**
+When you **create a tuple**, you normally **assign values** to it. This is called **packing** a **tuple**
+
+We can then **unpack** the **items** **back into variables**:
+```python
+a_tuple = ("apple", "banana", "cherry")
+(a, b, c) = a_tuple
+
+print(a)
+print(b)
+print(c)
+```
+
+
 
 ## Looping Through a Tuple
 
