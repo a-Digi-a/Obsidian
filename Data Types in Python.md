@@ -593,52 +593,18 @@ print(a_tuple) # ["apple", "pear", "cherry"]
 
 You can **add tuples to tuples**
 ```python
-a_tuple = ("p)
+a_tuple = ("apple", "banana", "cherry")
+b_tuple = ("pear")
+a_tuple += b_tuple
+
+print(a_tuple) # ("apple", "banana, "cherry", "pear")
 ```
 
 ## Removing List Items
 
-### remove()
+You **cannot remove** items from a **tuple**, unless it is converted to a **list** first
 
-To **remove** a **specified item** we can call the **remove()** method:
-```python
-a_list = ["apple", "banana", "orange"]
-a_list.remove("banana")
-print(a_list) # ["apple", "orange"]
-```
-
-If there are **multiple instances** of the item in the **list**, the **remove()** method removes the **first** instance:
-```python
-a_list = ["apple", "banana", "apple"]
-a_list.remove("apple")
-print(a_list) # ["banana", "apple"]
-```
-
-### pop()
-
-You can use the **pop()** method to remove the specified **index**:
-```python
-a_list = [1, 2, 3, 4, 5]
-a_list.pop(2)
-print(a_list) # [1, 2, 4, 5]
-```
-If you do not specify the **index**, **pop()** removes the **last item**:
-```python
-a_list = [1, 2, 3, 4, 5]
-a_list.pop()
-print(a_list) # [1, 2, 3, 4]
-```
-
-### clear()
-
-The **clear()** method **empties** the **list**:
-```python
-a_list = [1, 2, 3, 4, 5]
-a_list.clear()
-print(a_list) # []
-```
-
-## Looping Through a List
+## Looping Through a Tuple
 
 ### Looping Through Items
 
