@@ -11,10 +11,14 @@
             "id": "1ae5975bbd458157",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "1ae5975bbd458157",
   "lastOpenFiles": [
+    "/Data Types in Python.md",
     "Cargo.md",
     "Rust.md",
     "Programming Languages.md",
@@ -204,7 +209,6 @@
     "Data Types in Python.md",
     "/Variables in Python.md",
     "/Python Operators.md",
-    "/Data Types in Python.md",
     "Python Operators.md",
     "/Readme.md",
     "/Python.md",
