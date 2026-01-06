@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust.md",
+                "file": "Data Types in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "Data Types in Python"
             }
           }
         ]
@@ -201,9 +201,12 @@
   },
   "active": "1ae5975bbd458157",
   "lastOpenFiles": [
+    "Common Programming Concepts in Python.md",
+    "Python.md",
+    "Readme.md",
+    "Rust.md",
     "/Data Types in Python.md",
     "Cargo.md",
-    "Rust.md",
     "Programming Languages.md",
     "Variables and Mutability in Rust.md",
     "Data Types in Python.md",
@@ -213,15 +216,12 @@
     "/Readme.md",
     "/Python.md",
     "/Common Programming Concepts in Python.md",
-    "Readme.md",
     "Von Neumann Architecture.md",
     "Variables in Python.md",
-    "Python.md",
     "Operating Systems.md",
     "Networking.md",
     "Memory.md",
     "Drivers.md",
-    "Common Programming Concepts in Python.md",
     "Binary.md",
     "/Rust.md",
     "/Functions in Rust.md",
