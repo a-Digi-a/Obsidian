@@ -49,7 +49,8 @@
               "title": "Data Types in Python"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,12 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f8d21647c1af0c5",
+  "active": "ae02b35bd6665aaa",
   "lastOpenFiles": [
+    "Variables in Python.md",
+    "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
     "Python.md",
-    "Data Types in Python.md",
-    "Variables in Python.md",
     "Variables and Mutability in Rust.md",
     "Rust.md",
     "Readme.md",
