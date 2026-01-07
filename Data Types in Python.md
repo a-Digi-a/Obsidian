@@ -774,5 +774,11 @@ a_set = {"apple", "banana", "cherry"}
 print("apple" not in a_set) # False
 ```
 
+## Adding Set Items
+
+###  add() Method
+```python
+```
+
 # Dictionaries
  
