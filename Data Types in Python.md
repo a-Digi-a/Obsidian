@@ -810,7 +810,10 @@ print(a_set) # 'apple', 'banana', 'cherry', 'pear', 'orange', 'h', 'i'
 
 ## Removing Set Items
 
+#'apple', 'banana', 'cherry', 'pear', 'orange'## remove() Method
+```python
 
+```
 
 # Dictionaries
  
