@@ -813,7 +813,7 @@ print(a_set) # 'apple', 'banana', 'cherry', 'pear', 'orange', 'h', 'i'
 ### remove() Method
 
 You can **remove items** by using the **remove()** method
-If the item is **not in** the **set**, it will return an **error**
+If the item is **not in** the **set**, it will return an **error**:
 ```python
 a_set = {"apple", "banana", "orange"}
 
@@ -825,7 +825,7 @@ print(a_set) # 'apple', 'banana'
 ### discard() Method
 
 You can **remove items** by using the **discard()** method 
-If the item is **not in** the **set**, it will **not** return an **error**
+If the item is **not in** the **set**, it will **not** return an **error**:
 ```python
 a_set = {"apple", "banana", "orange"}
 
@@ -836,16 +836,26 @@ print(a_set) # 'apple', 'banana'
 
 ### pop() Method 
 
-You can also use the **pop()** method to **remove an item**, however as **sets** are **unordered**, it will **remove a random item**
+You can also use the **pop()** method to **remove an item**, however as **sets** are **unordered**, it will **remove a random item**:
 ```python
 a_set = {"apple", "banana", "orange"}
 
 a_set.pop()
 
-print(a_set) # 'apple', 'banana'
+print(a_set) # 'apple', 'orange'
 ```
 
-### clear
+### clear() Method
+
+You can use the **clear()** method to **empty a set**:
+```python
+a_set = {"apple", "banana", "orange"}
+
+a_set.clear()
+
+print(a_set) # {}
+```
+
 
 # Dictionaries
  
