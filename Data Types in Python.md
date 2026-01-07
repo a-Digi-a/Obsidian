@@ -810,10 +810,19 @@ print(a_set) # 'apple', 'banana', 'cherry', 'pear', 'orange', 'h', 'i'
 
 ## Removing Set Items
 
-#'apple', 'banana', 'cherry', 'pear', 'orange'## remove() Method
-```python
+### remove() Method
 
+You can **remove items** by using the **remove()** method
+If the item is **not in** the **set**, it willt 
+```python
+a_set = {"apple", "banana", "orange"}
+
+a_set.remove("orange")
+
+print(a_set) # 'apple', 'banana'
 ```
+
+
 
 # Dictionaries
  
