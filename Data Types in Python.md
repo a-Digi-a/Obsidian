@@ -514,7 +514,7 @@ copy3 = a_list[:]
 # Tuples
 
 **Tuples**, similar to **lists**, are used to store **multiple** **items** in a single variable.
-They are **ordered**, **unchangeable**, and **allow duplicate values**. j
+They are **ordered**, **unchangeable**, and **allow duplicate values**. 
 
 ## Declaring a Tuple
 
@@ -696,8 +696,19 @@ print(b_tuple) # ("apple", "orange", "cherry", "apple", "orange", "cherry")
 
 # Sets
 
-**Sets** are used to store multiple items in a **single variable**.  **Sets** are **unordered**, **unchangeable**, and **unindexed**
+**Sets** are used to store multiple items in a **single variable**.  **Sets** are **unordered**, **unchangeable**, and **unindexed**. 
 
+## Declaring a Set
+
+To declare a **set** we use **curly brackets**: *{}*
+```python
+a_set = {"apple", "banana", "orange"}
+
+print(a_set)
+```
+
+### Unordered
+**Sets** are **unordered**, meaning they can appear in a different o
 
 # Dictionaries
  
