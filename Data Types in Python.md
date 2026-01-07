@@ -748,6 +748,17 @@ a_set = {"apple", "banana", "cherry"}
 print(len(a_set)) # 3
 ```
 
+## Accessing Set Items
+
+The **items** in a **set** **cannot** be accessed by referring to an **index** or **key**. Instead, we can:
+
+### Loop Over the Set
+```python
+a_set = {"apple", "banana", "cherry"}
+
+for i in a_set:
+	print(i)
+```
 
 # Dictionaries
  
