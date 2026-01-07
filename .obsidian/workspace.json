@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Variables in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Variables in Python"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Data Types in Python"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,11 +233,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae02b35bd6665aaa",
+  "active": "6f8d21647c1af0c5",
   "lastOpenFiles": [
     "Common Programming Concepts in Python.md",
-    "Variables in Python.md",
     "Python.md",
+    "Data Types in Python.md",
+    "Variables in Python.md",
     "Variables and Mutability in Rust.md",
     "Rust.md",
     "Readme.md",
@@ -246,7 +246,6 @@
     "Programming Languages.md",
     "Functions in Rust.md",
     "Data Types in Rust.md",
-    "Data Types in Python.md",
     "Common Programming Concepts in Rust.md",
     "Cargo.md",
     "Binary.md"

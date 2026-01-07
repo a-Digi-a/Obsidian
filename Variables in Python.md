@@ -33,6 +33,8 @@ x = int(x) # x is now the integer 3, we can now to maths with it, etc.
 ```
 This is very useful, especially when it comes to getting user input and using it!
 
+## All Casting 
+
 # More Ways of Assigning Values
 ## Assigning Multiple Values at Once
 

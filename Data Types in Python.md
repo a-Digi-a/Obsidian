@@ -736,8 +736,16 @@ print(b_set) # 0, 'cherry', 'orange'
 
 Notice how the **leftmost value** will be the one printed
 
+## Set Data Types
+
+The **items** in a **set** can be of **any data type**
+
 ## Get the Length of a Set
 We can get the **length** of a **set** with the **len()** function:
+```python
+a_set = {"apple", "banana", "cherry"}
 
+print(len(a_set)) # 3
+```
 # Dictionaries
  
