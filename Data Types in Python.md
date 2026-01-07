@@ -777,8 +777,17 @@ print("apple" not in a_set) # False
 ## Adding Set Items
 
 ###  add() Method
+You  can **add set items** with the **add()** method:
 ```python
+a_set = {"apple", "banana", "cherry"}
+
+a_set.add("orange")
+
+print(a_set) # 'apple', 'banana', 'cherry', 'orange'
 ```
+
+### update() Method
+
 
 # Dictionaries
  
