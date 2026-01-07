@@ -866,7 +866,20 @@ There are several methods used to **join** two **sets**:
 | **union()**                | *Joins all of the items from both sets*                         |
 | **intersection()**         | *Keeps only the items in both sets*                             |
 | **difference()**           | *Keeps items from the first set that are not in the other sets* |
-| **symmetric_difference()** | *Keeps all iteme *                                              |
+| **symmetric_difference()** | *Keeps all items except the duplicates*                         |
+
+### Union
+
+The **union()** method returns a **set** with the **items from both sets**
+```python
+a_set = {"a", "b", "c"}
+b_set = {1, 2, 3}
+
+c_set = a_set.union(b_set)
+print(c_set) # 'a', 'b', 'c', 1, 2, 3
+```
+
+You can also use the **|** operator instead of **union()**
 
 
 
