@@ -825,8 +825,27 @@ print(a_set) # 'apple', 'banana'
 ### discard() Method
 
 You can **remove items** by using the **discard()** method 
-If the item is **not in** the **set**, it will **not
+If the item is **not in** the **set**, it will **not** return an **error**
+```python
+a_set = {"apple", "banana", "orange"}
 
+a_set.discard("orange")
+
+print(a_set) # 'apple', 'banana'
+```
+
+### pop() Method 
+
+You can also use the **pop()** method to **remove an item**, however as **sets** are **unordered**, it will **remove a random item**
+```python
+a_set = {"apple", "banana", "orange"}
+
+a_set.pop()
+
+print(a_set) # 'apple', 'banana'
+```
+
+### clear
 
 # Dictionaries
  
