@@ -813,7 +813,7 @@ print(a_set) # 'apple', 'banana', 'cherry', 'pear', 'orange', 'h', 'i'
 ### remove() Method
 
 You can **remove items** by using the **remove()** method
-If the item is **not in** the **set**, it willt 
+If the item is **not in** the **set**, it will return an **error**
 ```python
 a_set = {"apple", "banana", "orange"}
 
@@ -822,6 +822,10 @@ a_set.remove("orange")
 print(a_set) # 'apple', 'banana'
 ```
 
+### discard() Method
+
+You can **remove items** by using the **discard()** method 
+If the item is **not in** the **set**, it will **not
 
 
 # Dictionaries
