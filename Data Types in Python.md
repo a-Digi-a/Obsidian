@@ -777,7 +777,7 @@ print("apple" not in a_set) # False
 ## Adding Set Items
 
 ###  add() Method
-You  can **add set items** with the **add()** method:
+You can **add set items** with the **add()** method:
 ```python
 a_set = {"apple", "banana", "cherry"}
 
@@ -787,7 +787,20 @@ print(a_set) # 'apple', 'banana', 'cherry', 'orange'
 ```
 
 ### update() Method
+You can **add 2 sets** using the **update()** method:
+```python
+a_set = {"apple", "banana", "cherry"}
+b_set = {"pear", "orange"}
 
+a_set.update(b_set)
+print(a_set) # 'apple', 'banana', 'cherry', 'pear', 'orange'
+```
+
+You can also use **update()** to **add any other iterable**:
+```python
+a_set = {"apple", "banana", "cherry"}
+a_list = ["pear", "oran]
+```
 
 # Dictionaries
  
