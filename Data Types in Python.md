@@ -735,5 +735,9 @@ print(b_set) # 0, 'cherry', 'orange'
 ```
 
 Notice how the **leftmost value** will be the one printed
+
+## Get the Length of a Set
+We can get the **length** of a **set** with the **len()** function:
+
 # Dictionaries
  
