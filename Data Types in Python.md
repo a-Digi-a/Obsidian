@@ -858,6 +858,17 @@ print(a_set) # {}
 
 ## Join Sets
 
+There are several methods used to **join** two **sets**:
+
+| **Method**                 | **Description**                                                 |
+| -------------------------- | --------------------------------------------------------------- |
+| **update()**               | *Joins all of the items from both sets*                         |
+| **union()**                | *Joins all of the items from both sets*                         |
+| **intersection()**         | *Keeps only the items in both sets*                             |
+| **difference()**           | *Keeps items from the first set that are not in the other sets* |
+| **symmetric_difference()** | *Keeps all iteme *                                              |
+
+
 
 # Dictionaries
  
