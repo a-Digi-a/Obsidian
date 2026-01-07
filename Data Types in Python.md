@@ -714,5 +714,15 @@ print(a_set)
 
 **Set items cannot be changed**, however you **can** **add** or **remove** **items**
 
+### Duplicates Not Allowed
+
+**Sets** **cannot** have **duplicate items**, and any duplicates will be **ignored**:
+```python
+a_set = {"apple", "banana", "cherry", "apple"}
+
+print(a_set) # 'banana', 'cherry', 'apple'
+```
+
+**NOTE
 # Dictionaries
  
