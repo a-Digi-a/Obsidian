@@ -868,6 +868,7 @@ There are several methods used to **join** two **sets**:
 | **difference()**           | *Keeps items from the first set that are not in the other sets* |
 | **symmetric_difference()** | *Keeps all items except the duplicates*                         |
 
+
 ### Union
 
 The **union()** method returns a **set** with the **items from both sets**
@@ -880,6 +881,29 @@ print(c_set) # 'a', 'b', 'c', 1, 2, 3
 ```
 
 You can also use the **|** operator instead of **union()**
+```python
+a_set = {"a", "b", "c"}
+b_set = {1, 2, 3}
+
+c_set = a_set | b_set
+print(c_set) # 'a', 'b', 'c', 1, 2, 3
+```
+
+### Update
+### Intersection
+
+### Difference
+
+### Symmetric Difference
+
+### Using the Set Methods on Multiple Sets
+
+You can use the **set methods** on **multiple sets** with the following syntax:
+```python
+a_set = {'a', 'b', 'c'}
+b_set = {1, 2, 3}
+c_set 
+```
 
 
 
