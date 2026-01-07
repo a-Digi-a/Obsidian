@@ -35,17 +35,18 @@ This is very useful, especially when it comes to getting user input and using it
 
 ## All Casting Constructors:
 
-| **Constructor** | **Description** |
-| --------------- | --------------- |
-| *str()*           | *string*          |
-| *int()*           | *integer*         |
-| *float()*         | *float*           |
-| *complex()*       | *complex number*  |
-| *bool()*          | *boolean*         |
-| *list()*          | *list*            |
-| *tuple()*         | *tuple*           |
-| *set()*           | *set*             |
-| *dict()*          | *dictionary*      |
+| **Constructor** | **Description**  |
+| --------------- | ---------------- |
+| *str()*         | *string*         |
+| *int()*         | *integer*        |
+| *float()*       | *float*          |
+| *complex()*     | *complex number* |
+| *bool()*        | *boolean*        |
+| *list()*        | *list*           |
+| *tuple()*       | *tuple*          |
+| *set()*         | *set*            |
+| *dict()*        | *dictionary*     |
+| *frozenset()*   | *frozen set*     |
 
 
 # More Ways of Assigning Values

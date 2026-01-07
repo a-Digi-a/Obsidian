@@ -760,5 +760,19 @@ for i in a_set:
 	print(i)
 ```
 
+## Use the in Keyword
+```python
+a_set = {"apple", "banana", "cherry"}
+
+print("apple" in a_set) # True
+```
+
+## Use the not in Keyword
+```python
+a_set = {"apple", "banana", "cherry"}
+
+print("apple" not in a_set) # False
+```
+
 # Dictionaries
  
