@@ -799,8 +799,18 @@ print(a_set) # 'apple', 'banana', 'cherry', 'pear', 'orange'
 You can also use **update()** to **add any other iterable**:
 ```python
 a_set = {"apple", "banana", "cherry"}
-a_list = ["pear", "oran]
+a_list = ["pear", "orange"]
+a_string = "hi"
+
+a_set.update(a_list)
+a_set.update(a_string)
+
+print(a_set) # 'apple', 'banana', 'cherry', 'pear', 'orange', 'h', 'i'
 ```
+
+## Removing Set Items
+
+
 
 # Dictionaries
  
