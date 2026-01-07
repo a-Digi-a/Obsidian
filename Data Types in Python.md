@@ -723,6 +723,17 @@ a_set = {"apple", "banana", "cherry", "apple"}
 print(a_set) # 'banana', 'cherry', 'apple'
 ```
 
-**NOTE
+**NOTE**:
+**True** and **1** are considered the **same value**
+**False** and **0** are considered the **same value**
+```python
+a_set = {"apple", "banana", True, 1}
+b_set = {"orange", "cherry", 0, False}
+
+print(a_set) # True, 'apple', 'banana'
+print(b_set) # 0, 'cherry', 'orange'
+```
+
+Notice how the **leftmost value** will be the one printed
 # Dictionaries
  
