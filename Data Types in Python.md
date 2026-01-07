@@ -889,6 +889,13 @@ c_set = a_set | b_set
 print(c_set) # 'a', 'b', 'c', 1, 2, 3
 ```
 
+You can use **union** to **join sets with non sets**. This will not work with **update**.
+```python
+a_set = {1, 2, 3}
+a_tuple = (4, 5, 6)
+
+c_set = a_set.union
+```
 ### Update
 ### Intersection
 
@@ -902,7 +909,19 @@ You can use the **set methods** on **multiple sets** with the following syntax:
 ```python
 a_set = {'a', 'b', 'c'}
 b_set = {1, 2, 3}
-c_set 
+c_set = {2.3, 4.6}
+
+d_set = a_set.union(b_set, c_set)
+```
+
+OR
+
+```python
+a_set = {'a', 'b', 'c'}
+b_set = {1, 2, 3}
+c_set = {2.3, 4.6}
+
+d_set = a_set | b_set | c_set
 ```
 
 
