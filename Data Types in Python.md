@@ -708,7 +708,11 @@ print(a_set)
 ```
 
 ### Unordered
-**Sets** are **unordered**, meaning they can appear in a different o
+**Sets** are **unordered**, meaning they can appear in a different order every time you use them, and **cannot** be referred to by index or key.
+
+### Unchangeable
+
+**Set items cannot be changed**, however you **can** **add** or **remove** **items**
 
 # Dictionaries
  
