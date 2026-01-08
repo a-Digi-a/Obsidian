@@ -1,5 +1,6 @@
  #programming #python #semester-1 
-## Integers
+ 
+# Integers
 
 Integers are **whole numbers**, and can be both positive or negative.
 ```python
