@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Programming Concepts in Python.md",
+                "file": "Python Floats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Programming Concepts in Python"
+              "title": "Python Floats"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Types in Python.md",
+                "file": "Python Integers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types in Python"
+              "title": "Python Integers"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,10 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae02b35bd6665aaa",
+  "active": "d2a7d7742a64aa8a",
   "lastOpenFiles": [
-    "Variables in Python.md",
     "Data Types in Python.md",
+    "Python Floats.md",
+    "Python Integers.md",
+    "Variables in Python.md",
     "Common Programming Concepts in Python.md",
     "Python.md",
     "Variables and Mutability in Rust.md",
