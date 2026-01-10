@@ -1,7 +1,7 @@
  #programming #python #semester-1 
 
 # Sets
-
+a
 **Sets** are used to store multiple items in a **single variable**.  **Sets** are **unordered**, **unchangeable**, and **unindexed**. 
 
 # Declaring a Set
