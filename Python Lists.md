@@ -1,7 +1,7 @@
  #programming #python #semester-1 
  
  # Lists
-
+ 
 **Lists** are used to store **multiple** **items** in one variable. They are **ordered**, the values and length **can** be changed and allow **duplicate** values. The **items** in a list can be **different** data types.
 
 # Declaring a List

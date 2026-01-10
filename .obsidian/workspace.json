@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Types in Rust.md",
+                "file": "Python Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types in Rust"
+              "title": "Python Lists"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Python Lists"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,29 +234,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67a43344caeaa55f",
+  "active": "885664f70740dcaa",
   "lastOpenFiles": [
+    "Python Lists.md",
+    "Data Types in Python.md",
+    "Common Programming Concepts in Python.md",
+    "Python.md",
+    "Data Types in Rust.md",
     "Common Programming Concepts in Rust.md",
     "Variables and Mutability in Rust.md",
     "Rust.md",
     "Python Tuples.md",
     "Python Sets.md",
-    "Data Types in Python.md",
-    "Python Lists.md",
     "Python Booleans.md",
     "Python Strings.md",
     "Python Integers.md",
     "Python Floats.md",
     "Python Complex Numbers.md",
     "Python Dictionaries.md",
-    "Common Programming Concepts in Python.md",
     "Python Operators.md",
-    "Python.md",
     "Variables in Python.md",
     "Readme.md",
     "Programming Languages.md",
     "Functions in Rust.md",
-    "Data Types in Rust.md",
     "Cargo.md",
     "Binary.md"
   ]
