@@ -22,7 +22,7 @@ x = "string"
 print(len(string)) # 6
 ```
 
-## Multiline Strings
+# Multiline Strings
 
 You can write a **multiline string** with 3 sets of quotes:
 ```python
@@ -32,7 +32,7 @@ string
 bye """)
 ```
 
-## String Slicing
+# String Slicing
 
 We can return a range of characters from a string:
 ```python
@@ -43,7 +43,7 @@ print(x[2:]) # Characters from position 2 to the end -> "llo World!"
 print(x[-5:-2]) # Characters from the end -5 to the end -2 -> "orl"
 ```
 
-## String Methods
+# String Methods
 
 The **upper**() method returns the string in upper case:
 ```python
@@ -75,7 +75,7 @@ string = "Hello, World!"
 print(string.split(",")) # ['Hello', ' World']
 ```
 
-## String Concatenation
+# String Concatenation
 
 To **concatenate** (combine) 2 strings you can add them together:
 ```python
@@ -85,7 +85,7 @@ c = a + b # HelloWorld
 d = a + ' ' + b # Hello World
 ```
 
-## F Strings
+# F Strings
 
 Formatting strings allow you to add curly brackets as a placeholder for variables and other operations:
 ```python
@@ -101,7 +101,7 @@ txt = f"The price is {price:2f} euro"
 print(txt) # "The price is 59.00 euro"
 ```
 
-## Escape Characters
+# Escape Characters
 
 To insert illegal characters in a string, we use the escape character: *\\*
 ```python
