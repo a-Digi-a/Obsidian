@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Lists.md",
+                "file": "Python Dictionaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Lists"
+              "title": "Python Dictionaries"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,24 +234,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "885664f70740dcaa",
+  "active": "f3035671a29e3a0f",
   "lastOpenFiles": [
-    "Python Lists.md",
+    "Python Sets.md",
+    "Python Dictionaries.md",
     "Data Types in Python.md",
+    "Python Tuples.md",
+    "Python Lists.md",
+    "Python Booleans.md",
+    "Python Strings.md",
+    "Python Complex Numbers.md",
+    "Python Floats.md",
+    "Python Integers.md",
     "Common Programming Concepts in Python.md",
     "Python.md",
     "Data Types in Rust.md",
     "Common Programming Concepts in Rust.md",
     "Variables and Mutability in Rust.md",
     "Rust.md",
-    "Python Tuples.md",
-    "Python Sets.md",
-    "Python Booleans.md",
-    "Python Strings.md",
-    "Python Integers.md",
-    "Python Floats.md",
-    "Python Complex Numbers.md",
-    "Python Dictionaries.md",
     "Python Operators.md",
     "Variables in Python.md",
     "Readme.md",
