@@ -4,7 +4,7 @@
 
 **Sets** are used to store multiple items in a **single variable**.  **Sets** are **unordered**, **unchangeable**, and **unindexed**. 
 
-## Declaring a Set
+# Declaring a Set
 
 To declare a **set** we use **curly brackets**: *{}*
 ```python
@@ -13,14 +13,14 @@ a_set = {"apple", "banana", "orange"}
 print(a_set)
 ```
 
-### Unordered
+## Unordered
 **Sets** are **unordered**, meaning they can appear in a different order every time you use them, and **cannot** be referred to by index or key.
 
-### Unchangeable
+## Unchangeable
 
 **Set items cannot be changed**, however you **can** **add** or **remove** **items**
 
-### Duplicates Not Allowed
+## Duplicates Not Allowed
 
 **Sets** **cannot** have **duplicate items**, and any duplicates will be **ignored**:
 ```python
@@ -42,11 +42,11 @@ print(b_set) # 0, 'cherry', 'orange'
 
 Notice how the **leftmost value** will be the one printed
 
-## Set Data Types
+# Set Data Types
 
 The **items** in a **set** can be of **any data type**
 
-## Get the Length of a Set
+# Get the Length of a Set
 We can get the **length** of a **set** with the **len()** function:
 ```python
 a_set = {"apple", "banana", "cherry"}
@@ -54,11 +54,11 @@ a_set = {"apple", "banana", "cherry"}
 print(len(a_set)) # 3
 ```
 
-## Accessing Set Items
+# Accessing Set Items
 
 The **items** in a **set** **cannot** be accessed by referring to an **index** or **key**. Instead, we can:
 
-### Loop Over the Set
+## Loop Over the Set
 ```python
 a_set = {"apple", "banana", "cherry"}
 
@@ -66,23 +66,23 @@ for i in a_set:
 	print(i)
 ```
 
-## Use the in Keyword
+# Use the in Keyword
 ```python
 a_set = {"apple", "banana", "cherry"}
 
 print("apple" in a_set) # True
 ```
 
-## Use the not in Keyword
+# Use the not in Keyword
 ```python
 a_set = {"apple", "banana", "cherry"}
 
 print("apple" not in a_set) # False
 ```
 
-## Adding Set Items
+# Adding Set Items
 
-###  add() Method
+##  add() Method
 You can **add set items** with the **add()** method:
 ```python
 a_set = {"apple", "banana", "cherry"}
@@ -92,7 +92,7 @@ a_set.add("orange")
 print(a_set) # 'apple', 'banana', 'cherry', 'orange'
 ```
 
-### update() Method
+## update() Method
 You can **add 2 sets** using the **update()** method:
 ```python
 a_set = {"apple", "banana", "cherry"}
@@ -114,9 +114,9 @@ a_set.update(a_string)
 print(a_set) # 'apple', 'banana', 'cherry', 'pear', 'orange', 'h', 'i'
 ```
 
-## Removing Set Items
+# Removing Set Items
 
-### remove() Method
+## remove() Method
 
 You can **remove items** by using the **remove()** method
 If the item is **not in** the **set**, it will return an **error**:
@@ -128,7 +128,7 @@ a_set.remove("orange")
 print(a_set) # 'apple', 'banana'
 ```
 
-### discard() Method
+## discard() Method
 
 You can **remove items** by using the **discard()** method 
 If the item is **not in** the **set**, it will **not** return an **error**:
@@ -140,7 +140,7 @@ a_set.discard("orange")
 print(a_set) # 'apple', 'banana'
 ```
 
-### pop() Method 
+## pop() Method 
 
 You can also use the **pop()** method to **remove an item**, however as **sets** are **unordered**, it will **remove a random item**:
 ```python
@@ -151,7 +151,7 @@ a_set.pop()
 print(a_set) # 'apple', 'orange'
 ```
 
-### clear() Method
+## clear() Method
 
 You can use the **clear()** method to **empty a set**:
 ```python
@@ -162,7 +162,7 @@ a_set.clear()
 print(a_set) # {}
 ```
 
-## Join Sets
+# Join Sets
 
 There are several methods used to **join** two **sets**:
 
@@ -175,7 +175,7 @@ There are several methods used to **join** two **sets**:
 | **symmetric_difference()** | *Keeps all items except the duplicates*                         |
 
 
-### Union
+## Union
 
 The **union()** method returns a **set** with the **items from both sets**
 ```python
@@ -202,14 +202,14 @@ a_tuple = (4, 5, 6)
 
 c_set = a_set.union(a_tuple)
 ```
-### Update
-### Intersection
+## Update
+## Intersection
 
-### Difference
+## Difference
 
-### Symmetric Difference
+## Symmetric Difference
 
-### Using the Set Methods on Multiple Sets
+## Using the Set Methods on Multiple Sets
 
 You can use the **set methods** on **multiple sets** with the following syntax:
 ```python

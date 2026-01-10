@@ -121,7 +121,7 @@ Here is a list of the escape characters:
 | **\f**   | *Form Feed*       |
 | **\ooo** | *Octal value*     |
 | **\xhh** | *Hex value*       |
-## List of All String Methods
+# List of All String Methods
 
 Here is a list of all string methods:
 

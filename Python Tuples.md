@@ -5,7 +5,7 @@
 **Tuples**, similar to **lists**, are used to store **multiple** **items** in a single variable.
 They are **ordered**, **unchangeable**, and **allow duplicate values**. 
 
-## Declaring a Tuple
+# Declaring a Tuple
 
 A **tuple** can be **declared** using **regular brackets**: *()*
 ```python
@@ -18,14 +18,14 @@ To **declare** a **tuple** with **one item**, use a comma after the item:
 a_tuple = ("apple",) # Notice the Comma
 ```
 
-## Tuples with Multiple Data Types
+# Tuples with Multiple Data Types
 
 **Tuples** can have **multiple data types** in them:
 ```python
 a_tuple = ("apples", 1, True, 3.0)
 ```
 
-## Accessing the Items in a Tuple
+# Accessing the Items in a Tuple
 
 **Tuple** items can be accessed with the following syntax: **tuple**[i]
 ```python
@@ -37,7 +37,7 @@ z = a_tuple[2] # "cherry"
 ```
 Note how the **index** starts at *0*, not *1*
 
-### Negative Indexing
+## Negative Indexing
 
 We can also use a **negative index** to access items from the end of the **tuple**, with *-1* being the last item, *-2* being the second last, etc.
 ```python
@@ -46,7 +46,7 @@ print(a_tuple[-1]) # True
 print(a_tuple[-2]) # 1
 ```
 
-### Range of Indexes
+## Range of Indexes
 
 We can specify a **range** of indexes:
 ```python
@@ -64,7 +64,7 @@ print(a_tuple[5:])
 print(a_tuple[-4:-1])
 # from 4th last item (inclusive) to the last item (exclusive) -> [7, 8, 9]
 ```
-## Changing the Items in a Tuple
+# Changing the Items in a Tuple
 
 **Tuples** are **immutable**, meaning they **cannot** be changed.
 
@@ -78,7 +78,7 @@ print(a_tuple) # ["apple", "pear", "cherry"]
 ```
 
 
-## Adding Items to the Tuple
+# Adding Items to the Tuple
 
 You can **add tuples to tuples**
 ```python
@@ -89,11 +89,11 @@ a_tuple += b_tuple
 print(a_tuple) # ("apple", "banana, "cherry", "pear")
 ```
 
-## Removing Tuple Items
+# Removing Tuple Items
 
 You **cannot remove** items from a **tuple**, unless it is converted to a **list** first
 
-## Unpacking a Tuple
+# Unpacking a Tuple
 
 When you **create a tuple**, you normally **assign values** to it. This is called **packing** a **tuple**
 
@@ -107,7 +107,7 @@ print(b) # "banana"
 print(c) # "cherry"
 ```
 
-### Using Asterisk \*
+## Using Asterisk \*
 
 We can also use an **asterisk** *\** in order to unpack the remainder of a **tuple** into a variable as a **list**
 
@@ -120,9 +120,9 @@ print(b) # "banana"
 print(c) # ["cherry", "pear", "blueberry"]
 ```
  
-## Looping Through a Tuple
+# Looping Through a Tuple
 
-### Looping Through Items
+## Looping Through Items
 
 You can **loop** through the **items** in a **tuple** by using a **for loop**:
 ```python
@@ -135,7 +135,7 @@ for x in a_tuple:
 # "cherry"
 ```
 
-### Looping Through the Index
+## Looping Through the Index
 
 We can **loop** through the **index** of the **list** too:
 ```python
@@ -144,7 +144,7 @@ for i in range(len(a_tuple)):
 	print(a_tuple[i])
 ```
 
-## Checking if an Item is in a Tuple
+# Checking if an Item is in a Tuple
 
 You can use the **in** keyword to check if an item is in a **list**:
 ```python
@@ -153,7 +153,7 @@ if "apple" in a_tuple:
 	print("blah blah blah")
 ```
 
-## Joining Tuples
+# Joining Tuples
 
 We can **join** two **tuples**:
 ```python
@@ -164,7 +164,7 @@ c_tuple = a_tuple + b_tuple
 print(c_tuple) # ("apple", "orange", "cherry", "pear", "blueberry", "strawberry")
 ```
 
-## Multiply Tuples
+# Multiply Tuples
 
 We can also **multiply the contents of a tuple**:
 ```python
@@ -175,7 +175,7 @@ print(b_tuple) # ("apple", "orange", "cherry", "apple", "orange", "cherry")
 ```
 
 
-## All Tuple Methods
+# All Tuple Methods
 
 | **Method**  | **Description**                                                                           |
 | ----------- | ----------------------------------------------------------------------------------------- |

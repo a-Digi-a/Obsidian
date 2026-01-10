@@ -4,21 +4,21 @@
 
 **Lists** are used to store **multiple** **items** in one variable. They are **ordered**, the values and length **can** be changed and allow **duplicate** values. The **items** in a list can be **different** data types.
 
-## Declaring a List
+# Declaring a List
 
 A **list** can be **declared** using **square brackets**: *[]*
 ```python
 a_list = ["apple", "bannana", "cherry"]
 ```
 
-## Lists with Multiple Data Types
+# Lists with Multiple Data Types
 
 **Lists** can have **multiple data types** in them:
 ```python
 a_list = ["apples", 1, True, 3.0]
 ```
 
-## Accessing the Items in a List
+# Accessing the Items in a List
 
 **List** items can be accessed with the following syntax: **list**[i]
 ```python
@@ -30,7 +30,7 @@ z = a_list[2] # "cherry"
 ```
 Note how the **index** starts at *0*, not *1*
 
-### Negative Indexing
+## Negative Indexing
 
 We can also use a **negative index** to access items from the end of the **list**, with *-1* being the last item, *-2* being the second last, etc.
 ```python
@@ -39,7 +39,7 @@ print(a_list[-1]) # True
 print(a_list[-2]) # 1
 ```
 
-### Range of Indexes
+## Range of Indexes
 
 We can specify a **range** of indexes:
 ```python
@@ -57,7 +57,7 @@ print(a_list[5:])
 print(a_list[-4:-1])
 # from 4th last item (inclusive) to the last item (exclusive) -> [7, 8, 9]
 ```
-## Changing the Items in a List
+# Changing the Items in a List
 
 You can **change** the items in a **list** by accessing them:
 ```python
@@ -74,9 +74,9 @@ a_list[1:3] = ["apple", "orange"]
 print(a_list) # [1, "apple", "orange", 4]
 ```
 
-## Adding Items to the List
+# Adding Items to the List
 
-### insert()
+## insert()
 
 You can **add** items to the **list** by calling the **insert**() method:
 ```python
@@ -85,7 +85,7 @@ a_list.insert(2, 3) # insert(index, item)
 print(a_list) # [1, 2, 3, 4]
 ```
 
-### append()
+## append()
 
 You can **append** an item to the end of the list with the **append()** method:
 ```python
@@ -94,7 +94,7 @@ a_list.append(4)
 print(a_list) # [1, 2, 3, 4]
 ```
 
-### extend()
+## extend()
 
 You can also **append** items from other **lists** using **extend**:
 ```python
@@ -104,9 +104,9 @@ a_list.extend(b_list)
 print(a_list) # [1, 2, 3, 4, 5, 6]
 ```
 This works with **any iterable object** such as **strings**, **tuples**, **dictionaries**, **sets**, **arrays**, etc.
-## Removing List Items
+# Removing List Items
 
-### remove()
+## remove()
 
 To **remove** a **specified item** we can call the **remove()** method:
 ```python
@@ -122,7 +122,7 @@ a_list.remove("apple")
 print(a_list) # ["banana", "apple"]
 ```
 
-### pop()
+## pop()
 
 You can use the **pop()** method to remove the specified **index**:
 ```python
@@ -137,7 +137,7 @@ a_list.pop()
 print(a_list) # [1, 2, 3, 4]
 ```
 
-### clear()
+## clear()
 
 The **clear()** method **empties** the **list**:
 ```python
@@ -146,9 +146,9 @@ a_list.clear()
 print(a_list) # []
 ```
 
-## Looping Through a List
+# Looping Through a List
 
-### Looping Through Items
+## Looping Through Items
 
 You can **loop** through the **items** in a **list** by using a **for loop**:
 ```python
@@ -161,7 +161,7 @@ for x in a_list:
 # cherry
 ```
 
-### Looping Through the Index
+## Looping Through the Index
 
 We can **loop** through the **index** of the **list** too:
 ```python
@@ -170,7 +170,7 @@ for i in range(len(a_list)):
 	print(a_list[i])
 ```
 
-## Checking if an Item is in a List
+# Checking if an Item is in a List
 
 You can use the **in** keyword to check if an item is in a **list**:
 ```python
@@ -179,7 +179,7 @@ if "apple" in a_list:
 	print("blah blah blah")
 ```
 
-## Sorting Lists
+# Sorting Lists
 
 You can **sort lists** by using the **sort()** method:
 ```python
@@ -194,7 +194,7 @@ b_list.sort()
 print(b_list) # [1, 2, 3, 4, 5]
 ```
 
-### Descending Sort
+## Descending Sort
 
 You can also **reverse** the order of the sort:
 ```python
@@ -209,7 +209,7 @@ b_list.sort(reverse = True)
 print(b_list) # [5, 4, 3, 2, 1]
 ```
 
-### Customize Sort Function
+## Customize Sort Function
 
 You can also customize your own sort function using the **keyword** argument *key = function*
 The function returns a number that will be used to sort that list
@@ -223,7 +223,7 @@ print(a_list) # [0, -1, -23, 35, 55, 100]
 ```
 You can also use **built in functions** to sort a list, such as *key = str.lower* to do a case insensitive sort
 
-### Reversing the Order of a List
+## Reversing the Order of a List
 
 To **reverse the order** of a **list** you can use the **reverse()** method:
 ```python
@@ -232,7 +232,7 @@ a_list.reverse()
 print(a_list) # ["banana", "orange", "apple"]
 ```
 
-## Copying Lists
+# Copying Lists
 
 We cannot **copy** a **list** using *list1 = list2*, as that will create a **reference** to the original list.
 To **copy** a **list**, we can use either use the **copy()** method, **list()** function, or **slice operator**: *:*
@@ -243,7 +243,7 @@ copy2 = list(a_list)
 copy3 = a_list[:]
 ```
 
-## All List Methods
+# All List Methods
 
 | **Method**    | **Description**                                                                |
 | ------------- | ------------------------------------------------------------------------------ |
