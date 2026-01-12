@@ -268,7 +268,7 @@ print(c_set) # 1, 2, 3
 
 ## Difference Update
 
-
+The **difference_upda
 
 ## Symmetric Difference
 
