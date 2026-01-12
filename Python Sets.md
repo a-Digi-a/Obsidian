@@ -237,7 +237,14 @@ print(c_set) # 1, 2
 
 ## Intersection Update
 
-The **intersection_update()** method will update the original set with t
+The **intersection_update()** method will **update the original set** with **only the items in both sets**
+```python
+a_set = {"a", 1, 2, "b"}
+b_set = {1, 2, 3}
+
+a_set = a_set.intersection_update(b_set)
+print(a_set) # 1, 2
+```
 
 ## Difference
 
