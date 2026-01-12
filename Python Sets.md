@@ -211,7 +211,7 @@ You **cannot** use the **update()** method to **join sets with non sets**.
 a_set = {"a", "b", "c"}
 b_set = {1, 2, 3}
 
-a_set = a_set.update(b_set)
+a_set.update(b_set)
 print(a_set) # 'a', 'b', 'c', 1, 2, 3
 ```
 
@@ -242,7 +242,7 @@ The **intersection_update()** method will **update the original set** with **onl
 a_set = {"a", 1, 2, "b"}
 b_set = {1, 2, 3}
 
-a_set = a_set.intersection_update(b_set)
+a_set.intersection_update(b_set)
 print(a_set) # 1, 2
 ```
 
@@ -273,7 +273,7 @@ The **difference_update()** method **updates the original set** with **only the 
 a_set = {1, 2 3, 4}
 b_set = {4, 5, 6, 7}
 
-a_set = a_set.difference_update(b_set)
+a_set.difference_update(b_set)
 print(a_set) # 1, 2, 3
 ```
 
@@ -301,10 +301,10 @@ print(c_set) # 1, 2, 3
 
 The **difference_update()** method **updates the original set** with **only the items from the first set that are not in the other set**
 ```python
-a_set = {1, 2 3, 4}
+a_set = {1, 2, 3, 4}
 b_set = {4, 5, 6, 7}
 
-a_set = a_set.difference_update(b_set)
+a_set.difference_update(b_set)
 print(a_set) # 1, 2, 3
 ```
 
