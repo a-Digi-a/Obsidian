@@ -226,6 +226,14 @@ c_set = a_set.intersection(b_set)
 print(c_set) # 1, 2
 ```
 
+You can also use the **&** operator instead of **intersection()**
+```python
+a_set = {"a", 1, 2, "b"}
+b_set = {1, 2, 3}
+
+c_set = a_set & b_set
+print(c_set) # 1, 2
+```
 
 ## Difference
 
