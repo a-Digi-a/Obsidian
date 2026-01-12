@@ -9,6 +9,7 @@ These notes are designed for use with [Obsidian](https://obsidian.md/)
 - This also works on mobile
 ## How to Use
 
+- I would recommend **turning off vim mode** in the settings as it changes how the text editing works
 - All of the notes have **tags**, which you can search through on the left
 - Use **control + O** to search for file names, such as **Python**
 - If you cant find a file for a concept, try using **Control + Shift + S**, this searches for words in files!
