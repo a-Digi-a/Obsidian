@@ -249,6 +249,26 @@ print(a_set) # 1, 2
 ## Difference
 
 The **difference()** method returns a set that contains **only items from the first set that are not in the other set**
+```python
+a_set = {1, 2 3, 4}
+b_set = {4, 5, 6, 7}
+
+c_set = a_set.difference(b_set)
+print(c_set) # 1, 2, 3
+```
+
+You can also use the **-** operator instead of the **difference()** method
+```python
+a_set = {1, 2 3, 4}
+b_set = {4, 5, 6, 7}
+
+c_set = a_set - b_set
+print(c_set) # 1, 2, 3
+```
+
+## Difference Update
+
+
 
 ## Symmetric Difference
 
