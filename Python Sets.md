@@ -235,6 +235,10 @@ c_set = a_set & b_set
 print(c_set) # 1, 2
 ```
 
+## Intersection Update
+
+The **intersection_update()** method will update the original set with t
+
 ## Difference
 
 ## Symmetric Difference
