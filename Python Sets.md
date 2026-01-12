@@ -248,6 +248,7 @@ b_set = {1, 2, 3}
 c_set = {2.3, 4.6}
 
 d_set = a_set.union(b_set, c_set)
+print(d_set)
 ```
 
 OR
@@ -258,5 +259,6 @@ b_set = {1, 2, 3}
 c_set = {2.3, 4.6}
 
 d_set = a_set | b_set | c_set
+print(d_set)
 ```
 
