@@ -307,7 +307,7 @@ b_set = {4, 5, 6, 7}
 a_set.difference_update(b_set)
 print(a_set) # 1, 2, 3
 ```
-
+**
 
 
 
