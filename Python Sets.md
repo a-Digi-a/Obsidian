@@ -203,6 +203,16 @@ a_tuple = (4, 5, 6)
 c_set = a_set.union(a_tuple)
 ```
 ## Update
+
+The **update()** method **changes the original set**, and inserts the value of set 2 **into** set 1
+You **cannot** use the **update()** method to **join sets with non sets**.
+```python
+a_set = {"a", "b", C"}
+b_set = {1, 2, 3}
+
+a_set = a_set.upda
+```
+
 ## Intersection
 
 ## Difference
