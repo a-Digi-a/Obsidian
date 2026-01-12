@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Programming Concepts in Python.md",
+                "file": "Python Sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Programming Concepts in Python"
+              "title": "Python Sets"
             }
           }
         ]
@@ -222,11 +222,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e562ecf41da0a1f4",
+  "active": "0660f1eb88bec806",
   "lastOpenFiles": [
-    "Data Types in Python.md",
-    "Python Dictionaries.md",
     "Python Sets.md",
+    "Data Types in Python.md",
+    "Common Programming Concepts in Python.md",
+    "Python.md",
+    "Python Operators.md",
+    "Python Dictionaries.md",
     "Python Tuples.md",
     "Python Lists.md",
     "Python Booleans.md",
@@ -234,13 +237,10 @@
     "Python Complex Numbers.md",
     "Python Floats.md",
     "Python Integers.md",
-    "Common Programming Concepts in Python.md",
     "Variables in Python.md",
-    "Python.md",
     "Variables and Mutability in Rust.md",
     "Rust.md",
     "Readme.md",
-    "Python Operators.md",
     "Programming Languages.md",
     "Functions in Rust.md",
     "Data Types in Rust.md",
