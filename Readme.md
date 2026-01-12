@@ -14,6 +14,7 @@ These notes are designed for use with [Obsidian](https://obsidian.md/)
 - Use **control + O** to search for file names, such as **Python**
 - If you cant find a file for a concept, try using **Control + Shift + S**, this searches for words in files!
 - Use **control + P** to open the command palette, which lets you search for things like **insert table**, **insert code block** and more!
+- You can also **run code snippets** if you enable **reading mode** (in the top right) and click the **run** **button** that appears in the code snippet`
 
 # Further Usage
 - The notes are written in **markdown**, which you may be familiar with. 
