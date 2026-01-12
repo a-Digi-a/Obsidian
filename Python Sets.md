@@ -201,19 +201,31 @@ a_set = {1, 2, 3}
 a_tuple = (4, 5, 6)
 
 c_set = a_set.union(a_tuple)
+print(c_set) # 1, 2, 3, 4, 5, 6
 ```
 ## Update
 
 The **update()** method **changes the original set**, and inserts the value of set 2 **into** set 1
 You **cannot** use the **update()** method to **join sets with non sets**.
 ```python
-a_set = {"a", "b", C"}
+a_set = {"a", "b", "c"}
 b_set = {1, 2, 3}
 
-a_set = a_set.upda
+a_set = a_set.update(b_set)
+print(a_set) # 'a', 'b', 'c', 1, 2, 3
 ```
 
 ## Intersection
+
+The **intersection()** method will return a set that has the items **only in both sets**
+```python
+a_set = {"a", 1, 2, "b"}
+b_set = {1, 2, 3}
+
+c_set = a_set.intersection(b_set)
+print(c_set) # 1, 2
+```
+
 
 ## Difference
 
