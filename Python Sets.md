@@ -248,6 +248,8 @@ print(a_set) # 1, 2
 
 ## Difference
 
+The **difference()** method returns a set that contains **only items from the first set that are not in the other set**
+
 ## Symmetric Difference
 
 ## Using the Set Methods on Multiple Sets
