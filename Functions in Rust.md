@@ -13,5 +13,20 @@ is the entry point for your program, i.e..  it is what is run when you execute y
 
 We can define a function by using the **fn** keyword:
 
-```rus
+```rust
+fn main() {
+	println!("Hello, World!");
+	
+	another_function();
+}
+
+fn another_function() {
+	println!("Another function.")
+}
 ```
+
+Note that the function was defined **outside of the main function**. It can anywhere, as long as it can be seen by the caller.
+
+# Parameters
+
+We can define functions that have **parameters**, which are variables inside of a function's code. 
