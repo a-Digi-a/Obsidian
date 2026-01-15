@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Python Sets.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -222,8 +222,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31bbbe045b9c1737",
+  "active": "52f390f0bd3924ad",
   "lastOpenFiles": [
+    "Python Sets.md",
     "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
     "Python.md",
@@ -233,7 +234,6 @@
     "Readme.md",
     "Python Tuples.md",
     "Python Strings.md",
-    "Python Sets.md",
     "Python Operators.md",
     "Python Lists.md",
     "Python Integers.md",
