@@ -42,3 +42,6 @@ fn another_function(x: i32) {
 	println!("The value of x is: {x}");
 }
 ```
+
+In this case, the parameter of **another_function()** is **x**. The argument passed into the function is **5**.
+
