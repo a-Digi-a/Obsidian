@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Functions in Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Functions in Rust"
             }
           }
         ]
@@ -224,8 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0660f1eb88bec806",
+  "active": "41ed0c80890a6bba",
   "lastOpenFiles": [
+    "Common Programming Concepts in Rust.md",
+    "Data Types in Rust.md",
+    "Rust.md",
     "Programming Languages.md",
     "Python.md",
     "Common Programming Concepts in Python.md",
@@ -242,11 +245,8 @@
     "Python Integers.md",
     "Variables in Python.md",
     "Variables and Mutability in Rust.md",
-    "Rust.md",
     "Readme.md",
     "Functions in Rust.md",
-    "Data Types in Rust.md",
-    "Common Programming Concepts in Rust.md",
     "Cargo.md",
     "Binary.md",
     "Welcome.md"
