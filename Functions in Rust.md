@@ -31,7 +31,7 @@ Note that the function was defined **outside of the main function**. It can anyw
 
 We can define functions that have **parameters**, which are variables inside of a function's code. You can then pass **arguments** into the function, which are the concrete values that **replace** the parameters.
 
-When defining a parameter we need to specify its **type**, just like any other piece of code.
+When defining a parameter we **must** specify its **type**, just like any other piece of code.
 
 ```rust
 fn main() {
@@ -43,5 +43,5 @@ fn another_function(x: i32) {
 }
 ```
 
-In this case, the parameter of **another_function()** is **x**. The argument passed into the function is **5**.
+In this case, the parameter of **another_function()** is **x** of type **i32**. The argument passed into the function is **5**.
 
