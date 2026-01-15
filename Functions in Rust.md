@@ -45,3 +45,16 @@ fn another_function(x: i32) {
 
 In this case, the parameter of **another_function()** is **x** of type **i32**. The argument passed into the function is **5**.
 
+You can also use **multiple parameters**:
+```rust
+fn main() {
+	print_labeled_measurement(5, 'h');
+}
+
+fn print_labeled_measurement(value: i32, unit_label: char) {
+	println!("The measurement is: {value}{unit_label}")
+}
+```
+
+# Statements and Expressions
+
