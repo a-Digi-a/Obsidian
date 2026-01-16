@@ -265,8 +265,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52f390f0bd3924ad",
+  "active": "0f68ffdc88703aa8",
   "lastOpenFiles": [
+    "dictip.md",
+    "Functions in Rust.md",
+    "Common Programming Concepts in Rust.md",
+    "Rust.md",
     "Python Dictionaries.md",
     "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
@@ -274,7 +278,6 @@
     "Python Sets.md",
     "Variables in Python.md",
     "Variables and Mutability in Rust.md",
-    "Rust.md",
     "Readme.md",
     "Python Tuples.md",
     "Python Strings.md",
@@ -285,9 +288,7 @@
     "Python Complex Numbers.md",
     "Python Booleans.md",
     "Programming Languages.md",
-    "Functions in Rust.md",
     "Data Types in Rust.md",
-    "Common Programming Concepts in Rust.md",
     "Cargo.md",
     "Binary.md",
     "Welcome.md"
