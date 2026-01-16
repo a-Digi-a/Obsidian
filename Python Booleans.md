@@ -1,4 +1,4 @@
-#programming #python #semester-1 
+#programming #programming/python #semester-1 
 # Booleans
 
 Booleans are values that are either **True** or **False**:

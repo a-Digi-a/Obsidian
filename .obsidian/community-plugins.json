@@ -5,11 +5,12 @@
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "obsidian-tagfolder",
   "obsidian-git",
   "obsidian-latex-suite",
   "tag-wrangler",
   "obsidian-style-settings",
   "omnisearch",
-  "execute-code"
+  "execute-code",
+  "vim-yank-highlight",
+  "colored-tags"
 ]
