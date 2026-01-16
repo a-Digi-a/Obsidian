@@ -1,4 +1,5 @@
 #maths 
 
-# [[Math Functions]]
-# [[Math Vectors]]
+# [[Maths Functions|Functions]]
+# [[Vectors]]
+# [[Calculus]]
