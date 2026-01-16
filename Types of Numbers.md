@@ -8,4 +8,12 @@ $\mathbb{N}={1, 2, 3, 4, 5, 6, 7, \dots}$
 
 # Integers
 
-**Integers** are **all whole numbers**, both 
+**Integers** are **all whole numbers**, both **positive** and **negative, **including 0**
+
+$\mathbb{Z}={\dots,-3,-2,-1,0,1,2,3,\dots}$
+
+# Rational Numbers
+
+A **rational number** is a number that can be expressed as a **valid fraction** (the denominator is **not 0**)
+
+$\mathbb{Q}=\frac{a}{b}, \\textwhere b\neq_{0}$
