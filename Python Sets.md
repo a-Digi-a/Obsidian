@@ -336,9 +336,37 @@ print(d_set)
 
 A  **frozen set** is an **immutable** version of a set. This means the elements in a frozen set **cannot** be changed. 
 
+A frozen set supports all **set methods** that don't add or remove elements.
 ## Declaring a Frozen Set
 
 To declare a frozen set, we wrap a set in the **frozenset()** function.
 ```python
 a_set = frozenset({1, 2, 3})
+print(a_set)
 ```
+
+
+# All Set Methods
+
+
+| Method                        | Shortcut | Description |
+| ----------------------------- | -------- | ----------- |
+| add()                         |          |             |
+| clear()                       |          |             |
+| copy()                        |          |             |
+| difference()                  | -        |             |
+| difference_update()           | -=       |             |
+| discard()                     |          |             |
+| intersection()                |          |             |
+| intersection_update()         |          |             |
+| isdisjoint()                  |          |             |
+| issubset()                    |          |             |
+|                               |          |             |
+| issuperset()                  |          |             |
+|                               |          |             |
+| pop()                         |          |             |
+| remove()                      |          |             |
+| symmetric_difference()        |          |             |
+| symmetric_difference_update() |          |             |
+| union()                       |          |             |
+| update()                      |          |             |
