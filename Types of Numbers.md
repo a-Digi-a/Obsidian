@@ -14,6 +14,9 @@ $\mathbb{Z}={\dots,-3,-2,-1,0,1,2,3,\dots}$
 
 # Rational Numbers
 
-A **rational number** is a number that can be expressed as a **valid fraction** (the denominator is **not 0**)
+A **rational number** is a number that can be expressed as a **valid fraction of whole numbers** (the denominator is **not 0**)
 
-$\mathbb{Q}=\frac{a}{b}, \\textwhere b\neq_{0}$
+$\mathbb{Q}=\frac{a}{b},  \\where\ b \neq{0}$
+
+# Irrational Numbers
+
