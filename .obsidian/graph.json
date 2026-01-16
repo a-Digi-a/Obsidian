@@ -5,17 +5,17 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#rust  ",
+      "query": "tag:#programming/rust  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#python  ",
+      "query": "tag:#programming/python  ",
       "color": {
         "a": 1,
         "rgb": 2133199
@@ -39,6 +39,6 @@
   "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2703998691965981,
+  "scale": 0.19987729375613864,
   "close": true
 }
