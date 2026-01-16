@@ -20,3 +20,7 @@ $\mathbb{Q}=\frac{a}{b},  \\where\ b \neq{0}$
 
 # Irrational Numbers
 
+An **irrational number** is a number that **cannot** be expressed as a **ratio of two integers**
+
+Examples include: ${\sqrt{ 2 },\pi,e,etc. }$
+
