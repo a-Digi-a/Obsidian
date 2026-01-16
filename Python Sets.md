@@ -288,13 +288,13 @@ c_set = a_set.symmetric_difference(b_set)
 print(c_set) # 1, 2, 3, 5, 6, 7
 ```
 
-You can also use the **-** operator instead of the **difference()** method
+You can also use the **^** operator instead of the **symmetric_difference()** method
 ```python
 a_set = {1, 2 3, 4}
 b_set = {4, 5, 6, 7}
 
-c_set = a_set - b_set
-print(c_set) # 1, 2, 3
+c_set = a_set ^ b_set
+print(c_set) # 1, 2, 3, 5, 6, 7
 ```
 
 ## Symmetric Difference Update
@@ -332,3 +332,13 @@ d_set = a_set | b_set | c_set
 print(d_set)
 ```
 
+# Frozen Sets
+
+A  **frozen set** is an **immutable** version of a set. This means the elements in a frozen set **cannot** be changed. 
+
+## Declaring a Frozen Set
+
+To declare a frozen set, we wrap a set in the **frozenset()** function.
+```python
+a_set = frozenset({1, 2, 3})
+```
