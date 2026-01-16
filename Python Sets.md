@@ -297,19 +297,17 @@ c_set = a_set - b_set
 print(c_set) # 1, 2, 3
 ```
 
-## Difference Update
+## Symmetric Difference Update
 
-The **difference_update()** method **updates the original set** with **only the items from the first set that are not in the other set**
+The **symmetric_difference_update()** method **updates the original set** with **only the items that are not in both sets**
+
 ```python
 a_set = {1, 2, 3, 4}
 b_set = {4, 5, 6, 7}
 
-a_set.difference_update(b_set)
-print(a_set) # 1, 2, 3
+a_set.symmetric_difference_update(b_set)
+print(a_set) # 1, 2, 3, 5, 6, 7
 ```
-**
-
-
 
 ## Using the Set Methods on Multiple Sets
 
