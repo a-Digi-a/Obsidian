@@ -8,3 +8,12 @@ In **Python 3.7 and higher** dictionaries are **ordered**. In **lower versions**
 
 # Declaring a Dictionary
 
+We can **declare** a dictionary by using **curly brackets** *{}* with **keys** and **values**:
+```python
+a_dict = {
+	"brand":"Ford",
+	"model":"Mustang",
+	"year":"1964"
+}
+print(a_dict)
+```
