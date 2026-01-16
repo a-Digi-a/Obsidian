@@ -24,3 +24,7 @@ An **irrational number** is a number that **cannot** be expressed as a **ratio o
 
 Examples include: ${\sqrt{ 2 },\pi,e,etc. }$
 
+# [[Complex Numbers]]
+
+**Complex numbers** are numbers that have both a **real** and **imaginary** part. Go to the [[Complex Numbers]] note for more details.
+
