@@ -2,10 +2,10 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#programming/rust  ",
@@ -18,14 +18,14 @@
       "query": "tag:#programming/python  ",
       "color": {
         "a": 1,
-        "rgb": 2133199
+        "rgb": 5413856
       }
     },
     {
-      "query": "tag:#maths",
+      "query": "tag:#maths  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 2603313
       }
     }
   ],
@@ -34,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 12.3958333333333,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2108023453345166,
+  "scale": 0.18462326225858092,
   "close": true
 }
