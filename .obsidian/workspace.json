@@ -148,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 307.5
   },
   "right": {
     "id": "2bb6edb8f4476bf5",
@@ -265,8 +265,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f68ffdc88703aa8",
+  "active": "52f390f0bd3924ad",
   "lastOpenFiles": [
+    "Python Dictionaries.md",
     "Data Types in Python.md",
     "Common Programming Concepts in Python.md",
     "Python.md",
@@ -281,7 +282,6 @@
     "Python Lists.md",
     "Python Integers.md",
     "Python Floats.md",
-    "Python Dictionaries.md",
     "Python Complex Numbers.md",
     "Python Booleans.md",
     "Programming Languages.md",
