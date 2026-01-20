@@ -32,4 +32,6 @@ This is a form of [[Ampere's Law]]
 *B* = **magnetic field**: *T*
 *I* = **current through the wire**: *A*
 *r* = **perpendicular distance from the wire**: *m*
-$\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}kgs$ 
+$\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}$ $kgs^{-2}A^{-2}$ 
+
+
