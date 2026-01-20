@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8012e51967b95d0",
+        "id": "0d67cfce57ef8714",
         "type": "tabs",
         "children": [
           {
-            "id": "70d93571889a53c7",
+            "id": "0e0cd239121ef6e2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -222,15 +222,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e501cab4d23c3e20",
+  "active": "0e0cd239121ef6e2",
   "lastOpenFiles": [
+    "Magnetic Memory.md",
+    "Magnetism.md",
     "Introduction to Electronics.md",
     "Python Libraries.md",
     "Python Shebang.md",
     "Magnetic Fields.md",
     "Geomagnetism.md",
-    "Magnetic Memory.md",
-    "Magnetism.md",
     "attachments/Pasted image 20260120112052.png",
     "attachments/Pasted image 20260120112123.png",
     "attachments/Pasted image 20260120112135.png",
