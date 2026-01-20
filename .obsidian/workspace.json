@@ -29,6 +29,7 @@
       {
         "id": "5ad6af54859f74ac",
         "type": "tabs",
+        "dimension": 68.94409937888199,
         "children": [
           {
             "id": "9be9dc3645e8d1e5",
@@ -84,12 +85,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "e501cab4d23c3e20",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "98e4c30d9a115741",
         "type": "tabs",
+        "dimension": 31.05590062111801,
         "children": [
           {
             "id": "47adb655fe0789cd",
@@ -107,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 302.5
   },
   "right": {
     "id": "2bb6edb8f4476bf5",
@@ -205,10 +218,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "70d93571889a53c7",
+  "active": "e501cab4d23c3e20",
   "lastOpenFiles": [
     "Introduction to Electronics.md",
     "Python Libraries.md",

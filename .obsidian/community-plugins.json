@@ -13,5 +13,6 @@
   "execute-code",
   "vim-yank-highlight",
   "colored-tags",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "notebook-navigator"
 ]
