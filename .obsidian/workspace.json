@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Shebang.md",
+                "file": "Python Libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Shebang"
+              "title": "Python Libraries"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Shebang .md",
+                "file": "Python Shebang.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Python Shebang"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "88abb1fdf32c1d5b",
@@ -141,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Shebang .md",
+                "file": "Python Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python Shebang"
+              "title": "Backlinks for Python Libraries"
             }
           },
           {
@@ -160,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Shebang .md",
+                "file": "Python Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Python Shebang"
+              "title": "Outgoing links from Python Libraries"
             }
           },
           {
@@ -188,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Shebang .md",
+                "file": "Python Libraries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python Shebang"
+              "title": "Outline of Python Libraries"
             }
           },
           {
@@ -229,11 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ff6979e0ab968f7",
+  "active": "0abcf9bc3da2a9b7",
   "lastOpenFiles": [
-    "Python Shebang.md",
     "Python.md",
-    "Python Shebang .md",
+    "Python Libraries.md",
+    "Python Shebang.md",
     "Common Programming Concepts in Python.md",
     "conflict-files-obsidian-git.md",
     "Data Types in Python.md",
