@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 2603313
       }
+    },
+    {
+      "query": "tag:#electronics  ",
+      "color": {
+        "a": 1,
+        "rgb": 7426784
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2282754402411842,
+  "scale": 0.18444789647809542,
   "close": true
 }
