@@ -8,4 +8,5 @@ Python is also an [[object-oriented]] programming language. It organizes data ba
 
 ## [[Common Programming Concepts in Python]]
 
-# [[Python Shebang \#!]]
+# [[Python Shebang ]]
+

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Python Shebang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Python Shebang"
             }
           },
           {
@@ -231,6 +231,7 @@
   },
   "active": "8ff6979e0ab968f7",
   "lastOpenFiles": [
+    "Python Shebang.md",
     "Python.md",
     "Python Shebang .md",
     "Common Programming Concepts in Python.md",
@@ -255,7 +256,6 @@
     "Python Integers.md",
     "Python Floats.md",
     "Python Complex Numbers.md",
-    "Python Booleans.md",
-    "Programming Languages.md"
+    "Python Booleans.md"
   ]
 }
