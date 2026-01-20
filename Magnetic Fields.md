@@ -64,4 +64,9 @@ $\mu_{r}$= **relative permeability of the core**
 $\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}$ $kgs^{-2}A^{-2}$ 
 
 The **magnetic field** produced by a **solenoid** is **similar to a bar magnet**:
+
 ![[Pasted image 20260120105120.png]]
+
+**Magnetic** sources are **dipoles** (they have a north and south pole)
+**Electric** sources are **monopoles** (they can exist on their own)
+![[Pasted image 20260120105334.png]]
