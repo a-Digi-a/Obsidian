@@ -224,7 +224,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magnetic Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Magnetic Memory"
+              "title": "Backlinks"
             }
           },
           {
@@ -243,12 +242,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magnetic Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Magnetic Memory"
+              "title": "Outgoing links"
             }
           },
           {
@@ -271,13 +269,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magnetic Memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Magnetic Memory"
+              "title": "Outline"
             }
           },
           {
@@ -312,20 +309,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efc4b2bee158f580",
+  "active": "52f390f0bd3924ad",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260120112052.png",
+    "attachments/Pasted image 20260120112123.png",
+    "attachments/Pasted image 20260120112135.png",
+    "Magnetic Memory.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
     "attachments/Pasted image 20260120112239.png",
     "attachments/Pasted image 20260120112226.png",
     "attachments/Pasted image 20260120112217.png",
-    "attachments/Pasted image 20260120112135.png",
-    "attachments/Pasted image 20260120112123.png",
     "attachments/Pasted image 20260120112111.png",
-    "attachments/Pasted image 20260120112052.png",
-    "attachments/Pasted image 20260120111633.png",
-    "Magnetic Memory.md",
     "Magnetism.md",
     "Geomagnetism.md",
     "Magnetic Fields.md",
