@@ -16,3 +16,7 @@ We can use the **right hand rule** to determine the direction of the magnetic fi
 
 
 ## Fields and Flux
+
+A **magnetic field** is usually denoted by the letter *B*
+**B = magnetic flux density**
+**units = T (Tesla)
