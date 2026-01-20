@@ -41,6 +41,7 @@ By stacking multiple loops of wire on top of eachother we get a **solenoid**:
 ![[Pasted image 20260120103428.png]]
 
 The **magnetic field** is **strongest inside of the solenoid** and is **weak outside of it**
+This is a type of **electromagnet**
 
 $B=\frac{\mu_{0} NI}{L}$
 
@@ -62,3 +63,5 @@ $B=\frac{\mu_{0}\mu_{r}NI}{l}$
 $\mu_{r}$= **relative permeability of the core**
 $\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}$ $kgs^{-2}A^{-2}$ 
 
+The **magnetic field** produced by a **solenoid** is **similar to a bar magnet**:
+![[Pasted image 20260120105120.png]]
