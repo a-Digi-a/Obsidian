@@ -50,4 +50,15 @@ $B=\frac{\mu_{0} NI}{L}$
 *L* = **length of the solenoid**
 $\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}$ $kgs^{-2}A^{-2}$ 
 
-However, it is quite hard to get many loops of wire in a small space. To counter this, we can **improve** the magnetic field of the **solenoid** by placing a **ferromagnetic 
+However, it is quite hard to get many loops of wire in a small space. To counter this, we can **improve** the magnetic field of the **solenoid** by placing a **core** of **magnetic material** in the **solenoid**:
+
+This alters the equation:
+$B=\frac{\mu_{0}\mu_{r}NI}{l}$
+
+*B* = **magnetic field**: *T*
+*I* = **current through the wire**: *A*
+*N* = **number of wire turns**
+*L* = **length of the solenoid**
+$\mu_{r}$= **relative permeability of the core**
+$\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}$ $kgs^{-2}A^{-2}$ 
+
