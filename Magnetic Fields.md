@@ -34,4 +34,12 @@ This is a form of [[Ampere's Law]]
 *r* = **perpendicular distance from the wire**: *m*
 $\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}$ $kgs^{-2}A^{-2}$ 
 
+By making a loop of wire (a circle), the **magnetic field** is **strongest in the centre of the loop**.
 
+#### Solenoids
+By stacking multiple loops of wire on top of eachother we get a **solenoid**:
+![[Pasted image 20260120103428.png]]
+
+The **magnetic field** is **strongest inside of the solenoid** and is **weak outside of it**
+
+$B=\mu\frac{NI}{l}$
