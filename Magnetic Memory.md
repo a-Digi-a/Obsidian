@@ -17,8 +17,6 @@ The material must be **forced** back to its original state with **a magnetic fie
 
 If an **alternating magnetic field** is applied to a material, its magnetisation will trace out a **hysteresis loop**
 
-### Hysteresis Loop Slides
-
 ![[Pasted image 20260120112111.png]]
 ![[Pasted image 20260120112217.png]]
 ![[Pasted image 20260120112226.png]]
@@ -33,3 +31,8 @@ Different properties of materials result in **different hysteresis curves**, mak
 A material with a **wide** hysteresis curve is considered **magnetically hard**
 A material with a **narrow** hysteresis curve is considered **magnetically soft**
 
+A **cassette tape** is made from thin plastic coated in **iron oxide**
+A small **electromagnet** applies a **magnetic field** to the tape
+The iron oxide becomes **magnetised** and **remembers the state of magnetisation** when the field is removed
+It takes a fairly strong field to alter the state of the iron oxide
+The tape can be reused by applying another **magnetic field** to it
