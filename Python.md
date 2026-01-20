@@ -7,3 +7,5 @@ Python is a [[high-level]] **general purpose** programming language. It is an in
 Python is also an [[object-oriented]] programming language. It organizes data based on **objects** which contain data and uses functions to manipulate the data.
 
 ## [[Common Programming Concepts in Python]]
+
+# [[Python Shebang \#!]]
