@@ -42,4 +42,10 @@ By stacking multiple loops of wire on top of eachother we get a **solenoid**:
 
 The **magnetic field** is **strongest inside of the solenoid** and is **weak outside of it**
 
-$B=\mu\frac{NI}{l}$
+$B=\frac{\mu_{0} NI}{L}$
+
+*B* = **magnetic field**: *T*
+*I* = **current through the wire**: *A*
+*N* = **number of wire turns**
+*L* = **length of the solenoid**
+$\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}$ $kgs^{-2}A^{-2}$ 
