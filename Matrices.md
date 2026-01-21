@@ -21,7 +21,7 @@ We can rewrite this as:
 
 $\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix}\begin{bmatrix}x \\ y\end{bmatrix}=\begin{bmatrix}8 \\ -6\end{bmatrix}$
 
-$A=\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix},\text{ }B=\begin{bmatrix}x \\ y\end{bmatrix},\text{ }C=\begin{bmatrix}8 \\ -6\end{bmatrix}$**
+$A=\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix},\text{ }B=\begin{bmatrix}x \\ y\end{bmatrix},\text{ }C=\begin{bmatrix}8 \\ -6\end{bmatrix}$
 
 This means we can write the equation as:
 
