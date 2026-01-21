@@ -10,3 +10,11 @@ A **matrix** is a **rectangular array** of numbers, symbols or expressions organ
 
 $\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix}$
 
+## Turning Simultaneous Equations into Matrices
+
+Consider the simultaneous equation:
+
+$2x+3y=8$
+$4x-5y=-6$
+
+/
