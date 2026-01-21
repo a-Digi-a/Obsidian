@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Functions in Rust"
             }
+          },
+          {
+            "id": "e9d63ce5e3c62e0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41ed0c80890a6bba",
+  "active": "e9d63ce5e3c62e0d",
   "lastOpenFiles": [
     "Common Programming Concepts in Rust.md",
     "Data Types in Rust.md",
