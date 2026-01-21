@@ -2,6 +2,8 @@
 
 # Matrices
 
+## What is a Matrix?
+
 A **matrix** is a **rectangular array** of numbers, symbols or expressions organised into **rows** and **columns**:
 
 **Example** **Matrix**:
@@ -21,11 +23,7 @@ $m\times n=\begin{bmatrix}a_{1,1}&a_{1,2}&\dots &a_{1,n} \\ a_{2,1}&a_{2,2}&\dot
 
 ## [[Matrix Subtraction]]
 
-## Matrix Scalar Multiplication
+## [[Matrix Scalar Multiplication]]
 
-**Matrices** can be **multiplied** by **scalars** too:
-
-$\begin{bmatrix}1&2&3 \\ 4&5&6\end{bmatrix}\times k=\begin{bmatrix}1k&2k&3k \\ 4k&5k&6k\end{bmatrix}$
-
-## Matrix Multiplication
+## [[Matrix Multiplication]]
 
