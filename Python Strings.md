@@ -1,4 +1,4 @@
-#programming #python #semester-1 
+#programming #programming/python #semester-1 
 # Strings
 
 **Strings** in python are surrounded by either **single** *or* **double** quotes:

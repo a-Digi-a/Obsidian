@@ -1,4 +1,4 @@
- #programming #python #semester-1 
+ #programming #programming/python #semester-1 
 
 # Sets
 
@@ -288,28 +288,26 @@ c_set = a_set.symmetric_difference(b_set)
 print(c_set) # 1, 2, 3, 5, 6, 7
 ```
 
-You can also use the **-** operator instead of the **difference()** method
+You can also use the **^** operator instead of the **symmetric_difference()** method
 ```python
 a_set = {1, 2 3, 4}
 b_set = {4, 5, 6, 7}
 
-c_set = a_set - b_set
-print(c_set) # 1, 2, 3
+c_set = a_set ^ b_set
+print(c_set) # 1, 2, 3, 5, 6, 7
 ```
 
-## Difference Update
+## Symmetric Difference Update
 
-The **difference_update()** method **updates the original set** with **only the items from the first set that are not in the other set**
+The **symmetric_difference_update()** method **updates the original set** with **only the items that are not in both sets**
+
 ```python
 a_set = {1, 2, 3, 4}
 b_set = {4, 5, 6, 7}
 
-a_set.difference_update(b_set)
-print(a_set) # 1, 2, 3
+a_set.symmetric_difference_update(b_set)
+print(a_set) # 1, 2, 3, 5, 6, 7
 ```
-**
-
-
 
 ## Using the Set Methods on Multiple Sets
 
@@ -333,4 +331,43 @@ c_set = {2.3, 4.6}
 d_set = a_set | b_set | c_set
 print(d_set)
 ```
+
+# Frozen Sets
+
+A  **frozen set** is an **immutable** version of a set. This means the elements in a frozen set **cannot** be changed. 
+
+A frozen set supports all **set methods** that don't add or remove elements.
+## Declaring a Frozen Set
+
+To declare a frozen set, we wrap a set in the **frozenset()** function.
+```python
+a_set = frozenset({1, 2, 3})
+print(a_set)
+```
+
+
+# All Set Methods
+
+
+| **Method**                        | **Shortcut** | **Description**                                                                  |
+| --------------------------------- | ------------ | -------------------------------------------------------------------------------- |
+| **add()**                         |              | *Adds an element to the set*                                                     |
+| **clear()**                       |              | *Removes all the elements from the set*                                          |
+| **copy()**                        |              | *Returns a copy of the set*                                                      |
+| **difference()**                  | *-*          | *Returns a set containing the difference between two or more sets*               |
+| **difference_update()**           | *-=*         | *Removes the items in this set that are also included in another, specified set* |
+| **discard()**                     |              | *Remove the specified item*                                                      |
+| **intersection()**                | *&*          | *Returns a set, that is the intersection of two other sets*                      |
+| **intersection_update()**         | *&=*         | *Removes the items in this set that are not present in other, specified set(s)*  |
+| **isdisjoint()**                  |              | *Returns whether two sets have a intersection or not*                            |
+| **issubset()**                    | *<=*         | *Returns True if all items of this set is present in another set*                |
+|                                   | *<*          | *Returns True if all items of this set is present in another, larger set*        |
+| **issuperset()**                  | *>=*         | *Returns True if all items of another set is present in this set*                |
+|                                   | *>*          | *Returns True if all items of another, smaller set is present in this set*       |
+| **pop()**                         |              | *Removes an element from the set*                                                |
+| **remove()**                      |              | *Removes the specified element*                                                  |
+| **symmetric_difference()**        | *^*          | *Returns a set with the symmetric differences of two sets*                       |
+| **symmetric_difference_update()** | *^=*         | *Inserts the symmetric differences from this set and another*                    |
+| **union()**                       | *\|*         | *Return a set containing the union of sets*                                      |
+| **update()**                      | *\|=*        | *Update the set with the union of this set and others*                           |
 

@@ -1,4 +1,4 @@
-#programming #rust 
+#programming #programming/rust 
 # [[Variables and Mutability in Rust]]
 
 # [[Data Types in Rust]]
