@@ -10,14 +10,19 @@ A **matrix** is a **rectangular array** of numbers, symbols or expressions organ
 
 $\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix}$
 
+**Matrix** columns and rows can be **infinitely big**, and are denoted by *n* and *m*
+
+$m*n$
+$\begin{bmatrix}\end{bmatrix}$
+
 ## Turning Simultaneous Equations into Matrices
 
-Consider the simultaneous equation:
+Consider the **simultaneous** **equation**:
 
 $2x+3y=8$
 $4x-5y=-6$
 
-We can rewrite this as:
+We can **rewrite** this as:
 
 $\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix}\begin{bmatrix}x \\ y\end{bmatrix}=\begin{bmatrix}8 \\ -6\end{bmatrix}$
 
@@ -26,3 +31,4 @@ $A=\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix},\text{ }B=\begin{bmatrix}x \\ y\e
 This means we can write the equation as:
 
 $Ax=B$
+
