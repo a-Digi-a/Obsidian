@@ -45,3 +45,6 @@ $A=B,~~~ A\neq C, ~~~ A\neq D$
 
 ## Matrix Addition
 
+**Matrices** can be **added** **only** if they have the **same dimensions**
+
+$C_{i,j}=A_{i,j}+$
