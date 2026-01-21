@@ -4,6 +4,7 @@
   "textFontFamily": "Segoe UI",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "bold-latex"
+    "bold-latex",
+    "math-color"
   ]
 }

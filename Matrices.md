@@ -26,4 +26,3 @@ $A=\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix},\text{ }B=\begin{bmatrix}x \\ y\e
 This means we can write the equation as:
 
 $Ax=B$
-
