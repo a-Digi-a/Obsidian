@@ -12,8 +12,8 @@ $\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix}$
 
 **Matrix** columns and rows can be **infinitely big**, and are denoted by *n* and *m*
 
-$m*n$
-$\begin{bmatrix}\end{bmatrix}$
+$m\text{ x }n$
+$m\times n=\begin{bmatrix}a_{1,1}&a_{1,2}&\dots &a_{1,n} \\ a_{2,1}&a_{2,2}&\dots &a_{2,n} \\\dots&\dots&\dots &a_{1,n} \\a_{1,1}&a_{1,2}&\dots &a_{1,n} \\a_{1,1}&a_{1,2}&\dots &a_{1,n} \\ \end{bmatrix}$
 
 ## Turning Simultaneous Equations into Matrices
 
