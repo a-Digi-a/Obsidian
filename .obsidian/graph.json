@@ -1,38 +1,24 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#programming/rust  ",
+      "query": "tag:#rust  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#programming/python  ",
+      "query": "tag:#python  ",
       "color": {
         "a": 1,
-        "rgb": 5413856
-      }
-    },
-    {
-      "query": "tag:#maths  ",
-      "color": {
-        "a": 1,
-        "rgb": 2603313
-      }
-    },
-    {
-      "query": "tag:#electronics  ",
-      "color": {
-        "a": 1,
-        "rgb": 7426784
+        "rgb": 2133199
       }
     }
   ],
@@ -41,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18444789647809542,
+  "scale": 0.1288697289985378,
   "close": true
 }
