@@ -33,4 +33,6 @@ $Ax=B$
 
 ### Why is This Useful?
 
+Imagine a equation had more than 10 variables. That would be very difficult to solve by hand. By **turning the equation into a matrix**, we can use **computer programs** such as **python** to solve them.
 
+## 
