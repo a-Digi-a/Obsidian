@@ -61,3 +61,9 @@ $\begin{bmatrix}1&2&3 \\ 4&5&6\end{bmatrix}-\begin{bmatrix}7&8&9 \\ 10&11&12\end
 
 ## Matrix Scalar Multiplication
 
+**Matrices** can be **multiplied** by **scalars** too:
+
+$\begin{bmatrix}1&2&3 \\ 4&5&6\end{bmatrix}\times k=\begin{bmatrix}1k&2k&3k \\ 4k&5k&6k\end{bmatrix}$
+
+## Matrix Multiplication
+
