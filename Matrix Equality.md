@@ -1,5 +1,6 @@
+#semester-2 #maths #problem-solving-for-engineers
 
-## Matrix Equality 
+# Matrix Equality 
 
 **Matrices** are **only equal** if they have the **same dimension** and **every element is the same**:
 

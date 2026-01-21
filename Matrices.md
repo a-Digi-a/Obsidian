@@ -2,8 +2,6 @@
 
 # Matrices
 
-## What is a matrix?
-
 A **matrix** is a **rectangular array** of numbers, symbols or expressions organised into **rows** and **columns**:
 
 **Example** **Matrix**:
@@ -14,32 +12,14 @@ $\begin{bmatrix}1 & 2 & 3 \\ 4 & 5 & 6\end{bmatrix}$
 
 $m\times n=\begin{bmatrix}a_{1,1}&a_{1,2}&\dots &a_{1,n} \\ a_{2,1}&a_{2,2}&\dots &a_{2,n} \\\dots&\dots&\dots &\dots \\a_{i,1}&\dots&a_{i,j} &\dots  \\\dots&\dots&\dots &\dots  \\a_{m,1}&a_{m,2}&\dots &a_{m,n} \\ \end{bmatrix}$
 
-## [[Turning Simultaneous Equations into Matrices]]
 
+## [[Turning Simultaneous Equations into Matrices]]
 
 ## [[Matrix Equality]] 
 
-**Matrices** are **only equal** if they have the **same dimension** and **every element is the same**:
+## [[Matrix Addition]]
 
-$A=\begin{bmatrix}1&2 \\ 3&2\end{bmatrix},~~B=\begin{bmatrix}1&2 \\ 3&2\end{bmatrix},~~C=\begin{bmatrix}1&1 \\ 3&1\end{bmatrix},~~D=\begin{bmatrix}1&1&1&1\end{bmatrix}$
-
-$A=B,~~~ A\neq C, ~~~ A\neq D$
-
-## Matrix Addition
-
-**Matrices** can be **added** **only** if they have the **same dimensions**
-
-$C_{i,j}=A_{i,j}+B_{i,j}$
-
-$\begin{bmatrix}1&2&3 \\ 4&5&6\end{bmatrix}+\begin{bmatrix}7&8&9 \\ 10&11&12\end{bmatrix}=\begin{bmatrix}1+7&2+8&3+9 \\ 4+10&5+11&6+12\end{bmatrix}$
-
-## Matrix Subtraction
-
-**Matrices** can be **subtracted** **only** if they have the **same dimensions**
-
-$C_{i,j}=A_{i,j}-B_{i,j}$
-
-$\begin{bmatrix}1&2&3 \\ 4&5&6\end{bmatrix}-\begin{bmatrix}7&8&9 \\ 10&11&12\end{bmatrix}=\begin{bmatrix}1-7&2-8&3-9 \\ 4-10&5-11&6-12\end{bmatrix}$
+## [[Matrix Subtraction]]
 
 ## Matrix Scalar Multiplication
 

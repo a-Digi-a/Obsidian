@@ -1,6 +1,6 @@
 #semester-2 #maths #problem-solving-for-engineers
 
-## Turning Simultaneous Equations into Matrices
+# Turning Simultaneous Equations into Matrices
 
 Consider the **simultaneous** **equation**:
 
