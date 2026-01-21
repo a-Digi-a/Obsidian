@@ -25,7 +25,7 @@ We can **rewrite** this as:
 
 $\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix}\begin{bmatrix}x \\ y\end{bmatrix}=\begin{bmatrix}8 \\ -6\end{bmatrix}$
 
-$A=\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix},\text{ }B=\begin{bmatrix}x \\ y\end{bmatrix},\text{ }C=\begin{bmatrix}8 \\ -6\end{bmatrix}$
+$A=\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix},~~B=\begin{bmatrix}x \\ y\end{bmatrix},~~C=\begin{bmatrix}8 \\ -6\end{bmatrix}$
 
 This means we can write the equation as:
 
@@ -39,4 +39,6 @@ Imagine a equation had more than 10 variables. That would be very difficult to s
 
 **Matrices** are **only equal** if they have the **same dimension** and **every element is the same**:
 
-$A=\begin{bmatrix}1&2 \\ 3&2\end{bmatrix},B=\begin{bmatrix}1&2 \\ 3&2\end{bmatrix},C=\begin{bmatrix}1&1 \\ 3&1\end{bmatrix},D=\begin{bmatrix}1&1&1&1\end{bmatrix}$
+$A=\begin{bmatrix}1&2 \\ 3&2\end{bmatrix},~~B=\begin{bmatrix}1&2 \\ 3&2\end{bmatrix},~~C=\begin{bmatrix}1&1 \\ 3&1\end{bmatrix},~~D=\begin{bmatrix}1&1&1&1\end{bmatrix}$
+
+$A=B,~~~ A\neq C, ~~~ A\neq D$
