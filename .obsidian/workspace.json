@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Integers.md",
+                "file": "Variables in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Integers"
+              "title": "Variables in Python"
             }
           },
           {
@@ -269,7 +269,13 @@
   },
   "active": "05f164eb31aef981",
   "lastOpenFiles": [
+    "Common Programming Concepts in Python.md",
+    "Python.md",
     "Types of Numbers.md",
+    "Irrational Numbers.md",
+    "Rational Numbers.md",
+    "Integers.md",
+    "Python Integers.md",
     "Natural Numbers.md",
     "Maths.md",
     "Matrices.md",
@@ -280,7 +286,6 @@
     "Functions in Rust.md",
     "Data Types in Rust.md",
     "Common Programming Concepts in Rust.md",
-    "Common Programming Concepts in Python.md",
     "Cargo.md",
     "Binary.md",
     "Matrix Scalar Multiplication.md",
@@ -290,8 +295,6 @@
     "Matrix Addition.md",
     "Variables and Mutability in Rust.md",
     "Python Sets.md",
-    "Python Shebang.md",
-    "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
@@ -302,9 +305,6 @@
     "attachments/Pasted image 20260120111633.png",
     "attachments/Pasted image 20260120110547.png",
     "attachments/Pasted image 20260120105334.png",
-    "attachments",
-    "Python Libraries.md",
-    "Magnetic Memory.md",
-    "Rust.md"
+    "attachments"
   ]
 }
