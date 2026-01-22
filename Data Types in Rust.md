@@ -1,9 +1,9 @@
  #programming #programming/rust
 
 
-Rust is a statically typed language, meaning that all data types of variables must be known at compile time.
+**Rust** is a **statically** **typed** language, meaning that all data types of variables must be **known** **at** **compile** **time**.
 
-We can declare a variables data type with the syntax below:
+We can **declare** a variables data type with the syntax below:
 ```rust
 let x: u32 = 5;
 ```
