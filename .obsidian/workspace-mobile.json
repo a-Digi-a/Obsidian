@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "276ef33a94096f36",
+    "id": "29ab0189e6129ac6",
     "type": "split",
     "children": [
       {
-        "id": "3bb9641c241adb89",
+        "id": "48bf0005ffcf6798",
         "type": "tabs",
         "children": [
           {
-            "id": "1ae5975bbd458157",
+            "id": "a65541222870bce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Sets.md",
+                "file": "Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Sets"
+              "title": "Matrices"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "76183ecb31dbaf2b",
+    "id": "b8412730041f033b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6c6d7c6918add794",
+        "id": "26a4ef52adf5b769",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "060530ad708b5bdc",
+        "id": "c5a89e17f0ba30fb",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "73900c3afed0121a",
+        "id": "0d343005933fc97a",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "492b0664cd127472",
+        "id": "b41f96a6ab829df7",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +90,7 @@
         }
       },
       {
-        "id": "137b37cd1756c5f9",
+        "id": "f13e24738484aafb",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -98,26 +98,16 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
-      },
-      {
-        "id": "8f12e014074eddde",
-        "type": "leaf",
-        "state": {
-          "type": "tagfolder-view",
-          "state": {},
-          "icon": "stacked-levels",
-          "title": "Tag Folder"
-        }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "right": {
-    "id": "3e2d9ad67d010ae3",
+    "id": "ba98c48343ae01f5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5c1abac31ea6c1ba",
+        "id": "c93250d5e25fb296",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -135,7 +125,7 @@
         }
       },
       {
-        "id": "adc94c1712d327ed",
+        "id": "a6af1939c0c49374",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -148,7 +138,7 @@
         }
       },
       {
-        "id": "12e31ed03aa6725d",
+        "id": "590e120b6229c9e5",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -162,17 +152,7 @@
         }
       },
       {
-        "id": "873d76b7c677c9bd",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
-      },
-      {
-        "id": "22f39084e0080a48",
+        "id": "591e0d9fdd30419f",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -182,50 +162,63 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "1ae5975bbd458157",
+  "active": "a65541222870bce2",
   "lastOpenFiles": [
-    "Types of Numbers.md",
     "Maths.md",
-    "/Variables in Python.md",
-    "/Variables and Mutability in Rust.md",
-    "/Types of Numbers.md",
-    "/Rust.md",
-    "/Python.md",
-    "/Python Tuples.md",
-    "/Python Strings.md",
-    "/Python Sets.md",
-    "/Python Operators.md",
-    "/Python Lists.md",
-    "/Python Integers.md",
-    "/Python Floats.md",
-    "/Python Dictionaries.md",
-    "/Python Complex Numbers.md",
-    "/Python Booleans.md",
-    "/Maths.md",
-    "/Functions in Rust.md",
-    "/Data Types in Rust.md",
-    "/Data Types in Python.md",
-    "/Common Programming Concepts in Rust.md",
-    "/Common Programming Concepts in Python.md",
-    "/Cargo.md",
-    "Data Types in Python.md",
-    "Python.md"
+    "attachments/Pasted image 20260120112342.png",
+    "attachments/Pasted image 20260120112304.png",
+    "attachments/Pasted image 20260120112256.png",
+    "attachments/Pasted image 20260120112239.png",
+    "attachments/Pasted image 20260120112226.png",
+    "attachments/Pasted image 20260120112217.png",
+    "attachments/Pasted image 20260120112111.png",
+    "attachments/Pasted image 20260120111633.png",
+    "attachments/Pasted image 20260120110547.png",
+    "attachments/Pasted image 20260120105334.png",
+    "Variables in Python.md",
+    "Variables and Mutability in Rust.md",
+    "Types of Numbers.md",
+    "Turning Simultaneous Equations into Matrices.md",
+    "Rust.md",
+    "Readme.md",
+    "Rational Numbers.md",
+    "Python.md",
+    "Python Tuples.md",
+    "Python Strings.md",
+    "Python Shebang.md",
+    "Python Sets.md",
+    "Python Operators.md",
+    "Python Lists.md",
+    "Python Libraries.md",
+    "Python Integers.md",
+    "Python Floats.md",
+    "Python Dictionaries.md",
+    "Python Complex Numbers.md",
+    "Python Booleans.md",
+    "Programming Languages.md",
+    "Natural Numbers.md",
+    "Matrix Subtraction.md",
+    "Matrix Scalar Multiplication.md",
+    "Matrix Equality.md",
+    "attachments"
   ]
 }
