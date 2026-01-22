@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Types in Rust.md",
+                "file": "Electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types in Rust"
+              "title": "Electronics"
             }
           }
         ]
@@ -227,7 +227,9 @@
   },
   "active": "be5fbdfc292588e0",
   "lastOpenFiles": [
+    "Data Types in Rust.md",
     "Common Programming Concepts in Rust.md",
+    "Functions in Rust.md",
     "Variables and Mutability in Rust.md",
     "Rust.md",
     "Matrix Addition.md",
@@ -248,10 +250,8 @@
     "Natural Numbers.md",
     "Magnetism.md",
     "Magnetic Fields.md",
-    "Introduction to Electronics.md",
+    "Electronics.md",
     "Geomagnetism.md",
-    "Functions in Rust.md",
-    "Data Types in Rust.md",
     "Cargo.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
