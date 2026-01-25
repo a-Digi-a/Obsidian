@@ -2,4 +2,5 @@
 
 # Bash
 
-Bash is a [[shell]] that is commonly installed on linux systems, servers, etc. 
+Bash is a [[shell]] that is commonly installed on linux systems, servers, etc. It is commonly used for **scripting** and automating certain tasks.
+
