@@ -240,11 +240,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0660f1eb88bec806",
+  "active": "7f6d5fd25e08dc3f",
   "lastOpenFiles": [
+    "Shell.md",
+    "Programming Languages.md",
     "Bash.md",
     "Rust.md",
-    "Programming Languages.md",
     "Python.md",
     "Functions in Rust.md",
     "Common Programming Concepts in Rust.md",
@@ -277,7 +278,6 @@
     "Magnetic Memory.md",
     "Magnetic Fields.md",
     "Irrational Numbers.md",
-    "Integers.md",
-    "Geomagnetism.md"
+    "Integers.md"
   ]
 }
