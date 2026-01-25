@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
-                "mode": "preview",
+                "file": "Programming Languages.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Programming Languages"
+            }
+          },
+          {
+            "id": "7f6d5fd25e08dc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,12 +240,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "be5fbdfc292588e0",
+  "active": "0660f1eb88bec806",
   "lastOpenFiles": [
+    "Bash.md",
+    "Rust.md",
     "Programming Languages.md",
+    "Python.md",
     "Functions in Rust.md",
     "Common Programming Concepts in Rust.md",
-    "Rust.md",
     "Matrices.md",
     "Maths.md",
     "Variables and Mutability in Rust.md",
@@ -261,8 +278,6 @@
     "Magnetic Fields.md",
     "Irrational Numbers.md",
     "Integers.md",
-    "Geomagnetism.md",
-    "Electronics.md",
-    "Binary.md"
+    "Geomagnetism.md"
   ]
 }
