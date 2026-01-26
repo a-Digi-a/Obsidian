@@ -6,8 +6,6 @@
 
 # [[Bash Commands]]
 
-# [[Bash Operators]]
-
-# [[Writing and Appending Bash Command Output]]
+# [[Bash Command Operators]]
 
 # [[Bash Scripting]]

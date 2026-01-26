@@ -1,6 +1,6 @@
 #programming #programming/bash 
 
-# Bash Operators
+# Bash Command Operators
 
 ## Piping Bash Commands
 
@@ -35,3 +35,5 @@ Run this command to remove the text file created (if you ran the ones above)
 ```bash
 rm hello.txt
 ```
+
+## 
