@@ -6,4 +6,6 @@
 
 # [[Bash Commands]]
 
+# [[Piping Bash Commands]]
+
 # [[Bash Scripting]]
