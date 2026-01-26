@@ -1,5 +1,7 @@
 #programming #programming/bash 
 
-# [[Echo]]
+# [[Echo Command]]
 
-# [[Cat]]
+# [[Cat Command]]
+
+# [[Bash pwd|pwd]]

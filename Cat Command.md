@@ -5,5 +5,5 @@
 The **cat** command **prints the contents of a file to the command line**:
 
 ```bash
-cat ./Cat.md
+cat ./README.md
 ```
