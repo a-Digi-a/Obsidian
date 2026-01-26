@@ -1,6 +1,6 @@
 #programming #programming/bash 
 
-# Cat
+# cat
 
 The **cat** command **prints the contents of a file to the command line**:
 

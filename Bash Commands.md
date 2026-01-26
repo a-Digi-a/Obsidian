@@ -1,7 +1,10 @@
 #programming #programming/bash 
 
-# [[Echo Command]]
+# [[echo Command|echo]]
 
-# [[Cat Command]]
+# [[cat Command|cat]]
 
-# [[Bash pwd|pwd]]
+# [[pwd Command|pwd]]
+
+# [[cd Command]]
+
