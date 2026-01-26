@@ -12,4 +12,6 @@
 
 # [[Bash Control Flow]]
 
+# [[Bash Arrays]]
+
 # [[Bash Parameter Expansion]]
