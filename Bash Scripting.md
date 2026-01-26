@@ -12,6 +12,8 @@
 
 # [[Bash If Else and Case Statements]]
 
+# [[Bash Loops]]
+
 # [[Bash Arrays]]
 
 # [[Bash Parameter Expansion]]
