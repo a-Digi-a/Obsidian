@@ -10,7 +10,7 @@
 
 # [[Bash Test Operators]]
 
-# [[Bash Control Flow]]
+# [[Bash If Else and Case Statements]]
 
 # [[Bash Arrays]]
 

@@ -1,6 +1,6 @@
 #programming #programming/bash 
 
-# Bash Control Flow
+# Bash If Else and Case Statements
 
 ## If Statements
 
