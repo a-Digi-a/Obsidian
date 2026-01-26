@@ -42,4 +42,14 @@ Notice there is no **then** statement after **else**
 
 ## Case Statements
 
-**Case statements
+**Case statements** are useful when comparing something multiple times:
+
+```bash
+var1="hello"
+
+case ${var1,,} in
+	hello | hi)
+		echo hi!
+		;;
+	goodbye | bye
+```
