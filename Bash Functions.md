@@ -17,3 +17,5 @@ EOF
 }
 showuptime
 ```
+
+You can also **return val
