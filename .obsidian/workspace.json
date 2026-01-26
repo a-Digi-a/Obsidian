@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Bash"
             }
+          },
+          {
+            "id": "873dd0717d9ba0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash Commands"
+            }
+          },
+          {
+            "id": "5e0b38d8b20d6003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Echo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echo"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,11 +268,13 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7f6d5fd25e08dc3f",
+  "active": "5e0b38d8b20d6003",
   "lastOpenFiles": [
+    "Echo.md",
+    "Bash Commands.md",
+    "Bash.md",
     "Shell.md",
     "Programming Languages.md",
-    "Bash.md",
     "Rust.md",
     "Python.md",
     "Functions in Rust.md",
@@ -276,8 +306,6 @@
     "Matrix Addition.md",
     "Magnetism.md",
     "Magnetic Memory.md",
-    "Magnetic Fields.md",
-    "Irrational Numbers.md",
-    "Integers.md"
+    "Magnetic Fields.md"
   ]
 }
