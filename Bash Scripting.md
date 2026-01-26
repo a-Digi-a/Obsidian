@@ -14,6 +14,8 @@
 
 # [[Bash Loops]]
 
+# [[Bash Functions]]
+
 # [[Bash Arrays]]
 
 # [[Bash Parameter Expansion]]
