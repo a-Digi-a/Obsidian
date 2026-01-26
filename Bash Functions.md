@@ -18,4 +18,15 @@ EOF
 showuptime
 ```
 
-You can also **return val
+You can also **return values** from a function:
+
+```bash
+function1() {
+	echo hi
+	return 1
+}
+function1
+if [ $? = 1 ]; then
+	echo "hello!"
+fi
+```
