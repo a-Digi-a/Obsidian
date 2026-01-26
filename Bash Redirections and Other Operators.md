@@ -1,6 +1,6 @@
 #programming #programming/bash 
 
-# Bash Command Operators
+# Bash Redirections and Other Operators
 
 ## Piping Bash Commands
 

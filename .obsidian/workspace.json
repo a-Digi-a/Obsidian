@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash Command Operators.md",
+                "file": "Bash Redirections and Other Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash Command Operators"
+              "title": "Bash Redirections and Other Operators"
             }
           },
           {
@@ -310,9 +310,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0660f1eb88bec806",
+  "active": "254fa45007336d2c",
   "lastOpenFiles": [
-    "Bash Command Operators.md",
+    "Bash Redirections and Other Operators.md",
     "Bash.md",
     "Writing and Appending Bash Command Output.md",
     "Bash Scripting.md",

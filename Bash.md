@@ -6,6 +6,6 @@
 
 # [[Bash Commands]]
 
-# [[Bash Command Operators]]
+# [[Bash Redirections and Other Operators]]
 
 # [[Bash Scripting]]
