@@ -45,11 +45,19 @@ Notice there is no **then** statement after **else**
 **Case statements** are useful when comparing something multiple times:
 
 ```bash
-var1="hello"
+var1=hello
 
 case ${var1,,} in
 	hello | hi)
 		echo hi!
 		;;
-	goodbye | bye
+	goodbye | bye)
+		echo bye!
+		;;
+	*)
+		echo im not sure what you said!
+esac
 ```
+
+The **|** operator allows us to compare it to multiple things.
+Note that a case statement ends with **esac**
