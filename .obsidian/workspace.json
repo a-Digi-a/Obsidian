@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "e136e6ad59659bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash Scripting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash Scripting"
+            }
+          },
+          {
+            "id": "9c1ecf83fea2e3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash Shebang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash Shebang"
+            }
+          },
+          {
             "id": "873dd0717d9ba0d0",
             "type": "leaf",
             "state": {
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,14 +282,16 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "873dd0717d9ba0d0",
+  "active": "9c1ecf83fea2e3d9",
   "lastOpenFiles": [
+    "Bash Shebang.md",
+    "Bash Scripting.md",
+    "Bash.md",
+    "Bash Commands.md",
     "cat Command.md",
     "pwd Command.md",
     "echo Command.md",
     "cd Command.md",
-    "Bash Commands.md",
-    "Bash.md",
     "Shell.md",
     "Programming Languages.md",
     "Rust.md",
@@ -290,8 +320,6 @@
     "Python Libraries.md",
     "Natural Numbers.md",
     "Matrix Subtraction.md",
-    "Matrix Scalar Multiplication.md",
-    "Matrix Equality.md",
-    "Matrix Addition.md"
+    "Matrix Scalar Multiplication.md"
   ]
 }
