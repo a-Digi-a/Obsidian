@@ -58,3 +58,6 @@ fn print_labeled_measurement(value: i32, unit_label: char) {
 
 # Statements and Expressions
 
+**Statements** are instructions that do an action but **do not** return a value.
+**Expressions** evaluate to a resultant value; If you assign it to a variable, it will be valid code.
+
