@@ -13,4 +13,5 @@ This code creates a variable **x** with the type **u32**.
 
 # [[Data Types Located on the Stack in Rust]]
 
-# Types Located on the [[Heap]]
+# [[Data Types Located on the Heap in Rust]]
+
