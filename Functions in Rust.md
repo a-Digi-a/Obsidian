@@ -61,3 +61,14 @@ fn print_labeled_measurement(value: i32, unit_label: char) {
 **Statements** are instructions that do an action but **do not** return a value.
 **Expressions** evaluate to a resultant value; If you assign it to a variable, it will be valid code.
 
+Lets look at an example:
+
+```rust
+fn main() {
+	let y = 6;
+}
+```
+
+in this code, **let y = 6** is a statement, while **y = 6** is an expression.
+
+**Function definitions** are also statements, therefore you cannot 
