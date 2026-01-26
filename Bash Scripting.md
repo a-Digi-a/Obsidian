@@ -7,3 +7,5 @@
 # [[Bash Variables]]
 
 # [[Bash Positional Arguments]]
+
+# [[Bash Test Operators]]

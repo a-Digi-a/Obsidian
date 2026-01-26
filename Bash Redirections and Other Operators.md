@@ -45,11 +45,17 @@ wc -w hello.txt # Will print the name of the file as the file is an argument
 wc -w < hello.txt # Will not print the name of the file as the file is not an argument
 ```
 
-By using the *<<* operator we can **open and close reading text**
+By using the *<<* operator we can **read lines from a source until a line with only the delimiter appears**
 
 ```bash
 cat << EOF
 ```
 
-This command will allow us to write text until a line that contains **EOF** (does not work inside of obsidian)
+This command will allow us to write text until a line that contains **only** the text **EOF** (does not work inside of obsidian)
+
+The *<<<* operator allows us to **feed a string into a command**:
+
+```bash
+wc -w <<< "Hello There Wordcount!"
+```
 
