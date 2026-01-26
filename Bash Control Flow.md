@@ -14,6 +14,31 @@ fi
 
 Notice the **fi** keyword at the end of the statement
 
-## Elif Statements
+## Else If Statements
 
 **Bash** also supports **elif** statements:
+
+```bash
+if [ hello = world ]; then
+	echo Hello, World!
+elif [ hello = hello ]; then
+	echo hello
+fi
+```
+
+## Else Statements
+
+**Bash** also supports **else** statements:
+
+```bash
+if [ hello = world ]; then
+	echo Hello, World!
+else
+	echo hello
+fi
+```
+
+Notice there is no **then** statement after **else**
+
+## Case Statements
+
