@@ -56,6 +56,11 @@ fn print_labeled_measurement(value: i32, unit_label: char) {
 }
 ```
 
+
+# Functions with Return Values
+
+**Functions** can **return values** 
+
 # Statements and Expressions
 
 **Statements** are instructions that do an action but **do not** return a value.
