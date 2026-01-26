@@ -6,7 +6,7 @@
 
 # [[Bash Commands]]
 
-# [[Piping Bash Commands]]
+# [[Bash Operators]]
 
 # [[Writing and Appending Bash Command Output]]
 
