@@ -7,5 +7,5 @@ However, **linux** by default does **not** allow programs to be run. We need to 
 
 ```bash
 chmod +x script.sh # Allows the script to be run
-chmod u+
+chmod u+x script.sh # Allows the script to be run only by the user
 ```

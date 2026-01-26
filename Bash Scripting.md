@@ -3,3 +3,5 @@
 # [[Bash Shebang]]
 
 # [[Running Bash Scripts]]
+
+# [[Bash Variables]]
