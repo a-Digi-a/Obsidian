@@ -59,7 +59,19 @@ fn print_labeled_measurement(value: i32, unit_label: char) {
 
 # Functions with Return Values
 
-**Functions** can **return values** to the code that calls them. We must **declare** the returned values **type** with an **arrow ->**. In **rust**, th
+**Functions** can **return values** to the code that calls them. We must **declare** the returned values **type** with an **arrow ->**. In **rust**, the **last expression in a function** will be the **returned value**. You can also specify the returned value with the **return** keyword.
+
+```rust
+fn five() -> i32 {
+	5 // we could also say return 5;!
+}
+
+fn main() {
+let x = five();
+
+println!("The value of x is: {x}");
+}
+```
 
 # Statements and Expressions
 
