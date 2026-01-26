@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#programming/bash  ",
+      "color": {
+        "a": 1,
+        "rgb": 6055516
+      }
+    },
+    {
+      "query": "tag:#electronics  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
     }
   ],
   "collapse-display": true,
