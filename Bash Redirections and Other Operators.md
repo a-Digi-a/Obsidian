@@ -12,7 +12,7 @@ ls | grep Downloads
 
 This command feeds the **output** of *ls* into *grep*
 
-## Writing and Appending Bash Command Output
+## Redirecting Output
 
 By using the *>* operator we can **write** **the** **output** of a **command** to a file:
 
@@ -36,4 +36,6 @@ Run this command to remove the text file created (if you ran the ones above)
 rm hello.txt
 ```
 
-## 
+## Redirecting Input
+
+By using the *<* operator we can **redirect** the i
