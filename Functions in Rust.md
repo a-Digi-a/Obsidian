@@ -71,4 +71,12 @@ fn main() {
 
 in this code, **let y = 6** is a statement, while **y = 6** is an expression.
 
-**Function definitions** are also statements, therefore you cannot 
+**Function definitions** are also statements, and statements do **not** return values. Therefore, you **cannot** use a **let** statement with it:
+
+```rust
+fn main() {
+	let x = (let y = 6);
+}
+```
+
+This code will return an error, as a statement does not return a value.

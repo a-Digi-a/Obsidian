@@ -230,8 +230,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0660f1eb88bec806",
+  "active": "98a070ac7f48fbe3",
   "lastOpenFiles": [
+    "Untitled.md",
     "Functions in Rust.md",
     "Common Programming Concepts in Rust.md",
     "Data Types in Rust.md",
@@ -257,7 +258,6 @@
     "Running Bash Scripts.md",
     "Bash Shebang.md",
     "cat Command.md",
-    "pwd Command.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
