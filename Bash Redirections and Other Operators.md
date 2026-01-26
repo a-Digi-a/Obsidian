@@ -38,4 +38,18 @@ rm hello.txt
 
 ## Redirecting Input
 
-By using the *<* operator we can **redirect** the i
+By using the *<* operator we can **redirect the input** of a command/file:
+
+```shell
+wc -w hello.txt # Will print the name of the file as the file is an argument
+wc -w < hello.txt # Will not print the name of the file as the file is not an argument
+```
+
+By using the *<<* operator we can **open and close reading text**
+
+```bash
+cat << EOF
+```
+
+This command will allow us to write text until a line that contains **EOF** (does not work inside of obsidian)
+
