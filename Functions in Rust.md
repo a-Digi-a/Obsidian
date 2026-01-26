@@ -59,7 +59,7 @@ fn print_labeled_measurement(value: i32, unit_label: char) {
 
 # Functions with Return Values
 
-**Functions** can **return values** 
+**Functions** can **return values** to the code that calls them. We must **declare** the returned values **type** with an **arrow ->**. In **rust**, th
 
 # Statements and Expressions
 
