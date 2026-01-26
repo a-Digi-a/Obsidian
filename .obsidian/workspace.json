@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -342,14 +342,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c0d5524c11b48732",
+  "active": "b0ae63b94221ac76",
   "lastOpenFiles": [
-    "Bash Parameter Expansion.md",
     "Bash Scripting.md",
+    "Bash Redirections and Other Operators.md",
+    "Bash Parameter Expansion.md",
     "Bash.md",
     "Bash Control Flow.md",
     "Bash Test Operators.md",
-    "Bash Redirections and Other Operators.md",
     "Writing and Appending Bash Command Output.md",
     "Bash Positional Arguments.md",
     "Bash Variables.md",
