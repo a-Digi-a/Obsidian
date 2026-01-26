@@ -34,107 +34,9 @@
               "icon": "lucide-file",
               "title": "Bash Scripting"
             }
-          },
-          {
-            "id": "c3b8554ba19b5e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash Functions"
-            }
-          },
-          {
-            "id": "9b6174a4a5ad04f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash Parameter Expansion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash Parameter Expansion"
-            }
-          },
-          {
-            "id": "ae7918ee8b8727e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash Loops.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash Loops"
-            }
-          },
-          {
-            "id": "254fa45007336d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash Redirections and Other Operators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash Redirections and Other Operators"
-            }
-          },
-          {
-            "id": "e136e6ad59659bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash Scripting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash Scripting"
-            }
-          },
-          {
-            "id": "09602594dc34bf71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash If Else and Case Statements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash If Else and Case Statements"
-            }
-          },
-          {
-            "id": "75ab0bce68a2d966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash Arrays.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bash Arrays"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,19 +230,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c3b8554ba19b5e88",
+  "active": "0660f1eb88bec806",
   "lastOpenFiles": [
-    "Bash Functions.md",
     "Bash Scripting.md",
-    "Bash Loops.md",
     "Bash Arrays.md",
     "Bash If Else and Case Statements.md",
-    "Bash Commands.md",
+    "Bash Redirections and Other Operators.md",
+    "Bash Loops.md",
+    "Bash Parameter Expansion.md",
+    "Bash Functions.md",
     "Bash Variables.md",
+    "Bash Commands.md",
     "Bash Positional Arguments.md",
     "Bash Test Operators.md",
-    "Bash Redirections and Other Operators.md",
-    "Bash Parameter Expansion.md",
     "Bash.md",
     "Writing and Appending Bash Command Output.md",
     "Running Bash Scripts.md",

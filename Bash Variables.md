@@ -8,3 +8,12 @@
 variable1=1
 echo $variable1
 ```
+
+We can **declare** a **local variable** with the **local** keyword:
+```bash
+function1(){
+	local variable1=1
+	echo $variable1
+}
+function1
+```

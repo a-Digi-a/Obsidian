@@ -2,7 +2,7 @@
 
 # Bash Functions
 
-We can **define** a **function** by using the **function(parameters) {code}** syntax:
+We can **define** a **function** by using the **function() {code}** syntax:
 
 ```bash
 showuptime(){
