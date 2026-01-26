@@ -8,4 +8,6 @@
 
 # [[Piping Bash Commands]]
 
+# [[Writing and Appending Bash Command Output]]
+
 # [[Bash Scripting]]

@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "1f28d96186a54bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing and Appending Bash Command Output.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing and Appending Bash Command Output"
+            }
+          },
+          {
             "id": "cfd8d39a1f3a1683",
             "type": "leaf",
             "state": {
@@ -310,10 +324,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "cfd8d39a1f3a1683",
+  "active": "1f28d96186a54bc5",
   "lastOpenFiles": [
-    "Piping Bash Commands.md",
+    "Writing and Appending Bash Command Output.md",
     "Bash.md",
+    "Piping Bash Commands.md",
     "Bash Scripting.md",
     "Bash Positional Arguments.md",
     "Bash Variables.md",
@@ -347,7 +362,6 @@
     "attachments",
     "Types of Numbers.md",
     "Turning Simultaneous Equations into Matrices.md",
-    "Rational Numbers.md",
-    "Python Shebang.md"
+    "Rational Numbers.md"
   ]
 }
