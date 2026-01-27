@@ -15,7 +15,7 @@ $A=\begin{bmatrix}2 & 3 \\ 4 & -5\end{bmatrix},~~B=\begin{bmatrix}x \\ y\end{bma
 
 This means we can write the equation as:
 
-$Ax=B$
+$AB=C$
 
 ### Why is This Useful?
 
