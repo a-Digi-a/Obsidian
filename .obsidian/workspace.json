@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Dictionaries.md",
+                "file": "Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Dictionaries"
+              "title": "Matrices"
             }
           }
         ],
@@ -232,6 +232,9 @@
   },
   "active": "e1a641a297d74bdd",
   "lastOpenFiles": [
+    "Matrix Multiplication.md",
+    "Matrices.md",
+    "Python Dictionaries.md",
     "Data Types in Python.md",
     "Python Strings.md",
     "Python Lists.md",
@@ -255,9 +258,6 @@
     "Bash If Else and Case Statements.md",
     "Bash Loops.md",
     "Bash Parameter Expansion.md",
-    "Bash Variables.md",
-    "Bash Positional Arguments.md",
-    "Bash Test Operators.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
