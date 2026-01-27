@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Lists.md",
+                "file": "Python Dictionaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Lists"
+              "title": "Python Dictionaries"
             }
           }
         ],
@@ -232,7 +232,9 @@
   },
   "active": "e1a641a297d74bdd",
   "lastOpenFiles": [
+    "Data Types in Python.md",
     "Python Strings.md",
+    "Python Lists.md",
     "Control Flow in Rust.md",
     "Common Programming Concepts in Rust.md",
     "Functions in Rust.md",
@@ -256,8 +258,6 @@
     "Bash Variables.md",
     "Bash Positional Arguments.md",
     "Bash Test Operators.md",
-    "Writing and Appending Bash Command Output.md",
-    "Running Bash Scripts.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
