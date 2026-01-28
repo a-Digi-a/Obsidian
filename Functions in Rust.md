@@ -56,5 +56,44 @@ fn print_labeled_measurement(value: i32, unit_label: char) {
 }
 ```
 
+
+# Functions with Return Values
+
+**Functions** can **return values** to the code that calls them. We must **declare** the returned values **type** with an **arrow ->**. In **rust**, the **last expression in a function** will be the **returned value**. You can also specify the returned value with the **return** keyword.
+
+```rust
+fn five() -> i32 {
+	5 // we could also say return 5;!
+}
+
+fn main() {
+let x = five();
+
+println!("The value of x is: {x}");
+}
+```
+
 # Statements and Expressions
 
+**Statements** are instructions that do an action but **do not** return a value.
+**Expressions** evaluate to a resultant value; If you assign it to a variable, it will be valid code.
+
+Lets look at an example:
+
+```rust
+fn main() {
+	let y = 6;
+}
+```
+
+in this code, **let y = 6** is a statement, while **y = 6** is an expression.
+
+**Function definitions** are also statements, and statements do **not** return values. Therefore, you **cannot** use a **let** statement with it:
+
+```rust
+fn main() {
+	let x = (let y = 6);
+}
+```
+
+This code will return an error, as a statement does not return a value.
