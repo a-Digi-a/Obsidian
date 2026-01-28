@@ -111,8 +111,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ],
@@ -227,6 +227,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
@@ -237,8 +239,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1f6118277a2a2a6a",
