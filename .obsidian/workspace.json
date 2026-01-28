@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrices.md",
+                "file": "Data Types in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrices"
+              "title": "Data Types in Python"
             }
           }
         ],
@@ -244,6 +244,10 @@
   },
   "active": "1f6118277a2a2a6a",
   "lastOpenFiles": [
+    "Python Tuples.md",
+    "Data Types in Python.md",
+    "Python.md",
+    "Matrices.md",
     "Maths.md",
     "conflict-files-obsidian-git.md",
     "Turning Simultaneous Equations into Matrices.md",
@@ -253,7 +257,6 @@
     "Matrix Scalar Multiplication.md",
     "Matrix Equality.md",
     "Matrix Addition.md",
-    "Matrices.md",
     "Irrational Numbers.md",
     "Integers.md",
     "Electronics.md",
@@ -275,11 +278,8 @@
     "attachments/Pasted image 20260120112217.png",
     "attachments/Pasted image 20260120112111.png",
     "attachments",
-    "Python.md",
     "Common Programming Concepts in Python.md",
-    "Data Types in Python.md",
     "Python Dictionaries.md",
-    "Types of Numbers.md",
-    "Data Types in Rust.md"
+    "Types of Numbers.md"
   ]
 }
