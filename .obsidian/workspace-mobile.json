@@ -181,8 +181,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a65541222870bce2",
+  "active": "26a4ef52adf5b769",
   "lastOpenFiles": [
+    "Matrix Multiplication.md",
+    "/Turning Simultaneous Equations into Matrices.md",
+    "/Matrix Multiplication.md",
     "Data Types Located on the Stack in Rust.md",
     "Data Types in Rust.md",
     "Common Programming Concepts in Rust.md",
@@ -206,9 +209,6 @@
     "/Compound Data Types in Rust.md",
     "/Common Programming Concepts in Rust.md",
     "Bash Variables.md",
-    "Bash Shebang.md",
-    "Bash Redirections and Other Operators.md",
-    "Bash Functions.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
