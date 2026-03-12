@@ -190,12 +190,13 @@ graph TD
 
     subgraph Scoring [Scoring Logic]
     Result --> ParityCheck{Is Sum Even/Odd?}
-    ParityCheck -- Matches Choice --> PlayerPoints[Player +2]
-    ParityCheck -- Different Choice --> AIPoints[AI +2]
+    ParityCheck -- Matches Player --> PlayerPoints[Player +2]
+    ParityCheck -- Matches AI --> AIPoints[AI +2]
+    ParityCheck -- Both Equal --> BothEqual[No Bonus Points]
     
     PlayerPoints --> Proximity{Proximity Bonus}
     AIPoints --> Proximity
-    BothEqual[Both Equal] --> Proximity
+    BothEqual --> Proximity
     
     Proximity -- Player Closer --> PBonus[Player +1]
     Proximity -- AI Closer --> ABonus[AI +1]
