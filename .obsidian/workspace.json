@@ -18,8 +18,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.4"
             }
+          },
+          {
+            "id": "0e36dcf4bddc7d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odds and Evens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Odds and Evens"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +228,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "bc4d422914ec26c6",
+  "active": "0e36dcf4bddc7d4b",
   "lastOpenFiles": [
+    "Odds and Evens.md",
+    "Untitled",
     "Common Programming Concepts in Rust.md",
     "Turning Simultaneous Equations into Matrices.md",
     "Rust.md",
@@ -236,11 +253,9 @@
     "Python Strings.md",
     "Python Lists.md",
     "Functions in Rust.md",
-    "Untitled.md",
     "Data Types in Rust.md",
     "Data Types Located on the Stack in Rust.md",
     "Compound Data Types in Rust.md",
-    "Scalar Data Types in Rust.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
