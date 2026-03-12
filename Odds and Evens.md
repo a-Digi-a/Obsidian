@@ -183,8 +183,10 @@ graph TD
 
     subgraph Game_Logic [Game Loop]
     Game --> FingerInput[/Input Fingers Held 1-10/]
-    FingerInput --> AI_Roll[AI Random Fingers Held 1-10]
-    AI_Roll --> Sum[Calculate Sum of Both Hands]
+    FingerInput --> FingerAppend[Append Input to player_list]
+	FingerAppend --> AI_Roll[AI Random Fingers Held 1-10]
+    AI_Roll --> AIAppend[Append Input to ai_list]
+	AIAppend --> Sum[Calculate the Sum of Both Hands]
     Sum --> Result[get_result]
     end
 
