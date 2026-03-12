@@ -169,6 +169,49 @@ menu()
 ```
 
 ```mermaid
-flowchart LR
-	a --> b
+graph TD
+    Start([Start Program]) --> Menu[menu]
+    
+    subgraph Menu_Function [Menu Selection]
+    Menu --> InputMenu{User Input}
+    InputMenu -- "1 (Odd)" --> SetOdd[Add 'Odd' to player_list]
+    InputMenu -- "2 (Even)" --> SetEven[Add 'Even' to player_list]
+    InputMenu -- "3 (Exit)" --> End([End Program])
+    SetOdd --> Game[game]
+    SetEven --> Game
+    end
+
+    subgraph Game_Logic [Game Loop]
+    Game --> FingerInput[/Input Fingers 1-10/]
+    FingerInput --> AI_Roll[AI Random 1-10]
+    AI_Roll --> Sum[Calculate Sum]
+    Sum --> Result[get_result]
+    end
+
+    subgraph Scoring [Scoring Logic]
+    Result --> ParityCheck{Is Sum Even/Odd?}
+    ParityCheck -- Matches Choice --> PlayerPoints[Player +2]
+    ParityCheck -- Different Choice --> AIPoints[AI +2]
+    
+    PlayerPoints --> Proximity{Proximity Bonus}
+    AIPoints --> Proximity
+    BothEqual[Both Equal] --> Proximity
+    
+    Proximity -- Player Closer --> PBonus[Player +1]
+    Proximity -- AI Closer --> ABonus[AI +1]
+    end
+
+    PBonus --> CheckWin{check_win}
+    ABonus --> CheckWin
+
+    CheckWin -- Score < 6 --> Game
+    CheckWin -- Score >= 6 --> Results[print_results]
+    
+    Results --> Replay{Play Again?}
+    Replay -- "Y" --> Menu
+    Replay -- "N" --> FinalEnd([End Program])
+
+    style Menu_Function fill:#f9f,stroke:#333
+    style Scoring fill:#bbf,stroke:#333
+    style Game_Logic fill:#dfd,stroke:#333
 ```
