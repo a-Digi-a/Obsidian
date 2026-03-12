@@ -182,17 +182,17 @@ graph TD
     end
 
     subgraph Game_Logic [Game Loop]
-    Game --> FingerInput[/Input Fingers 1-10/]
-    FingerInput --> AI_Roll[AI Random 1-10]
-    AI_Roll --> Sum[Calculate Sum]
+    Game --> FingerInput[/Input Fingers Held 1-10/]
+    FingerInput --> AI_Roll[AI Random Fingers Held 1-10]
+    AI_Roll --> Sum[Calculate Sum of Both Hands]
     Sum --> Result[get_result]
     end
 
     subgraph Scoring [get_result]
-    Result --> ParityCheck{Is Sum Even/Odd?}
-    ParityCheck -- Matches Player --> PlayerPoints[Player +2]
-    ParityCheck -- Matches AI --> AIPoints[AI +2]
-    ParityCheck -- Both Equal --> BothEqual[No Bonus Points]
+    Result --> Check{Is Sum Even/Odd?}
+    Check -- Matches Player --> PlayerPoints[Player +2]
+    Check -- Matches AI --> AIPoints[AI +2]
+    Check -- Both Equal --> BothEqual[No Bonus Points]
     
     PlayerPoints --> bonus{Bonus Points}
     AIPoints --> bonus
