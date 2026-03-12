@@ -188,18 +188,18 @@ graph TD
     Sum --> Result[get_result]
     end
 
-    subgraph Scoring [Scoring Logic]
+    subgraph Scoring [get_result]
     Result --> ParityCheck{Is Sum Even/Odd?}
     ParityCheck -- Matches Player --> PlayerPoints[Player +2]
     ParityCheck -- Matches AI --> AIPoints[AI +2]
     ParityCheck -- Both Equal --> BothEqual[No Bonus Points]
     
-    PlayerPoints --> Proximity{Proximity Bonus}
-    AIPoints --> Proximity
-    BothEqual --> Proximity
+    PlayerPoints --> bonus{Bonus Points}
+    AIPoints --> bonus
+    BothEqual --> bonus
     
-    Proximity -- Player Closer --> PBonus[Player +1]
-    Proximity -- AI Closer --> ABonus[AI +1]
+    bonus -- Player Closer --> PBonus[Player +1]
+    bonus -- AI Closer --> ABonus[AI +1]
     end
 
     PBonus --> CheckWin{check_win}
