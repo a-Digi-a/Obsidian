@@ -218,3 +218,21 @@ graph TD
     style Scoring fill:#bbf,stroke:#333
     style Game_Logic fill:#dfd,stroke:#333
 ```
+
+```mermaid
+graph TD
+    Start([Start Program]) --> Menu[menu]
+    
+    Menu --> InputMenu{User Input}
+    InputMenu -- "1 (Odd)" --> SetOdd[Add 'Odd' to player_list]
+    InputMenu -- "2 (Even)" --> SetEven[Add 'Even' to player_list]
+    InputMenu -- "3 (Exit)" --> End([End Program])
+    
+    SetOdd --> Game[To Game]
+    SetEven --> Game
+
+    style Menu fill:#f9f,stroke:#333
+```
+
+```
+```
