@@ -5,37 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#programming/rust  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#programming/python  ",
-      "color": {
-        "a": 1,
-        "rgb": 5413856
-      }
-    },
-    {
-      "query": "tag:#maths  ",
-      "color": {
-        "a": 1,
-        "rgb": 2603313
-      }
-    },
-    {
-      "query": "tag:#electronics  ",
-      "color": {
-        "a": 1,
-        "rgb": 7426784
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -46,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1627029672908211,
+  "scale": 0.13168724279835384,
   "close": true
 }
