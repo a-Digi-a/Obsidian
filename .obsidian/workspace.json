@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLDAP.md",
+                "file": "LDAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLDAP"
+              "title": "LDAP"
             }
           },
           {
@@ -274,7 +274,7 @@
   "lastOpenFiles": [
     "Hardening Linux.md",
     "Admin Exam.md",
-    "LLDAP.md",
+    "LDAP.md",
     "Odds and Evens.md",
     "Untitled",
     "Common Programming Concepts in Rust.md",
