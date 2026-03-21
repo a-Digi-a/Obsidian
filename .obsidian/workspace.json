@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin Exam.md",
+                "file": "Hardening Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Admin Exam"
+              "title": "Hardening Linux"
             }
           },
           {
@@ -272,9 +272,9 @@
   },
   "active": "43b1c37778261647",
   "lastOpenFiles": [
-    "LLDAP.md",
-    "Admin Exam.md",
     "Hardening Linux.md",
+    "Admin Exam.md",
+    "LLDAP.md",
     "Odds and Evens.md",
     "Untitled",
     "Common Programming Concepts in Rust.md",
