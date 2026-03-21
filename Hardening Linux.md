@@ -23,3 +23,10 @@ sudo nvim /etc/ssh/sshd_config
 - PasswordAuthentication no
 - KbdInteractiveAuthentication no
 - PermitRootLogin no
+
+After edits:
+```shell
+sudo systemctl restart --now sshd
+```
+
+Then test in a different terminal if ssh is working **but keep your first one open!**
