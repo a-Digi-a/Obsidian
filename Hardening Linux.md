@@ -30,3 +30,12 @@ sudo systemctl restart --now sshd
 ```
 
 Then test in a different terminal if ssh is working **but keep your first one open!**
+
+## UFW firewall
+
+```shell
+sudo apt install ufw
+sudo ufw allow 47398 # allow the port you set earlier
+sudo ufw deny 22 # disable default ssh port
+sudo ufw enable
+```
