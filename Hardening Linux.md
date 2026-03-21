@@ -39,3 +39,13 @@ sudo ufw allow 47398 # allow the port you set earlier
 sudo ufw deny 22 # disable default ssh port
 sudo ufw enable
 ```
+
+## Fail2ban
+
+Fail2ban blocks suspicious ip's
+
+```shell
+sudo apt install fail2ban
+sudo systemctl enable --now fail2ban
+sudo fail2ban-client status
+```
