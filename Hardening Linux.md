@@ -21,4 +21,5 @@ sudo nvim /etc/ssh/sshd_config
 
 - Change port to some random high number (47398)
 - PasswordAuthentication no
-- 
+- KbdInteractiveAuthentication no
+- PermitRootLogin no
