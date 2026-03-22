@@ -167,6 +167,20 @@ sudo systemctl restart ssh
 sudo systemctl restart sshd
 ```
 
+## Edit Configs
+
+```shell
+sudo nvim /etc/nslcd.conf
+```
+
+add these lines:
+```txt
+binddn cn=admin,dc=redbrick,dc=dcu,dc=ie
+bindpw a
+
+ssl off
+```
+
 ## Add a sudo group to LDAP
 
 Make a file called **ldap** in /etc/sudoers.d
