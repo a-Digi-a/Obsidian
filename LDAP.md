@@ -142,3 +142,7 @@ Add this line:
 ```txt
 session option pam_mkhomedir.so skel=/etc/skel umask=077
 ```
+
+session: its used during the session phase of pam
+option: if it cant be completed let the user log in anyway (optional)
+pam_mk
