@@ -8,46 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc4d422914ec26c6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "0e36dcf4bddc7d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Odds and Evens.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Odds and Evens"
-            }
-          },
-          {
-            "id": "7dda13b7fee3df2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admin Exam.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Admin Exam"
-            }
-          },
-          {
             "id": "921fc8fd942ebcd6",
             "type": "leaf",
             "state": {
@@ -60,37 +20,8 @@
               "icon": "lucide-file",
               "title": "File Sharing"
             }
-          },
-          {
-            "id": "43b1c37778261647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LDAP"
-            }
-          },
-          {
-            "id": "5b4f03d1bb9879da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardening Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hardening Linux"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,10 +218,10 @@
   },
   "active": "921fc8fd942ebcd6",
   "lastOpenFiles": [
-    "File Sharing.md",
-    "Admin Exam.md",
     "Hardening Linux.md",
     "LDAP.md",
+    "File Sharing.md",
+    "Admin Exam.md",
     "Odds and Evens.md",
     "Untitled",
     "Common Programming Concepts in Rust.md",
