@@ -162,3 +162,8 @@ sudo nvim /etc/sudoers.d/ldap
 %ldapsudo ALL=(ALL:ALL) ALL
 ```
 
+## Install Packages for Login
+
+```shell
+sudo apt install libnss-ldap libpam-ldap nscd ldap-utils
+```
