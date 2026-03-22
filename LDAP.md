@@ -133,7 +133,12 @@ passwd:    files systemd ldap
 group:     files systemd ldap
 ```
 
+Make sure that a new home directory is created for the user:
 ```txt
-sudo nvim /etc/pam.d/common-password
+sudo nvim /etc/pam.d/common-session
 ```
 
+Add this line:
+```txt
+session option pam_mkhomedir.so skel=/etc/skel umask=077
+```
