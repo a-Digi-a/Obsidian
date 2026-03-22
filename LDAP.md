@@ -120,3 +120,20 @@ year: 3
 
 delete: cn
 ```
+
+## Add LDAP as an authentication option
+
+```shell
+sudo nvim /etc/nsswitch.conf
+```
+
+Add ldap to **passwd** and **group**:
+```conf
+passwd:    files systemd ldap
+group:     files systemd ldap
+```
+
+```txt
+sudo nvim /etc/pam.d/common-password
+```
+
