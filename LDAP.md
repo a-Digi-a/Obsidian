@@ -146,3 +146,6 @@ session option pam_mkhomedir.so skel=/etc/skel umask=077
 session: its used during the session phase of pam
 option: if it cant be completed let the user log in anyway (optional)
 pam_mkhomedir.so: the pam module required for making a homedir
+skel=/etc/skel: the template for new homedirs, copies everything inside so you can copy configs, etc
+umask=077: only the user has access to the files
+
