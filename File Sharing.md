@@ -36,5 +36,8 @@ guest ok = no
 
 ```shell
 sudo smbpasswd -a digi
-sudo systemctl enable samba
+sudo systemctl enable smbd
+sudo systemctl enable nmbd
+sudo systemctl restart smbd
+sudo systemctl restart nmbd
 ```
