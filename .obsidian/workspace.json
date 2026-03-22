@@ -129,7 +129,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ba81b2039a0d28b9",
@@ -270,7 +271,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "43b1c37778261647",
+  "active": "6d15bca6197ea13c",
   "lastOpenFiles": [
     "Hardening Linux.md",
     "Admin Exam.md",

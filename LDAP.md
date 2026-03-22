@@ -84,3 +84,9 @@ homeDirectory: /home/neo
 loginShell: /bin/bash
 userPassword: {SSHA}H2sXEHWFFsUz7PmvYKHXYxaJ3vfvWoqh
 ```
+
+To test if it worked:
+```shell
+sudo ldapsearch -x -LLL -b "dc=redbrick,dc=dcu,dc=ie" "(objectClass=posixAccount)"
+```
+
