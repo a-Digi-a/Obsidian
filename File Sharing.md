@@ -41,3 +41,5 @@ sudo systemctl enable nmbd
 sudo systemctl restart smbd
 sudo systemctl restart nmbd
 ```
+
+## Connect to Samba 
