@@ -43,3 +43,7 @@ sudo systemctl restart nmbd
 ```
 
 ## Connect to Samba 
+
+```shell
+sudo mount -t cifs -o username=digi //192.168.122.8/share /mnt/samba
+```
