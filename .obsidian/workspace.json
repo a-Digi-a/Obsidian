@@ -39,12 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardening Linux.md",
+                "file": "Admin Exam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardening Linux"
+              "title": "Admin Exam"
+            }
+          },
+          {
+            "id": "921fc8fd942ebcd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "File Sharing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File Sharing"
             }
           },
           {
@@ -271,11 +285,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "43b1c37778261647",
+  "active": "921fc8fd942ebcd6",
   "lastOpenFiles": [
+    "File Sharing.md",
+    "Admin Exam.md",
     "Hardening Linux.md",
     "LDAP.md",
-    "Admin Exam.md",
     "Odds and Evens.md",
     "Untitled",
     "Common Programming Concepts in Rust.md",
@@ -299,7 +314,6 @@
     "Python Strings.md",
     "Python Lists.md",
     "Functions in Rust.md",
-    "Data Types in Rust.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
