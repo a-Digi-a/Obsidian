@@ -90,3 +90,30 @@ To test if it worked:
 sudo ldapsearch -x -LLL -b "dc=redbrick,dc=dcu,dc=ie" "(objectClass=posixAccount)"
 ```
 
+## Deleting Accounts
+
+To delete an account:
+```shell
+ldapdelete -D "cn=admin,dc=redbrick,dc=dcu,dc=ie" -w a "uid=neo,ou=accounts,dc=redbrick,dc=dcu,dc=ie"
+```
+change the **uid** to the account you want to delete
+
+## Modify an Entry
+
+first create an ldif file:
+```shell
+nvim modify.ldif
+```
+
+```ldif
+dn: uid=neo,ou=accounts,dc=redbrick,dc=dcu,dc=ie
+changetype: modify
+
+replace: sn
+sn: awa
+
+add: title
+title: sysadmin
+
+delete: cn
+```
