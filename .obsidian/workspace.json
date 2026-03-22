@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,10 +271,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6d15bca6197ea13c",
+  "active": "7dda13b7fee3df2b",
   "lastOpenFiles": [
-    "Hardening Linux.md",
     "Admin Exam.md",
+    "Hardening Linux.md",
     "LDAP.md",
     "Odds and Evens.md",
     "Untitled",
