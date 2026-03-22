@@ -141,7 +141,7 @@ sudo nvim /etc/pam.d/common-session
 
 Add this line:
 ```txt
-session option pam_mkhomedir.so skel=/etc/skel umask=077
+session optional pam_mkhomedir.so skel=/etc/skel umask=077
 ```
 
 session: its used during the session phase of pam
