@@ -47,3 +47,13 @@ ldapadd -x -D "cn=admin,dc=redbrick,dc=dcu,dc=ie" -W -f base.ldif
 
 This will add the contents of that file to your ldap config
 
+## Adding Users to LDAP
+
+```shell
+nvim users.ldif
+```
+
+inside **users.ldif**:
+```txt
+
+```
