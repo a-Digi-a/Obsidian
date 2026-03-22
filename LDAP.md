@@ -150,6 +150,8 @@ pam_mkhomedir.so: the pam module required for making a homedir
 skel=/etc/skel: the template for new homedirs, copies everything inside so you can copy configs, etc
 umask=077: only the user has access to the files
 
+## Make the system use LDAP passwords
+
 ## Allow users to ssh 
 
 edit /etc/ssh/sshd_config:
