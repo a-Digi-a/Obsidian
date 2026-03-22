@@ -219,3 +219,22 @@ sudo nvim /etc/sudoers.d/ldap
 ```shell
 sudo apt install libnss-ldap libpam-ldap nscd ldap-utils
 ```
+
+## Making a group
+
+make an ldif file:
+```txt
+dn: cn=brickies,dc=redbrick,dc=dcu,dc=ie
+objectClass: posixGroup
+objectClass: top
+cn: brickies
+gidNumber: 10000
+description: brickies
+memberUid: neo
+memberUid: digi
+```
+
+```shell
+ldapadd -x -D "cn=admin,dc=redbrick,dc=dcu,dc=ie" -W -f group.ldif
+```
+
