@@ -152,6 +152,21 @@ umask=077: only the user has access to the files
 
 ## Make the system use LDAP passwords
 
+```shell
+sudo nvim /etc/pam.d/common_auth
+```
+
+change it so it says this: (probably changing first line and adding another)
+```txt
+auth	[success=2 default=ignore]	pam_unix.so nullok
+auth	[success=1 default=ignore]	pam_ldap.so minimum_uid=1000 use_first_pass
+```
+
+```shell
+sudo systemctl restart nscd
+sudo systemctl restart nslcd
+```
+
 ## Allow users to ssh 
 
 edit /etc/ssh/sshd_config:
