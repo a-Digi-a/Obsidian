@@ -133,6 +133,7 @@ passwd:    files systemd ldap
 group:     files systemd ldap
 ```
 
+## Make it so homedirs are created when a user logs in
 Make sure that a new home directory is created for the user:
 ```txt
 sudo nvim /etc/pam.d/common-session
@@ -148,4 +149,16 @@ option: if it cant be completed let the user log in anyway (optional)
 pam_mkhomedir.so: the pam module required for making a homedir
 skel=/etc/skel: the template for new homedirs, copies everything inside so you can copy configs, etc
 umask=077: only the user has access to the files
+
+## Add a sudo group to LDAP
+
+Make a file called **ldap** in /etc/sudoers.d
+
+```shell
+sudo nvim /etc/sudoers.d/ldap
+```
+
+```txt
+%ldapsudo ALL=(ALL:ALL) ALL
+```
 
