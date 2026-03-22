@@ -18,6 +18,10 @@ a ui will pop up, this will let you set up the cn and organisation
 ldapsearch -x -LLL -s base -b "" namingContexts
 ```
 
+just in case:
+```shell
+ldapsearch -x -H ldap://localhost -D "cn=admin,dc=redbrick,dc=dcu,dc=ie" -W -b "dc=redbrick,dc=dcu,dc=ie"
+```
 ## Create Organisational units
 
 ```shell
