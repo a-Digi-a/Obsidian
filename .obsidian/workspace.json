@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Hardening Linux"
             }
+          },
+          {
+            "id": "b228e841bf13fd22",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +229,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "921fc8fd942ebcd6",
+  "active": "b228e841bf13fd22",
   "lastOpenFiles": [
     "Admin Exam.md",
     "LDAP.md",
