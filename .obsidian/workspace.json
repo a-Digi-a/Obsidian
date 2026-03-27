@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDAP.md",
+                "file": "File Sharing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LDAP"
+              "title": "File Sharing"
             }
           }
         ]
@@ -218,9 +218,9 @@
   },
   "active": "921fc8fd942ebcd6",
   "lastOpenFiles": [
+    "LDAP.md",
     "Hardening Linux.md",
     "Admin Exam.md",
-    "LDAP.md",
     "File Sharing.md",
     "Odds and Evens.md",
     "Untitled",
