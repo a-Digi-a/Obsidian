@@ -73,20 +73,8 @@ uidNumber: 1001
 gidNumber: 1001
 homeDirectory: /home/digi
 loginShell: /bin/bash
-userPassword: {SSHA}H2sXEHWFFsUz7PmvYKHXYxaJ3vfvWoqh
+userPassword: {SSHA}HyTBxR5vuYDFUJDZvtXkYiraEz4wOyTr
 
-dn: uid=neo,ou=accounts,dc=redbrick,dc=dcu,dc=ie
-objectClass: inetOrgPerson
-objectClass: posixAccount
-objectClass: top
-cn: Neo
-sn: Neo
-uid: neo
-uidNumber: 1002
-gidNumber: 1002
-homeDirectory: /home/neo
-loginShell: /bin/bash
-userPassword: {SSHA}H2sXEHWFFsUz7PmvYKHXYxaJ3vfvWoqh
 ```
 
 To test if it worked:
