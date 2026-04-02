@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics.md",
+                "file": "Nodal Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electronics"
+              "title": "Nodal Analysis"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Magnetic Fields"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,12 +244,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c215fdf52651bb15",
+  "active": "921fc8fd942ebcd6",
   "lastOpenFiles": [
+    "Magnetic Memory.md",
+    "Nodal Analysis.md",
+    "Electronics.md",
     "Magnetism.md",
     "Geomagnetism.md",
     "Magnetic Fields.md",
-    "Electronics.md",
     "File Sharing.md",
     "Odds and Evens.md",
     "LDAP.md",
@@ -272,8 +273,6 @@
     "Variables in Python.md",
     "Control Flow in Rust.md",
     "conflict-files-obsidian-git.md",
-    "Matrix Multiplication.md",
-    "Python Dictionaries.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
