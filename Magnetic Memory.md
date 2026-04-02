@@ -9,7 +9,7 @@ When an external magnetic field is applied, the domains **align** and the materi
 
 If we **magnetise** a material, then remove the magnetic field, it **remains magnetised**
 
-This is called **magnetic memory**
+This is called **magnetic memory**, or **hysteresis**
 
 The material must be **forced** back to its original state with **a magnetic field in the opposite direction**
 

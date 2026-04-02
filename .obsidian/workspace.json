@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnetism.md",
+                "file": "Magnetic Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnetism"
+              "title": "Magnetic Memory"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,10 +245,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7301b4eca85e9bb1",
+  "active": "c215fdf52651bb15",
   "lastOpenFiles": [
-    "Magnetic Fields.md",
     "Magnetism.md",
+    "Geomagnetism.md",
+    "Magnetic Fields.md",
     "Electronics.md",
     "File Sharing.md",
     "Odds and Evens.md",
@@ -273,7 +274,6 @@
     "conflict-files-obsidian-git.md",
     "Matrix Multiplication.md",
     "Python Dictionaries.md",
-    "Data Types in Python.md",
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
