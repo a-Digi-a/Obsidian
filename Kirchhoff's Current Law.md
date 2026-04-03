@@ -1,9 +1,9 @@
 #semester-1 #electronics 
 
-# Kirchoff's Current Law
+# Kirchhoff's Current Law
 
 
-**Kirchoff's Current Law** states:
+**Kirchhoff's Current Law** states:
 
 The **sum of currents** entering a **node** must **equal** the **sum of currents** leaving a **node**
 
