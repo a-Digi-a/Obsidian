@@ -31,12 +31,16 @@ $$-V_{C}-V_{B}-V_{D}=0$$
 
 ## Step 3
 
-Swap out the voltage values for their Ohm's Law (or known) values:
+Swap out the voltage values for their [[Ohm's Law]] (or known) values:
 
 $$V_{S}-I_{1}R_{A}-(I_{1}-I_{2})R_{C}=0$$
 
 
-$$-V_{C}-V_{B}-V_{D}=0$$
+$$-(I_{1}-I_{2})R_{C}-I_{2}R_{B}-I_{2}R_{D}=0$$
 ## Step 4
 
+**Solve** the **simultaneous equation** created from step 3.
+
 ## Step 5
+
+Use the **current values** to calculate any **unknown voltages**.
