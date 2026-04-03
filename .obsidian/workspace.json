@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodal Analysis.md",
+                "file": "Kirchoff's Current Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nodal Analysis"
+              "title": "Kirchoff's Current Law"
             }
           },
           {
@@ -246,10 +246,11 @@
   },
   "active": "921fc8fd942ebcd6",
   "lastOpenFiles": [
+    "Nodal Analysis.md",
+    "Kirchoff's Current Law.md",
     "attachments/Pasted image 20260403013435.png",
     "Magnetic Memory.md",
     "Magnetic Fields.md",
-    "Nodal Analysis.md",
     "attachments/Pasted image 20260403010847.png",
     "attachments/Pasted image 20260403010427.png",
     "attachments/Pasted image 20260403010114.png",
@@ -282,7 +283,6 @@
     "attachments/Pasted image 20260120112342.png",
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
-    "attachments/Pasted image 20260120112239.png",
     "attachments"
   ]
 }

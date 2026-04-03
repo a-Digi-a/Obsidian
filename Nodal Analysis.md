@@ -30,7 +30,7 @@ We will be using this circuit for this example:
 
 ## Step 4
 
-**Apply** [[Kirchoff's Current Law]] to each node with an unknown voltage. 
+**Apply** [[Kirchoff's Current Law]] to each node with an unknown voltage. All of the arrows **point towards the node being analysed**.
 
 ![[Pasted image 20260403010847.png]]
 
@@ -58,4 +58,17 @@ $$\frac{V_{2}-V_{3}}{R_{B}}+\frac{0-V_{3}}{R_{D}}=0$$
 
 ## Step 5
 
-**Solve** the **simultaneous **
+**Solve** the **simultaneous equation** we just created:
+
+Equation 1:
+
+$$\frac{V_{S}-V_{2}}{R_{A}}+\frac{V_{3}-V_{2}}{R_{B}}+\frac{0-V_{2}}{R_{C}}=0$$
+
+Equation 2:
+
+$$\frac{V_{2}-V_{3}}{R_{B}}+\frac{0-V_{3}}{R_{D}}=0$$
+
+## Step 6
+
+**Use the voltages** solved from **step 5** to **solve for the current of each node**
+
