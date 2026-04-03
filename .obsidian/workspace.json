@@ -49,8 +49,7 @@
               "title": "Electronics Terminology"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,17 +244,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "1b574635b1b58550",
+  "active": "1d3c031bba13f436",
   "lastOpenFiles": [
-    "Electronic Components.md",
+    "Nodal Analysis.md",
     "Electronics.md",
     "Mesh Analysis.md",
+    "Electronic Components.md",
     "Basic electronics.md",
+    "Electronics Terminology.md",
     "attachments/Pasted image 20260403053210.png",
     "attachments/Pasted image 20260403053057.png",
     "attachments/Pasted image 20260403052908.png",
-    "Nodal Analysis.md",
-    "Electronics Terminology.md",
     "attachments/Pasted image 20260403032112.png",
     "attachments/Pasted image 20260403032032.png",
     "attachments/Pasted image 20260403031907.png",
