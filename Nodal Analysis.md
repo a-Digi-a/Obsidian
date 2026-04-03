@@ -31,3 +31,9 @@ We will be using this circuit for this example:
 ## Step 4
 
 **Apply** [[Kirchoff's Current Law]] to each node with an unknown voltage. 
+
+![[Pasted image 20260403010847.png]]
+
+First lets look at $V_{2}$:
+
+$I_{A}+I_{B}+I_{C}=0$
