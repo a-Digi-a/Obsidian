@@ -6,8 +6,28 @@
 
 ## Step 1
 
+**Identify** the **meshes** in the circuit and assign a **clockwise path** for each one. These are the **mesh currents**
+
+![[Pasted image 20260403052908.png]]
 
 ## Step 2
+
+Apply **Kirchhoff's Voltage Law** around each **mesh**:
+
+- Travel clockwise around the loop
+- Sum the voltages and set the expression to zero
+
+![[Pasted image 20260403053057.png]]
+
+In this example, we make the equation:
+
+$$V_{S}-V_{A}-V_{C}=0$$
+
+![[Pasted image 20260403053210.png]]
+
+And in this mesh:
+
+$$$$
 
 ## Step 3
 
