@@ -24,3 +24,10 @@ We will be using this circuit for this example:
 
 ## Step 3
 
+**Label** the **known voltages**. In this case, we know that $V_{1}=V_{s}$.
+
+![[Pasted image 20260403010427.png]]
+
+## Step 4
+
+**Apply** [[Kirchoff's Current Law]] to each node with an unknown voltage. 
