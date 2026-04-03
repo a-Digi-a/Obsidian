@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic electronics.md",
+                "file": "Nodal Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic electronics"
+              "title": "Nodal Analysis"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Electronics Terminology"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +230,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c4e0bed2004f5769",
+  "active": "1d3c031bba13f436",
   "lastOpenFiles": [
-    "Electronics Terminology.md",
     "Basic electronics.md",
+    "Electronics Terminology.md",
+    "attachments/Pasted image 20260403032112.png",
+    "attachments/Pasted image 20260403032032.png",
+    "attachments/Pasted image 20260403031907.png",
+    "attachments/Pasted image 20260403031816.png",
     "Electronics.md",
     "Nodal Analysis.md",
     "Magnetic Fields.md",
@@ -247,9 +250,6 @@
     "attachments/Pasted image 20260403010847.png",
     "attachments/Pasted image 20260403010427.png",
     "attachments/Pasted image 20260403010114.png",
-    "attachments/Pasted image 20260403005921.png",
-    "attachments/Pasted image 20260403005752.png",
-    "attachments/Pasted image 20260403005735.png",
     "Magnetism.md",
     "Geomagnetism.md",
     "File Sharing.md",
@@ -268,8 +268,6 @@
     "Bash If Else and Case Statements.md",
     "Bash Variables.md",
     "Running Bash Scripts.md",
-    "Matrices.md",
-    "attachments/Pasted image 20260120112342.png",
     "attachments"
   ]
 }

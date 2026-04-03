@@ -2,7 +2,7 @@
 
 # Nodal Analysis
 
-**Nodal analysis** is a way of applying [[Kirchhoff's Current Law]] to nodes in a circuit.
+**Nodal analysis** is a way of applying [[Kirchhoff's Current Law]] to [[Electronics Terminology#Node|nodes]] in a circuit.
 
 There are **6 steps** to follow:
 
