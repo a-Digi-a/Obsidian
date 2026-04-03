@@ -43,7 +43,7 @@ By stacking multiple loops of wire on top of eachother we get a **solenoid**:
 The **magnetic field** is **strongest inside of the solenoid** and is **weak outside of it**
 This is a type of **electromagnet**
 
-$B=\frac{\mu_{0} NI}{L}$
+$$B=\frac{\mu_{0} NI}{L}$$
 
 *B* = **magnetic field**: *T*
 *I* = **current through the wire**: *A*
@@ -54,7 +54,7 @@ $\mu_{0}$= **permeability of free space**: $1.25663706*10^{-6}$ $kgs^{-2}A^{-2}$
 However, it is quite hard to get many loops of wire in a small space. To counter this, we can **improve** the magnetic field of the **solenoid** by placing a **core** of **magnetic material** in the **solenoid**:
 
 This alters the equation:
-$B=\frac{\mu_{0}\mu_{r}NI}{L}$
+$$B=\frac{\mu_{0}\mu_{r}NI}{L}$$
 
 *B* = **magnetic field**: *T*
 *I* = **current through the wire**: *A*
