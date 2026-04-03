@@ -49,7 +49,8 @@
               "title": "Magnetic Fields"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,8 +245,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "921fc8fd942ebcd6",
+  "active": "7301b4eca85e9bb1",
   "lastOpenFiles": [
+    "Nodal Analysis.md",
     "attachments/Pasted image 20260403010847.png",
     "attachments/Pasted image 20260403010427.png",
     "attachments/Pasted image 20260403010114.png",
@@ -253,7 +255,6 @@
     "attachments/Pasted image 20260403005752.png",
     "attachments/Pasted image 20260403005735.png",
     "Magnetic Memory.md",
-    "Nodal Analysis.md",
     "Electronics.md",
     "Magnetism.md",
     "Geomagnetism.md",
@@ -282,7 +283,6 @@
     "attachments/Pasted image 20260120112304.png",
     "attachments/Pasted image 20260120112256.png",
     "attachments/Pasted image 20260120112239.png",
-    "attachments/Pasted image 20260120112226.png",
     "attachments"
   ]
 }
