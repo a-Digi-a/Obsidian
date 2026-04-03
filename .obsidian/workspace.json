@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodal Analysis.md",
+                "file": "Mesh Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nodal Analysis"
+              "title": "Mesh Analysis"
             }
           },
           {
@@ -232,14 +232,15 @@
   },
   "active": "1d3c031bba13f436",
   "lastOpenFiles": [
+    "Electronics.md",
+    "Mesh Analysis.md",
+    "Nodal Analysis.md",
     "Basic electronics.md",
     "Electronics Terminology.md",
     "attachments/Pasted image 20260403032112.png",
     "attachments/Pasted image 20260403032032.png",
     "attachments/Pasted image 20260403031907.png",
     "attachments/Pasted image 20260403031816.png",
-    "Electronics.md",
-    "Nodal Analysis.md",
     "Magnetic Fields.md",
     "Kirchhoff's Voltage Law.md",
     "attachments/Pasted image 20260403022441.png",
