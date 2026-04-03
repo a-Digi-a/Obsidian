@@ -2,7 +2,7 @@
 
 # Mesh Analysis
 
-**Mesh Analysis** is a systematic way of applying [[Kirchhoff's Voltage Law]] to [[Electronics Terminology#Mesh|meshes]] in a circuit. There are **4 distinct steps** to follow to use the technique:
+**Mesh Analysis** is a systematic way of applying [[Kirchhoff's Voltage Law]] to [[Electronics Terminology#Mesh|meshes]] in a circuit. There are **5 distinct steps** to follow to use the technique:
 
 ## Step 1
 
@@ -27,8 +27,16 @@ $$V_{S}-V_{A}-V_{C}=0$$
 
 And in this mesh:
 
-$$$$
+$$-V_{C}-V_{B}-V_{D}=0$$
 
 ## Step 3
 
+Swap out the voltage values for their Ohm's Law (or known) values:
+
+$$V_{S}-I_{1}R_{A}-(I_{1}-I_{2})R_{C}=0$$
+
+
+$$-V_{C}-V_{B}-V_{D}=0$$
 ## Step 4
+
+## Step 5
