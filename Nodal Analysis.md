@@ -45,3 +45,17 @@ $$I_{C}=\frac{0-V_{2}}{R_{C}}$$
 
 Putting this all back into the original equation we get:
 $$\frac{V_{S}-V_{2}}{R_{A}}+\frac{V_{3}-V_{2}}{R_{B}}+\frac{0-V_{2}}{R_{C}}=0$$
+
+
+We then do the same for $V_{3}$:
+
+![[Pasted image 20260403013435.png]]
+
+$$I_{B}=\frac{V_{2}-V_{3}}{R_{B}}$$
+$$I_{D}=\frac{0-V_{3}}{R_{D}}$$
+
+$$\frac{V_{2}-V_{3}}{R_{B}}+\frac{0-V_{3}}{R_{D}}=0$$
+
+## Step 5
+
+**Solve** the **simultaneous **
