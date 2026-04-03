@@ -39,5 +39,5 @@ First lets look at $V_{2}$:
 $I_{A}+I_{B}+I_{C}=0$
 Now lets substitute $I_{A}$, $I_{B}$ and $I_{C}$ for their ohms law variants:
 $I_{A}=\frac{V_{S}-V_{2}}{R_{A}}$
-$I_{A}=\frac{V_{S}-V_{2}}{R_{A}}$
-$I_{A}=\frac{V_{S}-V_{2}}{R_{A}}$
+$I_{B}=\frac{V_{3}-V_{2}}{R_{B}}$
+$I_{C}=\frac{0-V_{2}}{R_{C}}$
