@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardening Linux.md",
+                "file": "Electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardening Linux"
+              "title": "Electronics"
             }
           },
           {
@@ -244,9 +244,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "1d3c031bba13f436",
+  "active": "0660f1eb88bec806",
   "lastOpenFiles": [
     "Electronics.md",
+    "Hardening Linux.md",
     "Nodal Analysis.md",
     "Mesh Analysis.md",
     "Electronic Components.md",
@@ -271,7 +272,6 @@
     "File Sharing.md",
     "Odds and Evens.md",
     "LDAP.md",
-    "Hardening Linux.md",
     "Admin Exam.md",
     "Untitled",
     "Common Programming Concepts in Rust.md",
