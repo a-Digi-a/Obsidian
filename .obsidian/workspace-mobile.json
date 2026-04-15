@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Multiplication.md",
+                "file": "Statics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Multiplication"
+              "title": "Statics"
             }
           }
         ]
@@ -183,6 +183,10 @@
   },
   "active": "a65541222870bce2",
   "lastOpenFiles": [
+    "Mesh Analysis.md",
+    "Types of Bodies.md",
+    "Hardening Linux.md",
+    "Matrix Multiplication.md",
     "attachments/Pasted image 20260403053210.png",
     "attachments/Pasted image 20260403053057.png",
     "attachments/Pasted image 20260403052908.png",
@@ -193,15 +197,11 @@
     "attachments/Pasted image 20260403022441.png",
     "attachments/Pasted image 20260403015039.png",
     "attachments/Pasted image 20260403013435.png",
-    "attachments/Pasted image 20260403010847.png",
-    "Types of Bodies.md",
     "Statics.md",
     "Nodal Analysis.md",
-    "Mesh Analysis.md",
     "LDAP.md",
     "Kirchhoff's Voltage Law.md",
     "Kirchhoff's Current Law.md",
-    "Hardening Linux.md",
     "File Sharing.md",
     "Electronics Terminology.md",
     "Electronic Components.md",
