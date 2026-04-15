@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5,
+    "collapsed": true
   },
   "right": {
     "id": "f79595b534cab953",
@@ -141,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Electronics"
             }
           },
           {
@@ -244,7 +246,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0660f1eb88bec806",
+  "active": "1d3c031bba13f436",
   "lastOpenFiles": [
     "Electronics.md",
     "Hardening Linux.md",
