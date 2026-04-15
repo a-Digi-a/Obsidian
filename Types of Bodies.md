@@ -19,7 +19,13 @@ A body whose **size is unimportant** for the **problem** at hand
 
 ## Definition
 
+A body of **finite size** that does **not deform**, even under the action of **large forces**
+
+This does not actually exist
+
 ## Practically
+
+Used in cases where the **deflection** is so small that it is **negligble**.
 
 ## Examples
 
