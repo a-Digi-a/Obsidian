@@ -25,9 +25,9 @@ This does not actually exist
 
 ## Practically
 
-Used in cases where the **deflection** is so small that it is **negligble**.
+Used in cases where the **deflection** is so small that it is **negligible**
 
-## Examples
+**Mathematically** defined by "the **distance** between any **two** **points** on a rigid body is **constant**"
 
 # Elastic
 ## Definition
