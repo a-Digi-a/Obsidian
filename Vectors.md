@@ -8,6 +8,8 @@ They are usually denoted on the **Cartesian coordinate system**, with the letter
 
 ## Magnitude of a Vector and it's Components
 
+The **magnitude** of a **vector** represents it's **size**. 
+
 ## Adding Vectors
 
 ## Subtracting Vectors
