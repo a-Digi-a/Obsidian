@@ -19,6 +19,7 @@ opposite = hypotenuse * sin
 j = magnitude * sin(angle)
 
 
+
 ## Adding Vectors
 
 ## Subtracting Vectors
