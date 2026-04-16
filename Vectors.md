@@ -51,6 +51,8 @@ $$v^2 = v_{x}^2 + v_{y}^2 + v_{z}^2$$
 
 ## Dot Product (Scalar)
 
+
+
 ## Dot Product
 
 ## Cross Product
