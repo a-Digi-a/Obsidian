@@ -6,6 +6,16 @@
 A **vector** is a **force** with both a **magnitude** and **direction**
 They are usually denoted on the **Cartesian coordinate system**, with the letters $i, j$ and $k$ denoting the $x, y$ and $z$ directions respectively.
 
+## Magnitude of a Vector and it's Components
+
 ## Adding Vectors
 
 ## Subtracting Vectors
+
+## Directional Cosines
+
+## Dot Product (Scalar)
+
+## Dot Product
+
+## Cross Product
