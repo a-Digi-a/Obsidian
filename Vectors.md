@@ -40,9 +40,14 @@ $$m = \cos \theta_{y}$$
 $$n = \cos \theta_{z}$$
 ![[Pasted image 20260416143936.png|297]]
 
+$$l^2 + m^2 + n^2 = 1$$
+
+Where **v** is the **magnitude**:
+
 $$v_{x} = lv$$
-$$v_{y} = lv$$
-$$v_{x} = lv$$
+$$v_{y} = mv$$
+$$v_{z} = nv$$
+$$v^2 = v_{x}^2 + v_{y}^2 + v_{z}^2$$
 
 ## Dot Product (Scalar)
 
