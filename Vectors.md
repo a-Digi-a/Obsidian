@@ -49,12 +49,17 @@ $$v_{y} = mv$$
 $$v_{z} = nv$$
 $$v^2 = v_{x}^2 + v_{y}^2 + v_{z}^2$$
 
-## Dot Product (Scalar)
+## Dot Product
 
+The **dot product** is the magnitude 
+
+### Scalar
 
 
 $$\vec{P}\cdot\vec{Q}=PQ\cos \theta$$
 
-## Dot Product
+### Vector
+
+$$$$
 
 ## Cross Product
