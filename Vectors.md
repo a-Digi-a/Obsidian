@@ -33,7 +33,16 @@ This is the same for **subtraction**
 
 ## Directional Cosines
 
+**Direction Cosines** are the cosines of the angles between a **3d vector** and the **positive x, y and z axes**, denotes as:
 
+$$l = \cos \theta_{x}$$
+$$m = \cos \theta_{y}$$
+$$n = \cos \theta_{z}$$
+![[Pasted image 20260416143936.png|297]]
+
+$$v_{x} = lv$$
+$$v_{y} = lv$$
+$$v_{x} = lv$$
 
 ## Dot Product (Scalar)
 
