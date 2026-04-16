@@ -23,11 +23,15 @@ sin = opposite/hypotenuse
 opposite = hypotenuse * sin
 **j = magnitude * sin(angle)**
 
-## Adding Vectors
+## Adding and Subtracting Vectors
 
-## Subtracting Vectors
+**Adding vectors** show the **resultant force** that will be applied by the vectors added.
+
+To **add vectors**, simply **add** all of the **i** **components** together, **add** all of the **j** **components** together and **add** all of the **k** **components** together, just like adding variables! 
+This goes the same for **subtra
 
 ## Directional Cosines
+
 
 ## Dot Product (Scalar)
 
