@@ -14,11 +14,14 @@ in this example, the **magnitude** of this **vector** would be:
 $$\sqrt{ 4^2 + 3^2 }=\sqrt{ 25 }=5$$
 
 If we only have the **magnitude**, we can resolve the i and j components:
+
+cos = adjacent/hypotenuse
+adjacent = hypotenuse * cos
+**i = magnitude * sin(angle)**
+
 sin = opposite/hypotenuse
 opposite = hypotenuse * sin
-j = magnitude * sin(angle)
-
-
+**j = magnitude * sin(angle)**
 
 ## Adding Vectors
 
