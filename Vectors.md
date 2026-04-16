@@ -10,7 +10,11 @@ They are usually denoted on the **Cartesian coordinate system**, with the letter
 
 The **magnitude** of a **vector** represents it's **size**. We can **find** the magnitude by using the **Pythagorean Theorem**. 
 ![[Pasted image 20260416134544.png]]
-in this example, the magnitude of this vector would be:
+in this example, the **magnitude** of this **vector** would be:
+$$\sqrt{ 4^2 + 3^2 }=\sqrt{ 25 }=5$$
+
+However.
+
 
 ## Adding Vectors
 
