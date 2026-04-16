@@ -64,4 +64,7 @@ $$\vec{P}\cdot \vec{Q}=P_{x}Q_{x}+P_{y}Q_{y}+P_{z}Q_{z}$$
 
 The **cross product** is the **vector** **perpendicular** to the vectors in the cross product, and thus the **normal** to the plane containing them.
 
-$$|\vec{P}|$$
+$$|\vec{P}\times \vec{Q}|=PQ\sin \theta$$
+![[Pasted image 20260416155314.png]]
+
+$$$$
