@@ -13,7 +13,8 @@ The **magnitude** of a **vector** represents it's **size**. We can **find** the 
 in this example, the **magnitude** of this **vector** would be:
 $$\sqrt{ 4^2 + 3^2 }=\sqrt{ 25 }=5$$
 
-However.
+If we only have the **magnitude**, we can resolve the i and j components:
+
 
 
 ## Adding Vectors
