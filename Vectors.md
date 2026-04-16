@@ -51,8 +51,6 @@ $$v^2 = v_{x}^2 + v_{y}^2 + v_{z}^2$$
 
 ## Dot Product
 
-The **dot product** is the 
-
 ### Scalar
 
 
@@ -60,6 +58,7 @@ $$\vec{P}\cdot\vec{Q}=PQ\cos \theta$$
 
 ### Vector
 
-$$$$
+$$\vec{P}\cdot \vec{Q}=P_{x}Q_{x}+P_{y}Q_{y}+P_{z}Q_{z}$$
 
 ## Cross Product
+
