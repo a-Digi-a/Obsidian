@@ -75,4 +75,4 @@ $$= (P_y Q_z - P_z Q_y) \vec{i} + (P_z Q_x - P_x Q_z) \vec{j} + (P_x Q_y - P_y Q
 
 A **unit vector** is a vector with a **magnitude of one**
 
-You can get a u
+You can get a **unit** **vector** by **dividing** a **vectors** **components** by its **magnitude**
