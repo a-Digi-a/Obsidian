@@ -28,9 +28,11 @@ opposite = hypotenuse * sin
 **Adding vectors** show the **resultant force** that will be applied by the vectors added.
 
 To **add vectors**, simply **add** all of the **i** **components** together, **add** all of the **j** **components** together and **add** all of the **k** **components** together, just like adding variables! 
-This goes the same for **subtra
+
+This is the same for **subtraction**
 
 ## Directional Cosines
+
 
 
 ## Dot Product (Scalar)
