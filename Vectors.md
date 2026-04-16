@@ -53,6 +53,8 @@ $$v^2 = v_{x}^2 + v_{y}^2 + v_{z}^2$$
 
 
 
+$$\vec{P}\cdot\vec{Q}=PQ\cos \theta$$
+
 ## Dot Product
 
 ## Cross Product
