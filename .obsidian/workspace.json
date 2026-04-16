@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,10 +275,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6935f1b80ae7e41a",
+  "active": "429383d3644e2074",
   "lastOpenFiles": [
-    "Types of Bodies.md",
     "Newton's Laws.md",
+    "Types of Bodies.md",
     "Statics.md",
     "Electronics.md",
     "Hardening Linux.md",

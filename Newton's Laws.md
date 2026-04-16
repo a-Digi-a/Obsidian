@@ -23,4 +23,10 @@ The **equation** given by this Law is:
 
 If **two** **bodies** exert **forces** on each other, these **forces** have the **same** **magnitude** but **opposite** **directions**
 
-For every **action**, there is an **equal** and **opposite** reaction
+For every **action**, there is an **equal**, but **opposite** reaction
+
+## Where do Newton's Laws not Work?
+
+- Very **small** particles - **quantum mechanics**
+- Very **fast** particles - **special relativity**
+- Very **massive** particles - **general relativity**
