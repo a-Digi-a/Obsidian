@@ -32,12 +32,19 @@ Used in cases where the **deflection** is so small that it is **negligible**
 # Elastic
 ## Definition
 
-## Practically
+Under the action of a **force F** that does not exceed the elastic limit the body will **deform and stop**
+
+**Removing** the **force** allows the body to **return to its original shape**
 
 ## Examples
 
+- Rubber (rubber bands)
+- Steel (springs)
+
 # Fluid
 ## Definition
+
+**Deforms** under the action of a **force** as long as the force is app
 
 ## Practically
 
