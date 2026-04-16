@@ -8,7 +8,9 @@ They are usually denoted on the **Cartesian coordinate system**, with the letter
 
 ## Magnitude of a Vector and it's Components
 
-The **magnitude** of a **vector** represents it's **size**. 
+The **magnitude** of a **vector** represents it's **size**. We can **find** the magnitude by using the **Pythagorean Theorem**. 
+![[Pasted image 20260416134544.png]]
+in this example, the magnitude of this vector would be:
 
 ## Adding Vectors
 
