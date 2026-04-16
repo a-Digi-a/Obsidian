@@ -4,5 +4,8 @@
 ## What is a Vector?
 
 A **vector** is a **force** with both a **magnitude** and **direction**
+They are usually denoted on the **Cartesian coordinate system**, with the letters $i, j$ and $k$ denoting the $x, y$ and $z$ directions respectively.
 
-For example, 
+## Adding Vectors
+
+## Subtracting Vectors
