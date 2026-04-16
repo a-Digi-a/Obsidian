@@ -70,3 +70,9 @@ $$|\vec{P}\times \vec{Q}|=PQ\sin \theta$$
 $$\vec{P} \times \vec{Q} = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ P_x & P_y & P_z \\ Q_x & Q_y & Q_z \end{vmatrix}$$
 $$= \begin{vmatrix} P_y & P_z \\ Q_y & Q_z \end{vmatrix} \vec{i} + \begin{vmatrix} P_z & P_x \\ Q_z & Q_x \end{vmatrix} \vec{j} + \begin{vmatrix} P_x & P_y \\ Q_x & Q_y \end{vmatrix} \vec{k}$$
 $$= (P_y Q_z - P_z Q_y) \vec{i} + (P_z Q_x - P_x Q_z) \vec{j} + (P_x Q_y - P_y Q_x) \vec{k}$$
+
+## Unit Vectors
+
+A **unit vector** is a vector with a **magnitude of one**
+
+You can get a u

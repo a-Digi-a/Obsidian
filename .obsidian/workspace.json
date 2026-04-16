@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statics.md",
+                "file": "Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statics"
+              "title": "Vectors"
             }
           }
         ]
@@ -227,7 +227,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0660f1eb88bec806",
+  "active": "e7dbfc79642c213b",
   "lastOpenFiles": [
     "Statics.md",
     "Vectors.md",
