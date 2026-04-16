@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27a5fbb945a7fb55",
+        "id": "8d502e6fa7fdd13c",
         "type": "tabs",
         "children": [
           {
-            "id": "1d3c031bba13f436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electronics"
-            }
-          },
-          {
-            "id": "429383d3644e2074",
+            "id": "9693052b0fc91341",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,45 +22,17 @@
             }
           },
           {
-            "id": "6935f1b80ae7e41a",
+            "id": "371e6ed09cf5a921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton's Laws.md",
+                "file": "Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newton's Laws"
-            }
-          },
-          {
-            "id": "1b574635b1b58550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronic Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electronic Components"
-            }
-          },
-          {
-            "id": "c4e0bed2004f5769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics Terminology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electronics Terminology"
+              "title": "Vectors"
             }
           }
         ],
@@ -131,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ba81b2039a0d28b9",
@@ -250,8 +207,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d668fa3763486905",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -275,18 +243,20 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "429383d3644e2074",
+  "active": "371e6ed09cf5a921",
   "lastOpenFiles": [
-    "Newton's Laws.md",
-    "Types of Bodies.md",
     "Statics.md",
+    "Electronics Terminology.md",
+    "Electronic Components.md",
+    "Newton's Laws.md",
+    "Vectors.md",
     "Electronics.md",
+    "Variables in Python.md",
+    "Types of Bodies.md",
     "Hardening Linux.md",
     "Nodal Analysis.md",
     "Mesh Analysis.md",
-    "Electronic Components.md",
     "Basic electronics.md",
-    "Electronics Terminology.md",
     "attachments/Pasted image 20260403053210.png",
     "attachments/Pasted image 20260403053057.png",
     "attachments/Pasted image 20260403052908.png",
@@ -312,8 +282,6 @@
     "Turning Simultaneous Equations into Matrices.md",
     "Rust.md",
     "Bash Redirections and Other Operators.md",
-    "Bash.md",
-    "Bash Scripting.md",
     "attachments"
   ]
 }
