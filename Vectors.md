@@ -51,7 +51,7 @@ $$v^2 = v_{x}^2 + v_{y}^2 + v_{z}^2$$
 
 ## Dot Product
 
-The **dot product** is the magnitude 
+The **dot product** is the 
 
 ### Scalar
 
