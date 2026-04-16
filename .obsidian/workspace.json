@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newtons Laws.md",
+                "file": "Newton's Laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newtons Laws"
+              "title": "Newton's Laws"
             }
           },
           {
@@ -278,7 +278,7 @@
   "active": "6935f1b80ae7e41a",
   "lastOpenFiles": [
     "Types of Bodies.md",
-    "Newtons Laws.md",
+    "Newton's Laws.md",
     "Statics.md",
     "Electronics.md",
     "Hardening Linux.md",
