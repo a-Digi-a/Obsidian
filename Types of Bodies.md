@@ -44,9 +44,13 @@ Under the action of a **force F** that does not exceed the elastic limit the bod
 # Fluid
 ## Definition
 
-**Deforms** under the action of a **force** as long as the force is app
+**Deforms** under the action of a **force** as long as the force is applied
 
-## Practically
+There are **2 categories**:
+- **Liquids**: Do not fill the container uniformly
+- **Gases**: Fit the container almost uniformly
 
 ## Examples
 
+- **Liquids**: Water, Tar
+- **Gases**: Air, Helium
