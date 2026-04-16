@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d502e6fa7fdd13c",
+        "id": "bdb35017da180e16",
         "type": "tabs",
         "children": [
           {
-            "id": "9693052b0fc91341",
+            "id": "e7dbfc79642c213b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "Statics"
             }
-          },
-          {
-            "id": "eaf7e9f14a3bcf8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vectors"
-            }
-          },
-          {
-            "id": "a08636b737358fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accuracy and Approximation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accuracy and Approximation"
-            }
-          },
-          {
-            "id": "371e6ed09cf5a921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vectors"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,14 +227,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "eaf7e9f14a3bcf8f",
+  "active": "e7dbfc79642c213b",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260416155314.png",
+    "Vectors.md",
+    "Accuracy and Approximation.md",
     "Statics.md",
+    "attachments/Pasted image 20260416155314.png",
     "Types of Bodies.md",
     "Newton's Laws.md",
-    "Accuracy and Approximation.md",
-    "Vectors.md",
     "Untitled.md",
     "attachments/Pasted image 20260416143936.png",
     "attachments/Pasted image 20260416134544.png",
@@ -298,7 +255,6 @@
     "attachments/Pasted image 20260403031816.png",
     "Magnetic Fields.md",
     "Kirchhoff's Voltage Law.md",
-    "attachments/Pasted image 20260403022441.png",
     "Kirchhoff's Current Law.md",
     "Magnetic Memory.md",
     "Magnetism.md",
