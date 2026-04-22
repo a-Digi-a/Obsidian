@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "82d989165d9a50f5",
+    "id": "ca0e0782a11031ef",
     "type": "split",
     "children": [
       {
-        "id": "bdb35017da180e16",
+        "id": "ec034a5525680a50",
         "type": "tabs",
         "children": [
           {
-            "id": "e7dbfc79642c213b",
+            "id": "4985320285760f36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mesh Analysis.md",
+                "file": "Nodal Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mesh Analysis"
+              "title": "Nodal Analysis"
             }
           }
         ]
@@ -27,15 +27,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dd59ab4490e49ae2",
+    "id": "af78db07a0d5572b",
     "type": "split",
     "children": [
       {
-        "id": "6ebefc5d50321c5a",
+        "id": "5ad6af54859f74ac",
         "type": "tabs",
+        "dimension": 61.33540372670807,
         "children": [
           {
-            "id": "c0d5524c11b48732",
+            "id": "9be9dc3645e8d1e5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,15 +49,15 @@
             }
           },
           {
-            "id": "6d15bca6197ea13c",
+            "id": "0a3dac247f07d146",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#semester-1",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -65,81 +66,7 @@
             }
           },
           {
-            "id": "8acd82beae7fab53",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ba81b2039a0d28b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0660f1eb88bec806",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 315.5
-  },
-  "right": {
-    "id": "f79595b534cab953",
-    "type": "split",
-    "children": [
-      {
-        "id": "2ef64ab45d409259",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0db82ae9a8982897",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Types of Bodies.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Types of Bodies"
-            }
-          },
-          {
-            "id": "f73b7e1d31243548",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "281ae286670c2ff5",
+            "id": "9314bd532333d1c5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,7 +81,82 @@
             }
           },
           {
-            "id": "bb3830fe1b36226a",
+            "id": "a5e3d179118a46ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "98e4c30d9a115741",
+        "type": "tabs",
+        "dimension": 38.66459627329192,
+        "children": [
+          {
+            "id": "47adb655fe0789cd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "2bb6edb8f4476bf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b03cefc91bf5c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38bf30434f9e702",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "915046ae2aaa6797",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9d00a4e36efae79a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -168,22 +170,21 @@
             }
           },
           {
-            "id": "a88e4bfec8a2b281",
+            "id": "d98e6160f86e1c91",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
-            "id": "ef49529d1a48c146",
+            "id": "0d76a1dac21f49a5",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -191,27 +192,18 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "d668fa3763486905",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 215.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
@@ -222,33 +214,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7dbfc79642c213b",
+  "active": "4985320285760f36",
   "lastOpenFiles": [
-    "Kirchhoff's Voltage Law.md",
-    "Mesh Analysis.md",
-    "Magnetic Fields.md",
-    "Magnetism.md",
     "Vectors.md",
     "Statics.md",
-    "Accuracy and Approximation.md",
+    "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20260416155314.png",
-    "Types of Bodies.md",
-    "Newton's Laws.md",
-    "Untitled.md",
     "attachments/Pasted image 20260416143936.png",
     "attachments/Pasted image 20260416134544.png",
-    "Electronics Terminology.md",
-    "Electronic Components.md",
-    "Electronics.md",
-    "Variables in Python.md",
-    "Hardening Linux.md",
-    "Nodal Analysis.md",
-    "Basic electronics.md",
     "attachments/Pasted image 20260403053210.png",
     "attachments/Pasted image 20260403053057.png",
     "attachments/Pasted image 20260403052908.png",
@@ -256,15 +232,29 @@
     "attachments/Pasted image 20260403032032.png",
     "attachments/Pasted image 20260403031907.png",
     "attachments/Pasted image 20260403031816.png",
+    "Types of Bodies.md",
+    "Nodal Analysis.md",
+    "Newton's Laws.md",
+    "Mesh Analysis.md",
+    "Kirchhoff's Voltage Law.md",
     "Kirchhoff's Current Law.md",
-    "Magnetic Memory.md",
-    "Geomagnetism.md",
-    "File Sharing.md",
-    "Odds and Evens.md",
-    "LDAP.md",
-    "Admin Exam.md",
-    "Untitled",
-    "Common Programming Concepts in Rust.md",
+    "Electronics Terminology.md",
+    "Electronic Components.md",
+    "Basic electronics.md",
+    "Accuracy and Approximation.md",
+    "Shell.md",
+    "Running Bash Scripts.md",
+    "echo Command.md",
+    "Python Complex Numbers.md",
+    "cat Command.md",
+    "Magnetic Fields.md",
+    "Python Libraries.md",
+    "Matrix Scalar Multiplication.md",
+    "cd Command.md",
+    "Matrix Equality.md",
+    "Bash Redirections and Other Operators.md",
+    "Python Booleans.md",
+    "Magnetism.md",
     "attachments"
   ]
 }
