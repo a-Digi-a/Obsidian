@@ -6,15 +6,20 @@
       {
         "id": "6da69033e413ece6",
         "type": "tabs",
+        "dimension": 78.35820895522389,
         "children": [
           {
             "id": "b77375cce0b57fd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pwd Command.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pwd Command"
             }
           }
         ]
@@ -22,6 +27,7 @@
       {
         "id": "8c5699f1e16be76f",
         "type": "tabs",
+        "dimension": 21.64179104477612,
         "children": [
           {
             "id": "5c0d671f82b0883c",
@@ -95,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.69091033935547
   },
   "right": {
     "id": "29d86010b129bccb",

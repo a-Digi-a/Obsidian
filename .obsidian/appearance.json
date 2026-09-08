@@ -5,6 +5,7 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "bold-latex",
-    "math-color"
+    "math-color",
+    "noctalia"
   ]
 }
