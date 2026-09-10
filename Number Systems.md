@@ -26,9 +26,11 @@ $$10_{10} = 1010_{2} =(1*2^3)+(0*2^2)+(1*2^1)+(0*2^0)=8+0+2+0 = 10_{10}$$
 Hexadecimal is the number system many programs use, with a cipher of 16. The values of 10, 11, 12, 13, 14 and 15 are represented by A, B, C, D,  E and F respectively. The values of the places are: 
 
 $$\dots 16^3, 16^2, 16^1, 16^0, ., 16^{-1}, 16^{-2}, 16^{-3}\dots$$
-$$283_{10}=F$$
+$$283_{10}=011B_{16}=(0*16^3)+(1*16^2)+(1*16^1)+(11*16^0)=0+256+16+11=283_{10}$$
 
 chunks of 4
 # Octal
+
+
 
 chunks of 3 
