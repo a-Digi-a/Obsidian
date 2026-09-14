@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Systems.md",
+                "file": "Ohm's Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Systems"
+              "title": "Ohm's Law"
             }
           }
         ],
@@ -265,8 +265,9 @@
   },
   "active": "d5a9dc6e39b406c3",
   "lastOpenFiles": [
-    "Electronics.md",
     "Number Systems.md",
+    "Ohm's Law.md",
+    "Electronics.md",
     "Networking.md",
     "Data Types in C.md",
     "Printf() in C.md",
@@ -300,7 +301,6 @@
     "Readme.md",
     "Rational Numbers.md",
     "Python.md",
-    "Python Tuples.md",
-    "Python Strings.md"
+    "Python Tuples.md"
   ]
 }
