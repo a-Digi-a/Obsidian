@@ -1,7 +1,6 @@
 #electronics 
 
-**Superposition** is a way of analysing a circuit with 2 power/current sources (or one of both)
-
+**Superposition** is a way of analysing a circuit with more than one power/current source
 
 For example:
 ![[Pasted image 20260916172029.png]]
