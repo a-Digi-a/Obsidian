@@ -8,5 +8,6 @@
 
 # [[Nodal Analysis]]
 
+# [[Superposition]]
 # [[Magnetism]]
 
