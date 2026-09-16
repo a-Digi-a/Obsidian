@@ -13,3 +13,4 @@ The first step of using superposition is replacing the sources with their **idea
 1000 + 250
 1250 ohms 
 
+1
