@@ -60,3 +60,25 @@ Behaved as expected
 
 Behaved as expected
 
+# NAND Gate turned into AND
+| A   | B   | F   |
+| --- | --- | --- |
+| 0   | 0   | 0   |
+| 0   | 1   | 0   |
+| 1   | 0   | 0   |
+| 1   | 1   | 1   |
+
+Behaved as expected
+
+# NAND Gate turned into AND (disconnecting this time)
+
+0 means disconnected, not going to ground*
+
+| A   | B   | F   |
+| --- | --- | --- |
+| 0   | 0   | 1   |
+| 0   | 1   | 0   |
+| 1   | 0   | 0   |
+| 1   | 1   | 1   |
+
+- With both disconnected, th
