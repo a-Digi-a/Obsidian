@@ -104,3 +104,16 @@ F = (BC)A = ABC
 G = (AB)C = ABC
 
 Both F and G are the same, they are 3 way AND gates
+
+## Testing the Distributive Law
+
+| A   | B   | C   | Predicted F | Predicted G | F   | G   |
+| --- | --- | --- | ----------- | ----------- | --- | --- |
+| 0   | 0   | 0   | 0           | 0           | 0   | 0   |
+| 0   | 0   | 1   | 0           | 0           | 0   | 0   |
+| 0   | 1   | 0   | 0           | 0           | 0   | 0   |
+| 0   | 1   | 1   | 0           | 0           | 0   | 0   |
+| 1   | 0   | 0   | 0           | 0           | 0   | 0   |
+| 1   | 0   | 1   | 0           | 0           | 0   | 0   |
+| 1   | 1   | 0   | 0           | 0           | 0   | 0   |
+| 1   | 1   | 1   | 1           | 1           | 1   | 1   |
