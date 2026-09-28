@@ -220,13 +220,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "b110343ed49d26d7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,7 +255,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab0225bd8156522f",
+  "active": "b110343ed49d26d7",
   "lastOpenFiles": [
     "Matrices.md",
     "Digital and Analogue Electronics 1 Lab 1.md",
