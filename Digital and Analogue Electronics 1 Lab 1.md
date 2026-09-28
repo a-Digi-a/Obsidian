@@ -70,15 +70,14 @@ Behaved as expected
 
 Behaved as expected
 
-# NAND Gate turned into AND (disconnecting this time)
-
-0 means disconnected, not going to ground*
+# 2 Input NAND Gate (disconnecting this time)
 
 | A   | B   | F   |
 | --- | --- | --- |
-| 0   | 0   | 1   |
-| 0   | 1   | 0   |
-| 1   | 0   | 0   |
-| 1   | 1   | 1   |
+| x   | x   | 1   |
+| x   | 1   | 1   |
+| 1   | x   | 1   |
+| 1   | 1   | 0   |
 
-- With both disconnected, th
+- With both disconnected, the LED initially turns on, then slowly turns off
+- 
