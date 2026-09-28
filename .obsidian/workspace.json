@@ -255,10 +255,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "b110343ed49d26d7",
+  "active": "ab0225bd8156522f",
   "lastOpenFiles": [
-    "Matrices.md",
+    "Bash Functions.md",
+    "Bash Loops.md",
     "Digital and Analogue Electronics 1 Lab 1.md",
+    "Matrices.md",
     "Turning Simultaneous Equations into Matrices.md",
     "Matrix Equality.md",
     "Matrix Addition.md",
@@ -283,8 +285,6 @@
     "Rust.md",
     "Data Types in Rust.md",
     "Common Programming Concepts in Rust.md",
-    "Variables and Mutability in Rust.md",
-    "Maths.md",
     "attachments/Pasted image 20260416155314.png",
     "attachments/Pasted image 20260416143936.png",
     "attachments/Pasted image 20260416134544.png",
