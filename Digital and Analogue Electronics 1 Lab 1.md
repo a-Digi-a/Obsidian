@@ -121,3 +121,7 @@ Both F and G are the same, they are 3 way AND gates
 
 F = (AC)+(AB) = A(B+C)
 G = A(B+C)
+
+# Boolean Equations
+
+
