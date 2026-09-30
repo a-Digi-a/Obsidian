@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Python Dictionaries"
             }
+          },
+          {
+            "id": "fc64c72e709f7283",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -227,7 +242,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e7dbfc79642c213b",
+  "active": "fc64c72e709f7283",
   "lastOpenFiles": [
     "Mesh Analysis.md",
     "Kirchhoff's Voltage Law.md",
