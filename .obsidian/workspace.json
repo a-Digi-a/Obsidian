@@ -32,9 +32,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.13.7"
             }
+          },
+          {
+            "id": "e18b3fbc1f62ebcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS2 Tryouts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS2 Tryouts"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,8 +256,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "fc64c72e709f7283",
+  "active": "e18b3fbc1f62ebcd",
   "lastOpenFiles": [
+    "CS2 Tryouts.md",
     "Mesh Analysis.md",
     "Kirchhoff's Voltage Law.md",
     "Magnetic Fields.md",
@@ -254,7 +269,6 @@
     "attachments/Pasted image 20260416155314.png",
     "Types of Bodies.md",
     "Newton's Laws.md",
-    "Untitled.md",
     "attachments/Pasted image 20260416143936.png",
     "attachments/Pasted image 20260416134544.png",
     "Electronics Terminology.md",
