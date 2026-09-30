@@ -1,50 +1,52 @@
 {
   "main": {
-    "id": "82d989165d9a50f5",
+    "id": "581e9a39f212e3c7",
     "type": "split",
     "children": [
       {
-        "id": "bdb35017da180e16",
+        "id": "6c1fd79daea23807",
         "type": "tabs",
         "children": [
           {
-            "id": "e7dbfc79642c213b",
+            "id": "1d65267869ca2b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Dictionaries.md",
+                "file": "Electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Dictionaries"
+              "title": "Electronics"
             }
           },
           {
-            "id": "fc64c72e709f7283",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
-            "id": "e18b3fbc1f62ebcd",
+            "id": "c207308024953dc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS2 Tryouts.md",
+                "file": "Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS2 Tryouts"
+              "title": "Matrices"
+            }
+          },
+          {
+            "id": "ab0225bd8156522f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital and Analogue Electronics 1 Lab 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital and Analogue Electronics 1 Lab 1"
             }
           }
         ],
@@ -54,15 +56,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dd59ab4490e49ae2",
+    "id": "0a02d9e99fd4e8b5",
     "type": "split",
     "children": [
       {
-        "id": "6ebefc5d50321c5a",
+        "id": "c2b682aa99614827",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d5524c11b48732",
+            "id": "b28c96425c1caeb3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +79,7 @@
             }
           },
           {
-            "id": "6d15bca6197ea13c",
+            "id": "a4bd059a3f85b174",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,54 +96,38 @@
             }
           },
           {
-            "id": "8acd82beae7fab53",
+            "id": "c868c2c8503824f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ba81b2039a0d28b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0660f1eb88bec806",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 200
   },
   "right": {
-    "id": "f79595b534cab953",
+    "id": "635d034f2296bbc4",
     "type": "split",
     "children": [
       {
-        "id": "2ef64ab45d409259",
+        "id": "3387564c3573d57b",
         "type": "tabs",
         "children": [
           {
-            "id": "0db82ae9a8982897",
+            "id": "081d115cb139059b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Bodies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,11 +137,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Types of Bodies"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f73b7e1d31243548",
+            "id": "2e38bad9a82b8267",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -168,7 +154,7 @@
             }
           },
           {
-            "id": "281ae286670c2ff5",
+            "id": "54566354c48e9430",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,7 +169,7 @@
             }
           },
           {
-            "id": "bb3830fe1b36226a",
+            "id": "eafe5bd6e816cc08",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -197,7 +183,7 @@
             }
           },
           {
-            "id": "a88e4bfec8a2b281",
+            "id": "e7e0bcc858753dba",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -208,11 +194,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
-            "id": "ef49529d1a48c146",
+            "id": "0b43cd3cb67db7e1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -222,7 +208,7 @@
             }
           },
           {
-            "id": "d668fa3763486905",
+            "id": "b110343ed49d26d7",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -236,64 +222,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "bases:Create new base": false
     }
   },
-  "active": "e18b3fbc1f62ebcd",
+  "active": "ab0225bd8156522f",
   "lastOpenFiles": [
-    "CS2 Tryouts.md",
-    "Mesh Analysis.md",
-    "Kirchhoff's Voltage Law.md",
-    "Magnetic Fields.md",
-    "Magnetism.md",
-    "Vectors.md",
-    "Statics.md",
-    "Accuracy and Approximation.md",
+    "attachments/Pasted image 20260928163447.png",
+    "attachments/Pasted image 20260928163240.png",
+    "attachments/Pasted image 20260928163233.png",
+    "attachments/Pasted image 20260928162051.png",
+    "attachments/Pasted image 20260928161212.png",
+    "attachments/Pasted image 20260928155301.png",
+    "Bash Commands and Utilities.md",
+    "Digital and Analogue Electronics 1 Lab 1.md",
+    "Bash Functions.md",
+    "Bash Loops.md",
+    "Matrices.md",
+    "Turning Simultaneous Equations into Matrices.md",
+    "Matrix Equality.md",
+    "Matrix Addition.md",
+    "Matrix Subtraction.md",
+    "Matrix Scalar Multiplication.md",
+    "Matrix Multiplication.md",
+    "Admin Exam.md",
+    "File Sharing.md",
+    "LDAP.md",
+    "Hardening Linux.md",
+    "Superposition.md",
+    "Bash.md",
+    "Bash Scripting.md",
+    "Bash Arrays.md",
+    "Running Bash Scripts.md",
+    "Bash Shebang.md",
+    "attachments/Pasted image 20260916172029.png",
+    "attachments/Pasted image 20260916171556.png",
+    "Electronics.md",
+    "Basic electronics.md",
+    "Rust.md",
+    "Data Types in Rust.md",
     "attachments/Pasted image 20260416155314.png",
-    "Types of Bodies.md",
-    "Newton's Laws.md",
     "attachments/Pasted image 20260416143936.png",
     "attachments/Pasted image 20260416134544.png",
-    "Electronics Terminology.md",
-    "Electronic Components.md",
-    "Electronics.md",
-    "Variables in Python.md",
-    "Hardening Linux.md",
-    "Nodal Analysis.md",
-    "Basic electronics.md",
-    "attachments/Pasted image 20260403053210.png",
-    "attachments/Pasted image 20260403053057.png",
-    "attachments/Pasted image 20260403052908.png",
-    "attachments/Pasted image 20260403032112.png",
-    "attachments/Pasted image 20260403032032.png",
-    "attachments/Pasted image 20260403031907.png",
-    "attachments/Pasted image 20260403031816.png",
-    "Kirchhoff's Current Law.md",
-    "Magnetic Memory.md",
-    "Geomagnetism.md",
-    "File Sharing.md",
-    "Odds and Evens.md",
-    "LDAP.md",
-    "Admin Exam.md",
-    "Untitled",
-    "Common Programming Concepts in Rust.md",
     "attachments"
   ]
 }
