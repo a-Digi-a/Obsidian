@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bdb35017da180e16",
+        "id": "ed5341f56196f382",
         "type": "tabs",
         "children": [
           {
-            "id": "e7dbfc79642c213b",
+            "id": "85305c4c61bd0f0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Dictionaries.md",
+                "file": "Digital and Analogue Electronics 1 Lab 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Dictionaries"
-            }
-          },
-          {
-            "id": "fc64c72e709f7283",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
-            "id": "e18b3fbc1f62ebcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accuracy and Approximation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accuracy and Approximation"
+              "title": "Digital and Analogue Electronics 1 Lab 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,10 +229,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e18b3fbc1f62ebcd",
+  "active": "85305c4c61bd0f0a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Python Dictionaries.md",
     "Accuracy and Approximation.md",
+    "conflict-files-obsidian-git.md",
     "Electronic Components.md",
     "Electronics.md",
     "CS2 Tryouts.md",
@@ -293,7 +267,6 @@
     "Variables in Python.md",
     "Hardening Linux.md",
     "Nodal Analysis.md",
-    "Basic electronics.md",
     "Untitled",
     "attachments"
   ]
