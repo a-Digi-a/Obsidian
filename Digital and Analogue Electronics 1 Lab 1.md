@@ -1,4 +1,4 @@
-`#electronics 
+#electronics 
 
 
 # Logic Gate Circuits
