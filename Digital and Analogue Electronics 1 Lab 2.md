@@ -25,5 +25,5 @@
 
 | LED Colour | Turn on Voltage (V) |
 | ---------- | ------------------- |
-| Blue       |                     |
-|            |                     |
+| Blue       | 2.7                 |
+| Red        | 1.9                 |
