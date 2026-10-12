@@ -16,7 +16,9 @@
 | 0.671        | 6            | 10           | 1.4            |
 | 0.678        | 7            | 15           | 1.9            |
 
-| Actual Measured Reading | Value |
-| ----------------------- | ----- |
-| Supply Voltage (V)      |       |
-| Resistor Value ()       |       |
+| Actual Measured Reading            | Value |
+| ---------------------------------- | ----- |
+| Supply Voltage (V)                 | 3.57  |
+| Resistor Value (Ohms)              | 1000  |
+| Measured Diode Forward Voltage (V) | 0.638 |
+| Measured Diode Current (mA)        | 3     |
