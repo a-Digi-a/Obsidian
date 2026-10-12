@@ -15,3 +15,8 @@
 | 0.664        | 5            | 9            | 1.3            |
 | 0.671        | 6            | 10           | 1.4            |
 | 0.678        | 7            | 15           | 1.9            |
+
+| Actual Measured Reading | Value |
+| ----------------------- | ----- |
+| Supply Voltage (V)      |       |
+| Resistor Value ()       |       |
