@@ -22,3 +22,8 @@
 | Resistor Value (Ohms)              | 1000  |
 | Measured Diode Forward Voltage (V) | 0.638 |
 | Measured Diode Current (mA)        | 3     |
+
+| LED Colour | Turn on Voltage (V) |
+| ---------- | ------------------- |
+| Blue       |                     |
+|            |                     |
