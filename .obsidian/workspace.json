@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Digital and Analogue Electronics 1 Lab 1"
             }
+          },
+          {
+            "id": "c0c41f6fba120639",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +242,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "85305c4c61bd0f0a",
+  "active": "c0c41f6fba120639",
   "lastOpenFiles": [
     "fucking dying.md",
     "Digital and Analogue Electronics 1 Lab 1.md",
