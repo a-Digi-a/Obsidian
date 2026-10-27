@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrices.md",
+                "file": "Python Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrices"
+              "title": "Python Lists"
             }
           }
         ],
@@ -286,8 +286,8 @@
   },
   "active": "af9b36c4f38d81ee",
   "lastOpenFiles": [
-    "Matrix Equality.md",
     "Matrices.md",
+    "Matrix Equality.md",
     "Matrix Multiplication.md",
     "Matrix Scalar Multiplication.md",
     "Digital and Analogue Electronics Lab 3.md",
