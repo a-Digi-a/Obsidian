@@ -24,3 +24,11 @@
 
 # Reset Button
 - Connected a button to VCC. This button was wired to both reset pins of the counters. A 100k ohm pull down resistor was wired from both of these reset pins to ground.
+
+
+| R   | S   | Q   | Q'  |
+| --- | --- | --- | --- |
+| 0   | 0   |     |     |
+| 0   | 1   |     |     |
+| 1   | 0   |     |     |
+| 1   | 1   |     |     |
