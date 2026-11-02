@@ -37,13 +37,13 @@
 
 # J-K Flip Flop
 
-| R   | S   | Q      | Q'     | P Q | P Q' |
+| J   | K   | Q      | Q'     | P Q | P Q' |
 | --- | --- | ------ | ------ | --- | ---- |
 | 0   | 0   | 1 or 0 | 0 or 1 |     |      |
 | 0   | 1   | 0      | 1      |     |      |
 | 1   | 0   | 1      | 0      |     |      |
 | 1   | 1   | Flips  | Flips  |     |      |
-Both LED's are always the opposite of eachother. When set to 0 0, it remembers the last LED that wa
+Both LED's are always the opposite of eachother. When set to 0 0, it remembers the last LED that was on. For example, if J is 1 and K is 0, Q would be 1 and Q' would be 0. When the inputs are swapped to J = 0 and K = 0, Q would still be 1 and Q' would be 0.
 
 |     |     |     |     |           |       |        |       |
 | --- | --- | --- | --- | --------- | ----- | ------ | ----- |
