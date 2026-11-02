@@ -5,6 +5,17 @@
 - connected pin 5 of the digit counter to pin 12 of the tens counter.
 - This was discovered in the datasheet\
 
+# Octal
+
+0000 - 0
+0001 - 1
+0010 - 2
+0011 - 3
+0100 - 4
+0101 - 5
+0110 - 6
+0111 - 7
+1000 - 8
 
 # Reset Button
 - Connected a button to VCC. This button was wired to both reset pins of the counters. A 100k ohm pull down resistor was wired from both of these reset pins to ground.
