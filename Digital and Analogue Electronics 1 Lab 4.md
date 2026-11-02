@@ -17,5 +17,9 @@
 0111 - 7
 1000 - 8
 
+- Disconnect the wire from pin 7 of the counter to pin 6 of the decoder
+- Connect pin 6 of the decoder to ground 
+- Connect Q4 (pin 7) to the reset pin (pin 14) and to
+
 # Reset Button
 - Connected a button to VCC. This button was wired to both reset pins of the counters. A 100k ohm pull down resistor was wired from both of these reset pins to ground.
