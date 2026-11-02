@@ -25,6 +25,7 @@
 # Reset Button
 - Connected a button to VCC. This button was wired to both reset pins of the counters. A 100k ohm pull down resistor was wired from both of these reset pins to ground.
 
+# S-R Latch
 
 | R   | S   | Q   | Q'  | P Q | P Q' |
 | --- | --- | --- | --- | --- | ---- |
@@ -32,3 +33,6 @@
 | 0   | 1   | 0   | 1   |     |      |
 | 1   | 0   | 1   | 0   |     |      |
 | 1   | 1   | 0   | 0   |     |      |
+|     |     |     |     |     |      |
+
+# J-K Flip Flop
