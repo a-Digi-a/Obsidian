@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Digital and Analogue Electronics 1 Lab 2"
             }
+          },
+          {
+            "id": "95db6b123231e447",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "38598e25b14beda0",
+  "active": "95db6b123231e447",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md"
   ]
