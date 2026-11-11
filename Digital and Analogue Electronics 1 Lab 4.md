@@ -1,4 +1,4 @@
-# Connecting the two circuits (count to 99)
+q# Connecting the two circuits (count to 99)
 - disconnected the 555 timer from one of the circuits
 - connected the breadboard power rails together.
 - connected pin 4 of the digit counter to pin 13 of the tens counter.
