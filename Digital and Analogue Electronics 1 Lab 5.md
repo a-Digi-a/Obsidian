@@ -46,3 +46,41 @@ void loop() {
 }
 ```
 
+
+```C
+// Analog Read and Serial Write
+
+int ldrPin = A0;    // select the input pin A0 for the LDR input
+int ldrValue = 0;   // variable to store the value coming from the LDR
+int ledPin = 11;
+int invledPin = 12;
+
+void setup() {
+  pinMode(ldrPin, INPUT);  // Set up the pin as an input pin
+  Serial.begin(9600);      // Set up the serial output at 9600 baud
+}
+
+void loop() {
+  // read the value from the LDR. This is a 10-bit ADC
+  // so there will be 2^10 values (1024), values 0 to 1023.
+  ldrValue = analogRead(ldrPin);    
+  
+  // send to the serial output the value
+  Serial.print("LDR:");  // no 'ln' as I don't want a new line yet
+  Serial.println(ldrValue); // print out the LDR value
+  
+  int lightValue = 255-(ldrValue/4);
+  lightValue = map(lightValue, 150, 220, 0, 255);
+  Serial.print("Light Value:");  // no 'ln' as I don't want a new line yet
+  Serial.println(lightValue); // print out the LDR value
+
+  int invlightValue = ldrValue/4;
+  invlightValue = map(invlightValue, 40, 100, 0, 255);
+  Serial.print("Inverted Light Value:");  // no 'ln' as I don't want a new line yet
+  Serial.println(invlightValue); // print out the LDR value
+
+  analogWrite(ledPin, lightValue);
+  analogWrite(invledPin, invlightValue);
+    
+}
+```
