@@ -36,7 +36,12 @@ void loop() {
   Serial.print("LDR:");  // no 'ln' as I don't want a new line yet
   Serial.println(ldrValue); // print out the LDR value
   
-  analogWrite(ledPin, 255-(ldrValue/4));
+  int lightValue = 255-(ldrValue/4);
+
+  Serial.print("Light Value:");  // no 'ln' as I don't want a new line yet
+  Serial.println(lightValue); // print out the LDR value
+
+  analogWrite(ledPin, lightValue);
     
 }
 ```
