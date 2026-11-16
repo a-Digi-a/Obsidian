@@ -13,3 +13,4 @@ Torch value - 1k ohms
 R = sqrt(Rmin * Rmax)
 R = 5477.225575
 we used 2.2k and 3.3k ohm resistors in series
+![[Pasted image 20261116150106.png]]
