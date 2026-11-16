@@ -218,7 +218,7 @@ display(ldrValue);  // display 0, then 1, then 2... then 9.
 
 int ldrPin = A0;
 int ldrValue = 0;
-
+int count = 0;
 void setup()  { 
 // need to set up 7 pins for our 7-seg display - all as outputs
 for(int i=2; i<=8; i++){  // pins 2 to 8 (i.e. 7 pins)
@@ -271,11 +271,8 @@ digitalWrite(8,g);
 
 // The loop() function will be called over-and-over, forever!
 void loop()  { 
-
 //display(ldrValue);  // display 0, then 1, then 2... then 9.
 // count from 0 to 9 each time the loop() function is called
-int count = 0;
-while(true){
 ldrValue = analogRead(ldrPin);
 ldrValue = map(ldrValue, 0, 700, 0, 9); // Map to 700 as that was around the highest we got the LDR to go
 if (ldrValue >= 5){
@@ -293,6 +290,5 @@ else if (count < 0){
 display(count);
 Serial.println(ldrValue);
 delay(1000); // wait 1 second between each count
-}
 }
 ```
