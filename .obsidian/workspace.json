@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Digital and Analogue Electronics 1 Lab 4"
             }
+          },
+          {
+            "id": "7838f34917f7aa94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital and Analogue Electronics 1 Lab 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital and Analogue Electronics 1 Lab 5"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -298,10 +312,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f069131b224292a",
+  "active": "7838f34917f7aa94",
   "lastOpenFiles": [
-    "Digital and Analogue Electronics 1 Lab 3.md",
     "Digital and Analogue Electronics 1 Lab 4.md",
+    "Digital and Analogue Electronics 1 Lab 5.md",
+    "Digital and Analogue Electronics 1 Lab 3.md",
     "Python Lists.md",
     "Matrices.md",
     "Matrix Equality.md",
@@ -331,7 +346,6 @@
     "Hardening Linux.md",
     "Superposition.md",
     "Bash.md",
-    "Bash Scripting.md",
     "attachments/Pasted image 20260916172029.png",
     "attachments/Pasted image 20260916171556.png",
     "attachments/Pasted image 20260416155314.png",
